@@ -1,0 +1,129 @@
+"The Battle for Helm's Deep is over. The battle for
+ MIDDLE EARTH is about to begin..."
+               /\_______________________________              
+      /\======/ /_______________________________\     
+      \/======\ \_______________________________/   
+               \/ 				      
+             _   _      __      __  __   _ ___     
+     /\/\ I l \ l \ l  I__     I__ /  \ I_) I  I__I        
+     I  I I l_/ l_/ l_,I__     I__ I**I I \ I  I  I    
+                     ___        ___
+                    /   \      /   \                         
+                       /       l   l		              
+                     /___,  O  \___/
+
+
+Middle Earth 2.0: Heroes of Might and Magic III, RoE
+Based on the Lord of the Rings
+author:Lord Hoberg XVII
+(hoborgxvii@aol.com)
+
+This is the new and long-awaited version of the original 
+Middle Earth map and contains substantial improvements 
+and corrections. 
+
+Map type:Multiplayer (up to 8) or single Player.
+Difficulty:Expert
+Map size:Giant (144x144), Two Level Map
+Palyers:All available:
+	1(Red) Hobbits of the Shire
+	2(Blue) Men of Gondor
+	3(Tan) Dwarves of Erebor
+	4(Green) Orcs of Moria
+	5(Orange) Elves and Gandalf
+	6(Purple) Men of Rohan
+	7(Teal) Orcs of Saruman
+	8(Pink) Men and Orcs of Sauron
+Teams:(1,3,5),(2,6),(4,7,8) Please forgive the alliances. 
+	Accuracy oft must be sacrificed for gameplay.
+Special Victory: Transport the Ring of "Vitality" to Mount 
+	Doom Inferno at(125,92,0) (destroy or claim)
+Special Loss:None
+
+
+
+
+********************* *  * OVERVIEW *  * ********************
+
+	In contrast to most Lord of the Rings based scenarios,
+ Middle Earth depicts the conflicting factions and massive 
+ battles of the Third Age as opposed to a single
+ adventure. As a map, Middle Earth presents you with a vast
+ array of strategic choices. You must take your place as the
+ head of an emerging Third Age faction and lead them to
+ greatness through an age of barbaric medieval warfare across
+ well detailed battlefields, from the shifting sands of Harad
+ to the dismal wastes north of Arnor. The most obvious path to
+ victory lies in finding the Ring of Power (that is, vitality)
+ and delivering the priceless artifact to Mount Doom, either 
+ to destory it or to reclaim it. In addition, certain factions
+ (the Elves, for instance) have access to Valinor, the Land of
+ the Gods, and in desperation they may call upon the army of
+ the Valar for aid against the forces of darkness, though the
+ way there is long and dangerous. This is no place for the
+ faint-hearted, this is MIDDLE EARTH.
+
+Note:The factions do not start with equal forces. However, most of
+ them have a balance of initial forces and  enemies. Sauron, for]
+ instance, begins with four cities (three, actually, for Mount
+ Doom can not be built at) and four heroes, but he has five enemy
+ factions to battle.The dwarves and hobbits begin with two cities
+ and meager forces, but are in isolated corners and not likely to
+ be attacked for a while. Saruman has only one city and one hero,
+ as well as plenty of enemies, but receives reinforcements
+ regularly and has a good number of minions.
+
+
+
+
+********** *  * CHANGES FROM ORIGINAL MIDDLE EARTH *  * **********
+
+	This is the new and improved version of the original
+ Middle Earth map, and quite frankly is thirteen times better.
+ Here are some of the additions/corrections included:
+	1. New Loctaions, including Numenor, the Glittering Caves,
+		 and the Blue Mountain Mines
+	2. A detailed undergroud layer, with more resources,
+		 monsters, and a few surprises
+	3. All artifacts and resources are now pre-defined,
+		 to reduce the chances of the AI getting tbe Ring
+ 		 of "Vitality" as a random artifact in the
+		 beginning of the game.
+	4. More diverse landscapes, with new patches of terrain
+		 and better forests and mountains
+	5. New rumors and timed events to add to the Middle Earth
+		 experience
+	6. Nations' forces adjusted: 
+		Dwarven free resources and creatures reduced.
+		Saruman now gets reinforcements periodically, to
+			 compensate for having only one town.
+		Sauron gets tribute and some reinforcements, but
+			 starts with less forces in Harad.
+	7. More resources lying around (Lack of these used to be
+			 a problem.)
+	8. Existing locations adjusted:
+		Dol Guldur is now accessible other than from Mordor.
+		Less Dwarf Hovels in the Shire (There used to be
+			 too many of them.)
+		Harad more detailed
+		More objects and terrain in Valinor
+		Moria and all other caves redone, with much more
+			 detail.
+		The orc town Khazad Dum is now Moria, and Khazad
+			 Dum is a seperate town. (unclaimed)
+	9. And much, much more!
+
+
+
+
+***********************  *   * ET CETERA *  * ********************
+
+Loading: Save this file to Program Files\3DO\Heores3\Maps
+
+Treasure Issues: Seek the Ring of "Vitality" under the Misty
+Mountains, near Gollum's Lake.
+
+Now start up Heroes III, grab Sting or Narsil, and set forth
+to conquer MIDDLE EARTH 2.0!
+
+

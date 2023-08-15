@@ -1,0 +1,16 @@
+Middlerealm
+
+Map for shadow of death
+
+Author: Mikael wallin, Sweden
+
+Map size: large, with a little bit underground
+Map difficulty: Expert
+Map special win: Conquer all
+Map special loss: Lose all
+
+Description:
+A balanced,detailed map fitted for competitive play with at most 6 players.
+All players starts equal, but the fortress can get to its second town faster than the others, therefore getting a little advantage.
+
+Enjoy!(and please mail me your opinions!)

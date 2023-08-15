@@ -1,0 +1,14 @@
+Nazwa mapy: Ameryka pó³nocna
+Wersja mapy: AB
+Autor: Jêdrzej "Faramir" Napiecek 
+E-mail: faramir_13@poczta.onet.pl
+Data ukoñczenia mapy: 2.05.2002r.
+Rozmiar: XL
+Stopieñ trudnoœci: wysoki
+Iloœæ graczy: 8
+Warunek zwyciêstwa: zniszczyæ wszystkich przeciwników
+Warunek przegranej: utrata wszystkich miast i bohaterów
+
+Opis: Ameryka Pó³nocna - bogaty kontynent wkoñcu pozna gorzki smak wojny...
+
+Uwagi: mapa zosta³a stworzona z myœl¹ o trybie multiplayer, a oprócz tego, by³a jedn¹ z pierwszych stworzonych przez autora, na której to uczy³ siê on obs³ugi edytora HoMM3, czyli proszê nie spodziewaæ siê jakiejœ wspaima³ej produkcji.

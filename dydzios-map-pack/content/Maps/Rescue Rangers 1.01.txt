@@ -1,0 +1,27 @@
+   ____  __  __   _  __  ___    __   __
+  /  _/ / /_/ /  / |/ / / . |  /. \ / /
+ /  /_ / __  /  / _  / / _  | / _ / \ \
+ |___//_/ /_/  /_//_/ /_/ |_|/_/    /_/
+    HTTP://WWW.CELESTIALHEAVENS.COM                          
+
+-------------------
+TEST MAP SUBMISSION
+-------------------
+
+Map Name:      [Rescue Rangers 1.01]
+Author:        [Joni/Spirou]
+E-mail Address:[jmyyryla@lut.fi]
+Version:       [1.01]
+
+Map Type:      [Multiplayer, Singleplayer][1-2 Humans Only, 6-7 Computer Only]
+Map Size:      [Extra-Large, with Underground]
+Game Version:  [HOMM3 Shadow of Death]
+Language:      [English / Finnish]
+
+Special Win:   [NONE]
+Special Loss:  [NONE]
+Special Other: [NONE]
+
+Description:   [This map is designed especially for two human players to match against each others & computers, so it doesn´t work that good for a single playing]
+
+Additional Info: [I´ve done this map something like 7 years ago (1998), so the "humour" in it is pretty childish]

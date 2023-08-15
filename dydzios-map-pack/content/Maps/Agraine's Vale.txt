@@ -1,0 +1,33 @@
+
+                   HEROES III SCENARIO
+
+Map Name:	Agraine's Vale (Agraine's Vale.h3m)
+Version:	1.0	
+Map Maker:	Laelth (Alan Taylor)
+E-mail Address:	laelth@vandea.com
+Domain:         vandea.com
+
+Map Type:	Single or Multi (4 Human)
+Map Size:	M (with underground)
+Game Version:	HOMM III (ROE)
+Language:	English
+
+Description:	Four powerful houses seek to control Agraine's Vale, a 
+		heavily populated valley filled with weak towns that are 
+		virtually indefensible.  Only the house that builds the 
+		grail can win the hearts and minds of the valley's 
+		citizens and, thereby, control Agraine's Vale.
+	
+
+Special Win:	Build the grail structure.
+Special Loss:	None.
+
+Difficulty:	Expert.
+
+Notes:		My last, most difficult, and probably my _best_ H3 map, 
+		Agraine's vale tells a story and requires skill to win. 
+		Note that in some versions of HOMM 3, one has to scroll 
+		up (in the new scenario menu) in order to find this map. 
+		"All for One" gets listed on top, by default, while 
+		Agraine's Vale will show up above it only if the scroll 
+		bar is used.  

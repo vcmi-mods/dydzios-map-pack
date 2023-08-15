@@ -1,0 +1,193 @@
+
+                   HEROES III MAP SUBMISSION
+
+Map Name:	Angelic Pride:Eps.IV,V,VI (ANGELI~1.H3M)	
+Date:		Updated!!!!! September 22, 1999
+Map Maker:	Jason Russell
+E-Mail Address:	jrussell@quark.physics.uwo.ca
+
+Map Size:	XL with Underground
+Map Type:	Singleplayer [1 Human Only, 3 Computers Only]
+Language:	English
+
+Description:	Angels have left the land! King Graven must learn the reason behind this
+		and acquire at least one angel.
+
+		Tensions mount as Overlords begin to creep into the land.
+
+		Ivor and Caitlin must survive and reach the King!
+
+Special Win:	Acquire at least one Angel
+Special Loss:	Lose the Hero "Ivor"
+
+Special Other:	If Ivor OR Caitlin dies, surrenders or retreats BEFORE they reach the King,
+		the game is Unplayable! Make sure they survive until then!
+		
+
+		BUG WARNING! The Loss Condition sometimes changes to "Orrin" for no
+		apparent reason in the middle of the game. (HOMMIII Bug???)
+		
+		Orrin is safely tucked away in a jail at (0,0,0)
+
+		If the Loss Condition does change, remember that it is "Ivor" who cannot
+		die, surrender nor retreat.
+
+Narrative:	Episodes IV, V, VI
+
+		King Graven has returned penniless to his own land. He notices that all
+		the Angels have left for no apparent reason.
+		
+		Meanwhile, the Overlords have been creeping in under the ground and will
+		soon pose a threat. He has sent Caitlin, a good scout, to investigate.
+
+		Now, he awaits the arrival of Caitlin with news of the underground and
+		for Ivor, a Ranger from the South with an important message from his Queen.
+
+		Also, as he waits, King Graven must eliminate a Necromancer problem on 
+		his western and eastern borders...
+		
+
+Play-Testers:	name:  	Nereus
+		email: 	Ancient_Mariner@att.net
+
+		name:	R.G. Stockwell
+		email:	stockwell@colorado-research.com
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		This map is set at Impossible, but it IS Possible.
+
+		There are enough resources around to build a good, strong Castle.
+
+	Episode IV: The Gathering
+
+		Main Enemy: Red (Goes approx. from Month 1 to 3)
+
+		King Graven is good on Ballistics early on, use it to kill the Pikemen and
+		Archers that guard the Wood and Ore Mines
+
+		Build a Fort/Town Hall in the main Castle by the end of week 1.
+
+		Ivor can capture the Gold Mine on the Cape.
+
+		Have Ivor capture the Rampart on the Cape guarded by 2 Nagas and 
+		one of each other Tower creature.
+			
+		Protect Ivor's Elves. Sacrifice as few as possible.
+			
+		Get the spells from the shrines and the dwarves from the two 
+		Dwarf Dwellings.
+			
+		Do Not worry about the Giants that protect the obelisk until later.
+
+		Have Caitlin prepare to defeat the 12 Minitaur Kings that protect 
+		the Black Tent.
+			
+		Use Visions wisely. Some will join Caitlin, some will not.
+			
+		Protect the Ogre mage!!!! Bloodlust is crucial for the Champion.
+			
+		Check the hole in one of the prison cells.
+			
+		Cure the Champion when needed.
+		The ogres in the guard training room will join Caitlin, rescue them!
+
+		The ONLY way off the Cape is by retrieving the Seer Artifact found in the Waste Lands.
+
+		During the first month, Graven can acquire all his Castle Dwellings and Mines.
+
+		Red Necromancers will start to show up by the End of the First Month.
+
+		By the beginning of the second month, Caitlin and Ivor can join forces and enter the
+		Wastelands.
+
+		The Seer Artifact is guarded by Gold Dragons and Ancient Behomoths, teamwork is necessary.
+
+		Caitlin AND Ivor must BOTH survive in order to get off the Cape.
+
+		Only Caitlin can "see" the island below the lighthouse. (She needs both vision artifacts)
+		Only Ivor can get the spell "Water Walk" from the Seer by giving her the Seer Artifact.
+
+		By the end of month 2, The Necromancers will have found their own White Tent and come
+		pouring in. 
+
+		Ivor and Caitlin must hurry and help Graven defeat the Red Necromancers.
+
+		It is possible for Ivor and Caitlin to arrive and help Graven by the beginning
+		of month 3.
+
+		After Red is Dead, Ivor can "Water Walk" to the small island and read the Brown Tent.
+		Caitlin (when all is ready) can re enter the underground and read the Purple Tent.
+		Her Seer will help her escape.
+			
+
+	Episode V:  The Relics
+		
+		Main Enemy: Blue (Months 3 to 4)
+
+		The Cyclops King MUST read the purple Tent do NOT Kill him now.
+
+		The Blue Computer AI will generally "Load up" two Heroes with alot of creatures.
+		Avoid them, for now. Just Find the Relics.]
+
+		Get that Grail!!
+
+		Use the sanctuary if Home base is attacked.
+
+		You do NOT need to kill Blue to win the Game. But you can if you want.
+
+		Once all 5 relics are found, (sometime in month 5), send the SUPERHERO into the 
+		under ground. 
+
+	Episode VI:  Unlikely Allies
+		
+		Main Enemy: Purple (Months 4 to 6)
+
+		Save the Angel, get the Green Tent and then head up the Mountain Path in the North.
+
+		Again, Purple doesn't need to be defeated to win the game.
+
+		In order to win, You must kill the Wizard Theodorus. You need the orb of vulnerability
+		in order to cast spells on his Black Dragons and Titans.
+
+		By the time you reach him, (Month 6), he will have 100 Black Dragons and about 300 Titans.
+		Kill him using Blind, Curse, Slow etc. He has a Cape that does NOT allow 3rd Level spells
+		or higher!!!!
+
+		You need this Cape to get the spell "Fly" from the Seer there.
+
+		Fly to Heaven! Follow the signs!
+
+		There are 1000 Titans protecting the Angel dwelling. Kill them. remember that you have 
+		Archangles that can resurrect and ALL your spells!
+
+		Before getting that 1 Angel, try and kill all of Purple and Blue!
+
+	Titanic Pride: Episodes I, II, III now available
+	Devilish Pride: Episodes VII, VIII, IX now available
+	The End of Pride: Episode X available soon
+	

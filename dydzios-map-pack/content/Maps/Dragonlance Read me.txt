@@ -1,0 +1,25 @@
+
+Map Name:	War of the Lance II (Dragonlance v2.0.h3m on disk)
+Map Maker:	Bedivere (Greg Squires)
+E-Mail Address:	Gregsquires@yahoo.com
+Map Type:	Singleplayer or Allied, 4 allies and 4 allied computer opponents
+Map Size:	XL
+Game Version:	SOD
+Language:	English
+Description:	The epic tale of the Dragon Lance saga recreated for Heroes III.  Play 		the Solamnic Knights, Elves, the Dwarves and Kender, or the Heroes of 		Legend against the evil Dragon Highlords and their allies.   Based on the 		initial conditions of Anaslon before the war.
+Special Win:	Capture Town
+Special Loss:	NONE
+Special Other:	None
+Playtesters:	Bedivere
+		Chuck Sanderson
+		Tony Flynn
+		Jack Manson
+		Pipboy X
+
+Notes:
+
+Due to the large initial number of heroes, I'd recommend not showing opponent turns for a while.  Several of the non-player allied heroes will die in the first few turns, so waiting for them will decrease.  Still, due to the size, complexity, details, and events, this is not a map to play if you're in a hurry.
+
+This map has purposely been left "open".  Although some attempt has been made to limit unbalancing features (for example, Town Portal, Fly, etc. are removed from mage guilds, no random artifacts are placed, powerful wandering monster stacks are prevented from joining, etc.) carefully controlling all possibilities would both limit the features of the map too much (some of which fit nicely into the world of Krynn), and take away the luck and chance that make each game of HoMM3 different.  Therefore, features like refugee camps, black markets, warriors tombs, shipwreck survivors, pyramids, skeletons, crypts, wagons, ship wrecks, derelict ships, sea chests, and treasure chests are left in.
+
+Despite being based on a story, the map does not follow a linear path or story.  Players are prompted by certain events and the necessity of completing certain quests, but, like the AD&D modules, how they eventually defeat the Dragonarmies is flexible.  Also like the modules, if they manage to do things well, a tough, slow victory (or even defeat) can be changed to a swift, crushing victory.

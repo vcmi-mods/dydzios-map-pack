@@ -1,0 +1,34 @@
+Map Name: Quest of Two Legends 
+Creator: wimfrits 
+E-mail Address: wimfrits@yahoo.com 
+
+Type: 2P MP coop map 
+Size: XL 2 layers
+Game Version: SoD
+Language: English. 
+
+Description:
+  Pick one of two legends of the world to dominate it once again.
+
+Game specifics:
+  - designed to be played by 2 players cooperatively, but can be played VS as well 
+    by deselecting the 'enable teams' box in the teams tab under map specifications.
+  - map is basically divided in 2 parts; starting with a long mirrored exploration 
+    part, with some story texts. After that, the map opens up to a mutual battle 
+    against the AI.
+  - long play, long battles, little resources, relatively little towns.
+  - high challenge. Map was designed to be played at expert level, but can be played
+    at any other difficulty as well.
+  - fly and dimension door are disabled.
+  - little to no story.
+
+Rules:
+  - map was meant to be played with an additional rule: 
+    --[ don't recruit armies from external dwellings ]--
+    Flagging of external dwellings serves to boost the regular towns' growth. Whether 
+    you stick to this rule or not is ofcourse completely up to you :-)
+
+Comments: 
+  - Primarily tested during play with (and 2 times against) my brother.
+  - designed to be just a fun map for players who like long and challenging coop games.
+  - map was created in 1999, but long thought lost to a virus. Only recently recovered.

@@ -1,0 +1,6 @@
+In the readme file DarkKn I spoke about an artifact you needed to complete the map. That artifact is the Boots of Levitation, and you need it to reach the Dark Blue Keymaster's Tent. You need to pas a Dark Blue Border Gate in order to get to the Black Keymaster's Tent and you need to pass a Black Border Gate to reach the location of the final battle. In short, once you have gotten the Boots of Levitation, you absolutely CANNOT afford to lose them until you have visited the Dark Blue Keymaster's Tent.
+
+How to get the Boots of Levitation:
+
+On location X:58, Y:87 there is a Seer's Hut which will give them to Player 4 (green) (i.e. the human player). Since being the green player is the condition for this quest, your computer opponents can never complete it.
+I you don't want to open the map in the editor you can take a look at the Jpeg file DarkKn SPOILER. The Seer's Hut in question is marked with a red X there.

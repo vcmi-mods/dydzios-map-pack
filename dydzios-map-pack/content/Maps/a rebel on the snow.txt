@@ -1,0 +1,20 @@
+A Rebel on the Snow
+
+Map Maker:	Renaissance
+E-Mail Address:	renai_map@yahoo.com
+
+Map Type:	Singleplayer, 1 Human Only, 1 Computer Only
+Language:	English
+Map Size:	Medium, 2 Levels
+Map Difficult : Hard
+
+Description:
+The Mighty Wizards of Bracada have ruled the Land of Kutub for centuries, all the creatures were tortured as slaves for the Kingdom,... but the time has come for change when a young charismatic Knight - Tyris - arrives.  Flag all the neutral dwellings and start a Rebellion!
+
+Special Win:	FLAG ALL DWELLING CREATURE
+Special Loss:	Lost A Hero
+Special Other:	NONE
+
+
+Play-Testers:	Viktor Coyote - coyot@pinknet.cz, 
+Rachel Butt <rbutt@pcug.org.au> - thanks for checking the grammar...!

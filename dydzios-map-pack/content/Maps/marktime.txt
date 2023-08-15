@@ -1,0 +1,74 @@
+                    Map Submission
+
+Map Name:	The Market of Time  (marktime.h3m)
+Map Maker:	Brian Krueper
+E-Mail Address:	Ungoliantb@yahoo.com
+
+Map Type:	Single player (2 Human/Computer)   
+		Shadow of Death Expansion Pack required
+Language:	English
+
+Description:	The Year of the Wombat in the Cycle of the Platypus during the 
+		Epoch of the Blind Cyclops happens only once every 1000 years, and 
+		it is the Year that Krackor, God of Humor, reigns supreme. 		
+		Everything was in readiness for the event, but the reality went far 
+		beyond what everyone thought possible!
+		
+Special Win:	Transport Artifact.
+Special Loss:	None.
+Special Other:	None
+
+Difficulty:	Hard
+Size:		Medium, 2 levels
+
+Play-Testers:	
+		Zowwie		Zowwie@pondswoop.com
+		Rex Mundi	Rexmundi_cto@yahoo.com
+		BlackDog	dmoore@home.net
+
+
+Designer Notes:
+
+This map is intended primarily for multi-play.  There are some AI boosting 
+events that allow for semi-challenging single play, but even so please play on 
+at least Hard and preferably Expert level.  The poor AI can't figure out how to 
+fulfill the special win condition, so it is somewhat limited in that respect.
+ 
+The strategic premise of this map is to try to wean the players away from the 
+old massive-buildup-for-two-months-with-a-single-titanic-battle-at-the-end 
+tactic that seems so prevalent in most multi-player maps.  If both players 
+insist on doing that, then there is nothing to stop it.  But this map rewards 
+aggressiveness and exploration, so a player who plays defensively will usually 
+get an unpleasant surprise if the other player gets free reign over the common 
+areas.  As a result, quite a few Scout and smaller army skirmishes should result 
+during gameplay, which should spice things up a bit.
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+The grail is located in a random hex in the evil fog.  Digging for it so close 
+to a 1-way gate exit should be nerve-wracking and should provide an early point 
+of conflict. (And maybe loss of the grail!)
+
+To get to the second 1-way gate (where the two are in a row), simply "plug" up 
+the exit point of the first with a hero, then you will be able to proceed to the 
+next one.
+
+The Sphere of Permanence is actually available at the head of the 4 locations of 
+the 4 elements (Earth, Fire, Water, Air).  The only way to get there is to have 
+the scroll of water walking (two available), and the only way to get that is by 
+getting the Statesman's medal on the surface from in front of the temples in 
+either the Valley of Earth or the Valley of Shifting Sands.

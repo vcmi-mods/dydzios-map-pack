@@ -1,0 +1,98 @@
+===== Map name =====
+There can only be ONE
+
+=====Map Maker =====
+
+Name         : Anand Gowricharn
+E-mail       : Gowricharn@yahoo.com		
+Date of birth: 29-09-1975
+Adres        : brouwerssingel 19
+zipcode      : 9201 vb Drachten
+country      : Holland
+
+===== Map description =====
+No time to waste.... Go and try to vanquish your opponent. It won't be easy but there can only be ONE. Goodluck.
+
+===== Rumors =====
+
+===== Timed events =====
+
+Name:
+A cry for help
+Message:
+Please save my doughter. She so young. I dont want to sacrefice her but the demons want new and young flesh otherwise they will rampage our village. Can you save her and kill all demons so that we can finally live in peace. You know where she is. At the south-west end of The Lake of the Damned.
+
+Name:
+Sacrefice
+Message:
+It's that time of the year. We must bring the girl to feed the demons.
+
+Name:
+The great warlock
+Message:
+When you were in town and having a drink in the local bar you overhear some people gossiping about the great warlock. Saying that before he died made a pact with the devil himself. You knew this couldn't be true, he was your master. Angry as you've become you start a barfight....You win...the bill..
+
+===== Objects =====
+
+(31, 8, 0) ***Event***
+Message:
+This time the price of the Great Colloseum won't be easy.......
+
+(14, 28, 0) ***Event***
+Message:
+In a distance you hear a screaming voice calling for help.....
+
+(18, 31, 0) ***Sign***
+Message:
+Lake of the Damned
+
+(8, 7, 0) ***Event***
+Message:
+As you enter the castle a messenger comes out and says: This long forgotten castle is well protected. Please leave us now and let us live in peace, we are  ready to give our lives for this castle. We control magic you only can dream of. Now I must die. But remember like me there are thousands.
+
+(14, 35, 0) ***Event***
+Message:
+You notice a little girl is tied up as if she is being sacrificed when suddenly the ground starts to shake and some demons apear.... WHO DARES TO COME AND TAKE WHAT IS OURS.......NOW DIE.....HAHAHAHA....
+
+(26, 34, 0) ***Spell Scroll***
+Message:
+I'm trying to learn this spell to become an arch-angel. BEGONE!!!!
+
+(2, 12, 1) ***Event***
+Message:
+The tent seems too heavily guarded and you try go sneak away. Stop the guards shoot. Damn your spotted......
+
+(7, 16, 1) ***Sign***
+Message:
+Guarded tent ahead
+
+(10, 8, 1) ***Event***
+Message:
+You've heard about this place. It is said that Titans guard it. You hear a voice  whispering: "Are you going to attack the guardhouse? " Let me join you I want to adventure along with you.
+
+(29, 4, 1) ***Event***
+Message:
+Quite a journey you've made to get this far. But not for nothing I find it remarkeble how you ventured trough. Thus....here you are ......ENJOY 
+
+(5, 2, 1) ***Event***
+Message:
+Learn diplomacy Before you enter......
+
+(28, 29, 1) ***Event***
+Message:
+We can't believe that YOU were given acces to enter. We think you lie so die.
+
+(32, 34, 1) ***Event***
+Message:
+As you aproach the tomb of The Great Warlock, You feel shivers down your spine. You always thought that He was good and couldn't be persuaded to the dark side.Guess you were wrong....In front of you The Great Warlock appears with some other fierce creatures moaning for BLOOD.....
+
+(7, 17, 1) ***Event***
+Message:
+After slaying the monsters you felt to turn around and you could just see how some creatures rose from the dead saying:"Beware of The Great Warlock"
+
+
+*** Map tester***
+
+name  : Clifton Morman	
+E-mail: fam_morman@wish.net
+===== End of file =====

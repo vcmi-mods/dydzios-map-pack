@@ -1,0 +1,42 @@
+
+Map Name:	Trapped Insect	
+Map Maker:	MADali
+E-Mail Address:	MADali@mailops.com or unlimitedmadness@pmail.net or unlimitedmadness@hotmail.com -> Why so many e-mails? Long story... =)
+
+Map Type:	Singleplayer 1H 4C
+Language:	English
+
+Description:	"Life is as ugly and necessary as the female body.
+Death is as beautiful and necessary as the male body." - The Book Of Lies
+
+Special Win:	None
+Special Loss:	None
+Special Other:	None
+
+Narrative:	The story is told when you start the game. The zip files should contain the following files -
+a) map.jpg
+b) factfile.txt
+c) legend.txt
+d) trap.txt
+e) trap.h3m
+
+Please note - the events in the map are only for story purposes. They don't have any important effect on the map. Maybe only the first event could be helpful.
+The same thing goes with the additional text files. The events and the text files are only there for the 'feel'.
+
+Play-Testers:	Simon Mooncalf (pauljmoedt@wxs.nl)
+		Quinn the Ancient Mariner (QuinnAM@att.net)
+		Treebeard (bronzon@ez-poa.com.br)
+		Marcus the Red (marcus_the_red@hotmail.com)
+		Keith Williams (keith.williams@virgin.net)
+
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+Looking for spoilers? Mwahahahahah
+Want a hint? Play. Reload. Play. Reload. Reload. Re-start. Play. Repeat if necessary.
+
+

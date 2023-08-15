@@ -1,0 +1,56 @@
+
+Map Name:	Mirror Universe (mirror_u.h3m)
+Map Maker:	Matthew Smith
+E-Mail Address:	Smith666@cwcom.net
+
+Map Type:	Multiplayer  (8 Humans Or Computer players)
+Language:	English
+
+Description:    Eight player free-for-all in a mirrored universe.
+	 
+Special Win:	NONE
+Special Loss:	NONE
+Special Other:	NONE (co-op version also available) 
+
+Narrative:	For no particular reason the subterranean layer is an EXACT
+		copy (or it should be anyway) of the surface layer...so you
+		best go kill everyone.
+
+Play-Testers:	Michael J. Kaspar (mikekaspar@mediaone.net)
+		Stuart Mogford (rudeboy@smogford.freeserve.co.uk)
+              	
+Other info:	The knight (castle) and dungeon players might have an advantage as all of the map 
+		is either grass or subterrian, so they'll always get a native terrain bonus.
+		Other than that I've tried to keep it fairly well balanced, but not
+		overly so - I can't be doing with making every single base area
+		exactly the same (i.e. same number of squares to each mine for 
+		each person, nothing random etc.) as that only has an benefical
+		effect when you have 8 human players of exactly same skill, which
+		will never happen anyway, and just makes the map dull in all other
+		cases. 
+
+		Deemer, Aislinn, Solmyr (and for the purposes of symmetry - Loynis)
+		have been placed in prisons.  An idea burrowed from the maps Land of Sword Scepter
+		and Phoenix's Nest both by Panga Keo (hapkane@cnmnetwork.com). Beginning
+		with meaty shower or chain lightning is too much of an advantage, so
+		if you want the heroes you have to go and rescue them - they aren't
+		guarded to extravagantly (a stack of 15 random level 7 critters)
+		but by the time you get them things should of evened out a little, and in
+		terms of experience and stats you should have better heroes.
+
+		In terms of your own personal use of the map feel free to make whatever
+		adjustments you think will help, i.e. random artifacts can be a little
+		imbalancing if you get the Sea captains hat and your neighbour the heavenly
+		helm, but as there is no way of picking which artifacts the random artifact
+		won't be (i.e. removing the chance of getting boat skill artifacts on a map
+		with little or no water) I decided it better to just keep it random, than to
+		just give everyone the same.
+
+		Although the lower layer is drawn as grass when you enter combat it will always
+		be subterrian (therefore the warlock on the lower level has quite an advantage)
+		I was quite annoyed when I discovered this, but know no way of changing it.
+
+		There aren't really any hints or tips for this map...its pretty simple.
+
+		If you have any comments feel free to contact me.
+

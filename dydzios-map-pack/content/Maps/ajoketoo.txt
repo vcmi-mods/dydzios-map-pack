@@ -1,0 +1,59 @@
+
+                   Map Submission
+
+Map Name:	A Joke Too Far  (ajoketoo.h3m)
+Map Maker:	Brian Krueper
+E-Mail Address:	Ungoliantb@yahoo.com
+
+Map Type:	Multiplayer 6 Humans Or Computer  
+		Armageddon's Blade Expansion Pack required
+Language:	English
+
+Description:	One banana cream pie too many, one whoopee cushion 
+		in the wrong place, and just not enough good humor 
+		to go around.  The Entertainment guild's Capital in
+		Erathia, Slapknee, suddenly finds itself in the 
+		midst of a turf war over the future direction of 
+		comedy. 
+
+Special Win:	Defeat all.
+Special Loss:	Lose all your cities and heroes.
+Special Other:	None
+
+Difficulty:	Hard	
+Size:		Medium, 2 level
+
+Play-Testers:	Rex Mundi	Rexmundi_cto@yahoo.com
+		BlackDog	BigwigDM@aol.com
+		Bethel		Bethel@mightandmagic.com
+
+Designer Notes:
+
+In order to provide the town atmosphere, many structures are duplicated.  Groups of 
+witch huts intentionally provide the same secondary skill, and should be considered 
+as "window dressing."  The same goes for many other of the commonly duplicated 
+structures.  Fortunately for gameplay sake, the AI does not usually visit each 
+one.
+
+If you play this map as a single player, play at least on expert or impossible level.  This 
+allows the AI to have more heroes and play more aggressively.
+
+
+
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+Err...none really here.  The cover of darkness and the churches in the middle of the 
+map will get *really* irritating for your opponents after a while.  But it does 
+provide a point of conflict.
+Be sure to defend your town.  The roads combined with the stables allow invading 
+armies to travel a suprising distance in one turn.
+
+There is a "Cursed Town". (The Central Library)  It will take away slightly more
+than you receive from it every turn.  This can get annoying after a while for 
+single players, but it does provide an amusing point of conflict during 
+multi-play.
+==================================================================================

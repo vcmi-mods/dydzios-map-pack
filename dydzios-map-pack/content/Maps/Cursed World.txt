@@ -1,0 +1,20 @@
+Map Name: Cursed World  (You must have Armageddon's Blade to play this map)
+Map Maker: Svyatoslav Shevchuk
+E-Mail Address: T.Kirinskaya@beloil.gomel.by
+Map Size: Large
+Map Type: Multiplayer/2 level map/4HC,3C only
+Difficulty: Hard
+Language: English
+
+Description: Nothing indicated troubles... It was the usual shining day... The darkness has set in suddenly, and from darkness came dragons, in a comparison with which the black winged giants of Dungeon seem babies. Who are their hosts and how to struggle with them?
+
+Special Win: Capture a Town
+Special Loss: Run out of time (10 month)
+Special Other: There are 2 versions of this map - Cursed World and Cursed World(easy). Try the hardest for the real challenge!
+
+Play-testers: Special thanks to:
+              Boris Sivko (may be found at T.Kirinskaya@beloil.gomel.by)
+              Vasiliy Turovsky (No current email)
+              Serge Dubina (No current email)
+
+P.S. Please, mail me and express your opinion about my maps!

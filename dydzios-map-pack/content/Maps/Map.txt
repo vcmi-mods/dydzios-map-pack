@@ -1,0 +1,45 @@
+Fallen Angels v. 1.2
+
+Congratulations!  You have downloaded a great map!  A lot of work and play testing has gone into it and I want to continually make it better ... and most of all I want you to have a good time.  Feel free to e-mail error corrections (or questions, maybe I intended for it to be that way!) to me as messinjs@email.uc.edu.
+
+A little background on the map before you begin:  Who you choose to play for will make a big difference on the difficulty level and possibly enjoyment during your game.  All of the players are fun, in my opinion, but I suggest you read my brief summary of each so that you can find the one who's strategy most appeals to you.  The map consists of five players; three intruders and two native forces.  The colors and respective notes are as follows.  I ranked them according to beginning strength, from strongest to weakest:
+
+Red
+Rose
+Orange
+Teal
+Blue
+
+For more specific information regarding each, read on (recommended).  Otherwise, have fun!
+
+
+Red -- Probably the most favored to win (at least in the beginning.  Choose this player if you like to be king of the hill.  Choose this map for a balanced offense and defense strategy ... your castles are strong but will fall easily if you don't defend them well.
+Pros:  Red gets a noticeable head start with a decent hero, a decent castle with quite a few structures, and a lot of resources available.  Guardian monsters tend to be weaker and the potential to mass your resources and go on an early rampage is high.  You are on your native terrain so adventuring is easy.  A random artifact is free to take by your first town.  Lead hero starts with summon boat.
+Cons:  Your area is not very defensible since you have four shorelines to defend and the grass makes it easy for anyone to move around.  Only one of your heroes can navigate worth a darn so try learn that and pathfinding early on.  
+
+Rose -- Probably the second most favored to win, moderate challenge.  Defensibility makes up for the difficulty adventuring in their terrain.  Choose this map for an offensive strategy; out of the five times I've played Rose has been a strong offensive player and was not invaded before I did it.
+Pros:  Rose gets a decent hero, and a no frills fort.  Your land is quite defensible, with only one exposed shoreline and only one other enemy nearby.  The desert will help you as much as it hurts you, giving you that extra turn to bone up your castle before the attacker arrives.   Necromancy is quite handy, of course, and if you don't play rose, expect to face one nasty Lich Queen at the end of the game with 2k or more skeleton happies.  First aid tents help too.
+Cons:  The desert you start in slows you down on the way to your mines. Guardian monsters are relatively strong.  Only one of your heroes can navigate worth a darn so try learn that and pathfinding early on.  Your pesky one-way gates will take your other lands, but sometimes it requires a whole turn or more (or lots of loading) to get where you want to go.  You start with practically nothing.
+
+Orange -- A moderate to difficult challenge, this player will have you scrambling to stay in the lead.  Moderately favored tow in.  Choose this player for a good, rough game but without much of a head start.  Plan for an initial defensive strategy until your higher level units develop.
+Pros:  Orange gets an average hero, and the terrain penalty isn't too harsh compared to most of the other players.  Your guardian monsters are moderately strong, but not as strong as Roses'.  You have easy access to a university, artesian well, and a black market early on.
+Cons:  As with red, you have four shorelines to defend from attacks.  Most of your heroes are not well equipped for navigation or pathfinding.  Your mines are spread apart and hard to get to in general.  Not much of a head start compared to Red.
+
+Teal -- A moderate to difficult challenge, this player will give you a leisurely beginning to the game.  When you must strike out though, it is a long and difficult journey home.  Choose this player for a slow, offensive campaign and don't expect to be attacked much at home unless you're really weak.  Not favored to win.
+Pros: Your lead hero, the Wavemistress, starts with the Sea Captain's hat.  This is a TREMENDOUS help since whirlpool travel is essential and you won't lose critters.  Only one shoreline to defend.  A random artifact is yours for the taking by your home town.  Only one enemy with you in the underworld.
+Cons:  Only access to level 3 magic max!  YOU try getting home when you're a billion miles and 20 whirlpools away and you don't have 4th level magic (ie town portal).  You are stuck in the flippin' snow so going is quite slow.  Your mines are usually heavily guarded and your other starting heroes are lousy.  Your pesky one-way gates will take your other lands, but sometimes it requires a whole turn or more (or lots of loading) to get where you want to go.  You start with practically nothing.
+
+Blue -- A challenging game is ahead of you if you choose lowly blue!  This player will have you fighting to stay alive.  Expect a defensive strategy with hit and run tactics until you can hold another player's castle and expand.  Might be able to win if you're clever. (It's been done twice ... and what fun!).  Choose this player for a wild game, but you'll miss out on most of the exploring.  Except most of your xp and artifacts to come from future combats.
+Pros:  You lead hero has navigation as a specialty.  You have special access to a series of awesome powerbuilding tunnels if you can defeat the garrison on your island before the AI invades you and does ... take a strong hero with you and get town portal before you go from the seer's hut ... there's no easy way back!
+Cons:  You have only two towns to there three, and they have nothing at all in them.  Your heroes, to be honest, suck large.  You're in a swamp.  You have six shore lines to defend and let's face, for most of the early game you'll be target practice for red and orange.  And even when you finally get off the ground ... expect a beatdown from orange or red!!  Your mines are guarded heavily.  You need ore so bad you'll trade gems for it.  And last but not least ... everyone else is a million times better than you, but sometimes your too insignificant for the AI to bother with and you can squeak by.
+
+
+General Map strategies:  
+
+Take to the sea as soon as possible ... there's a lot to find there!
+Seize both middles as soon as you can.
+Find the secret portals in the underground .. get to them via the black gates ... watch out, it's hard to get home!
+
+Have fun!  I had 20 devils join me and 22 giants after that.  I was livin' large and lovin' every minute of watching my opponents squirm.  
+
+-- John

@@ -1,0 +1,16 @@
+Map Name:       Heaven or Hell
+Author:         Mattias Larsson
+E-mail Address: Mattias_rambo@hotmail.com
+
+Map Type:       Multiplayer, Singleplayer
+Map Size:       Extra-Large, with Underground
+Game Version:   HOMM3 Shadow of death
+Language:       English May come some swedish non-important text. =)
+
+Special Win:    NONE
+Special Loss:   NONE
+Special Other:  NONE
+
+Map-Testers:    My brother, martin007larsson@hotmail.com
+                friend, markus, Maktus@hotmail.com
+                Other friend, Jan, janneolausson@hotmail.com

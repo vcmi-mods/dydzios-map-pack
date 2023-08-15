@@ -1,0 +1,124 @@
+HOMM3 Map - Readme File
+
+Traemask the Fool
+A HOMM3 Campaign of 3 Maps
+
+Episode One: The Outpost of Progress
+** Episode Two: The Story of the Fool **
+Episode Three: Wood's Heart
+
+By Timothy Duncan (Corribus)
+
+Version: 1.1
+First release version  04/05/02
+Updated date: 03/02/05 
+File Name: traemask2.h3m
+Mapmaker's Email Address: tduncan@sas.upenn.edu; corribus@aol.com
+
+Victory Condition - Bring grail to city "Salenze"
+
+Loss Condition - None (but see below!)
+
+WoG Note: There are unconfirmed reports that WoGifying this map actually messes up some of the quests.  I recommend NOT playing this as a WoG map - but if you must, you do so at your own risk!
+
+IMPORANT INFORAMATION YOU _MUST_ READ BEFORE PLAYING THE MAP!		  
+
+Version 1.1 notes:  When I sat down to start making Traemask II: the Story of the Fool, I knew I wanted to try something different.  Unfortunately I feel the results are something of a mixed bag.  What you are about to play is convoluted puzzle map.  Conventional hero and army build-up and AI confrontation is limited.  Most battles, particularly in the first half of the map, require special means to victory.  
+
+The original version was released on April 5, 2002.  Due to the fact that H4 was released shortly afterwards and due to some personal matters at the time, the testing phase was rushed.  The basic result was a map that was a buggy disaster.  Version 1.0 was basically unwinnable, and it's really a testament to the strength of the story that anyone bothered to play it the whole way through.  One may wonder why, three years later, I have decided to finally get around to updating the map.  That's a tale best left for another day.  The upswing is that, while the map certainly still has stylistic weaknesses, at least now I believe it is free of major bugs (that is, if the player does everything correctly, it IS winnable now ;-).
+
+In any case, listed below are several things the player should know before playing the map, that will help him proceed smoothly through it.  I strongly urge you to read them.  Below that is a synopsis of the hundred or so things that I fixed in this update.  It is not necessary to read these points, and they do contain some spoilers.  
+
+1. This map is, as stated above, a puzzle map.  With the exception of a small area in the underground, most major battles can be won only by employing a certain method (Unless you sit around long enough to recruit a really big army).  Thus many of the battles will seem impossible when approached early in the map, and only after obtaining the correct artifacts, creatures, heroes, etc., will you be able to win the battle and move on in that direction.  Please note that there is unfortunately a lot of walking around in this map; I have tried to eliminate the nuisance of travelling from place to place by incorporating a lith system, but it is not perfect.  The player will have access to town portal late in the map.
+
+2. At the present time there are one or two puzzles which I was unable to set up as I had originally wanted to.  There were alternate solutions to these problem areas but they were clumsy and really didn't fit that well into the story.  In these locations, I therefore indicate in the text that you should, for example, dismiss a certain hero.  I urge you to follow these instructions, for although abusing these weaknesses may give you a temporary advantage, in the long run they may make the map unwinnable.
+
+3. There are dozens of quests and puzzles in this map. I urge the player to take lots of notes or key details may be forgotten.  I have tried to help out on occasion by making important hints in the text appear in YELLOW (in other words, more often than not, if something in the text has been highlighted in this fashion, REMEMBER IT!).  
+
+4. You will notice that in addition to this readme file and the actual map, there are three other files included in the .zip.  One is a text file called "spoilers.txt" in which is contained the solution to every puzzle and quest in the map.  If you are stuck, please consult this text file.  There is another text file called "journal.txt".  There are some places in the map where you will be directed to read certain passages in this text file.  I have tried to keep the entries as brief as I can, but you will at times find important information contained within so please do read!  Finally, there is an encrypted .zip file called Sanderbook.zip.  You need a password to access this file, a password which will eventually be found in the map.  The material inside the zip file will be self-explanatory but will also be needed to win the map.
+
+5. This map has no official loss condition.  However, there are many things that can bring about an unwinnable scenario, including losing Sedran.  All heroes that are located in prisons should not be readily dismissed as some of them may have secondary skills or other attributes which are required for certain quests.  All artifacts which are found on the map will be necessary to complete the map; losing any of these artifacts IN BATTLE should be considered a loss condition.  Finally, DO NOT DISMISS any creature stacks (particularly solo creatures) which join you throughout the course of the map, as many of these have a role to play as well.  In short, anything that looks like it is supposed to be there, IS supposed to be there.
+
+6. For those who have not played the first map in this series or who have not played it in some time, there is a brief synopsis of the first map included in the "Synopsis" file.  If you have not played Outpost of Progress, I urge you to do so.  Mostly because it's the best H3 map available.  Just kidding ;-).  You will get more out of the story if you play Outpost of Progress.  But in any case, feel free to skip the synopsis if you have recently played "The Outpost of Progress".
+
+7.  Play Tip -- There are many heroes that will appear to be very powerful, but not all are overtly hostile.  You will gain much by approaching stationary or restricted heroes that you otherwise would do well to avoid, as useful events may be right in front of them for the triggering.  Just make sure you keep enough movement in reserve to move away in case there is no event to be read ;-)
+
+8.  This edition of the map (v1.1) still may contain errors or small bugs.  You will see early on that this map is VERY complex and every time I change things, new bugs creep up.  I am confident that the map has been sufficiently tested that major bugs have been ironed out but... well, you can never be 100% sure.  I will continue to update this map as feedback begins trickling in, but, to ensure the satisfaction of you, the consumer (lol), I have included a small cheat area in the map that can be accessed through the main overworld lith system.  It contains all MAJOR quest artifacts as well as a set of Angel wings.  Players who feel that a bug is preventing them from continuing should visit this area, using their discretion.  I do suggest you consult the hints/tips file before resorting to cheating to ensure that your bug isn't actually just something you haven't thought of yet ;-)
+	
+	8a. Just as a special note, there are a few areas in the map that could become problematic if the "Month of the..." puts a creature stack in the way of an objective.  The map is very long and so such stacks could potentially grow to absurd proportions.  Unfortunately there's nothing I can do about this problem; if you come to an area where you feel a "Month of the..." stack is impeding your progress and making the map impossible, it may be necessary to either cheat (give yourself some Angels) or use the cheat section to get some angel wings.  I apologize if this happens to you but, as I say, there's nothing i can do about it.
+
+9. Please do send all Comments/Questions my way at tduncan@sas.upenn.edu OR corribus@aol.com.  Feedback helps me make my maps better and also lets me know that people are actually playing the map.  The five minutes of your time to write me makes the 500 billion hours that I put into this piece of work worthwhile.
+
+* 9. Update v1.1, March 02, 2005: The following have been fixed/changed in the latest version. (Contains Spoilers).  It is not necessary to read them.  However, at the very bottom are listed known bugs/issues with v1.1 that could not be repaired or have not been proven to have been repaired even if steps have been taken to make it so.  It may be worth it for the player to familiarize himself this with these - I've tried to make it so they don't contain overt spoilers.
+
+	- A major bug that made the map unfortunately impossible was found involving a certain event with an impossible battle that was accidentally pasted in the wrong place (by the Shrine of Maydin in front of White tent).  This has been fixed.
+	- Before it was possible to Kill the hero Callous before he freed himself from prison.  This has (I believe) been fixed, although only a very shrewd player would have figured out how to do it in the first place!
+	- Green should no longer spontaneously "abandon its cause" due to Tan player accumulating money every turn from a hero specialty.
+	- Several typos have been fixed.
+	- Grail radius was reduced.
+	- Sedran now starts with advanced leadership
+	- The Goza quest has been clarified so it should be less confusing now.
+	- Fixed a bug that enabled early access to Salenze by use of the water walk spell.
+	- Town Portal was removed from Tolemair's choice of spells as it made many of the quests in the later/middle portions of the map more or less optional.
+	- Many general hints were added for the more difficult quests/puzzles.
+	- The Captain's Hat artifact has been removed, replaced by the Alabaster Unicorn helmet, enabling the completion of that side quest.
+	- Goza's skills have been preset, so she doesn't get estates.
+	- Several boats were removed as they couldn't be scuttled.
+	- Several monster stacks were increased in strength.
+	- Cindermorn's battle had both sides increased in number of troops (x2) to prevent player from being able to kill the earth elementals by himself.  Tactics have remained unchanged.
+	- Thogmor's army has been beefed up (at least x2).
+	- A few misplaced events have been placed properly.
+	- A few map objects that were misplaced have been removed.
+	- The "mountain climber" of Salenze now gets two ancient behemoths to ward off any "month of the..." that might appear on the mountain trail.
+	- Creatures and hero outside of Mantak Fals' house have been weakened.
+	- Dragon stacks northeast of Silverpeak have been weakened.
+	- Mantak Fal's quest has been changed from 6 Ogre Lords to 4.
+	- Restrictions on North Keep's buildings have been lifted.
+	- Can now no longer get to Tolemair's jail without the brown tent
+	- There's a boat available for Salzaer once he's freed from prison
+	- Resources have been added to some spaces to protect from "Month of the..."
+	- The portals comprising the entrance to the Shrine of Maydin have now been adjusted so that none of them are "points of no return".  
+	- The creatures granting the artifacts "Vampire Cowl" and "Talisman of Undertaker" are now unable to flee.
+	- Necromancy Fodder stacks near Necroversity no longer grow over time.  These creatures are also off-limits to AI heroes now.
+	- To pass the quest guard to see Faermor the Necromancer you need a Walking Dead instead of a Zombie.
+	- The final boss is now beefed up.
+	- The enemy factions underground have undergone a MAJOR overhaul.  They should not start to accumulate troops until the player makes it underground and releases Calous.
+	- Underground creatures have growth restrictions now.
+	- Willing Necros can no longer leave Alainica.
+	- It is now not possible to access Maydin BEFORE freeing Belaz.
+	- A new hero joins at Alainica (Artoxis).  He is your seventh hero and will unlock the way into Maydin.  (Also, if you have LOST heroes up to this point, they can be replaced using the new portal southeast of Alainica that transports you to taverns).
+	- Belaz's chapter in the Journal has been expanded to offer additional information.
+	- Player no longer has access to a tavern underground, at least until Alainica is found.
+	- There is no way for the player to give himself extra troops to take underground after removing the Quest Guard to get underground.
+	- Rewrote a significant amount of text to be more cogent and descriptive. Importantly, some passages made little sense due to the order in which events occurred and this has been fixed.
+	- "Necromancy School" events are no longer cancelled after being triggered once (i.e. multiple heroes can now learn necromancy, if so desired).
+	- The player must now defeat Ton Gruzin BEFORE taking on Scourge.
+	- The player now gets the Black Tent at Maydin, which is now required to enter Kjhintil's lair as well as a few other places.
+	- The player can now get Town Portal at Silverpeak, which should expedite late-game travel.  Unfortunately due to circumstances in the map, I cannot provide the player with this earlier.
+	- Orbs of Vulnerability have been removed from the Poltergeists and Kjhintil.
+	- Green player should no long get vanquished by tan BEFORE you've given tan 75,000 gold.
+	- There is no longer a hill fort to ugrade fire-birds to phoenix, as it was possible to bypass much of Spencer's quest.  Now a phoenix joins you near the pyres.  Be careful, because this is the only one you'll get!
+	- The Ritual of Darkness should now work.  Calawajan should free Belaz now, as she's supposed to.
+	- Thogmor now has a spell book
+	- Dragon Caves and Taverns have been eliminated from all underground towns.
+	- Necklace of Speed has been disabled
+	
+Known issues in v1.1:
+
+1. This map will take you well over 1 year of playing time.  As such there is a high probability of "month of the-" occurring and blocking access to areas.  Most notably this can happen for your "mountain climber".  If you get stuck, you may have to cheat to defeat these annoying creatures.
+
+2. Cindermorn seems to be re-hirable with high frequency.  I urge the player to refrain from doing so, as such a powerful hero could unbalance the map, especially before the player has gone underground.
+
+3. Each of these dragon stacks to the East of Silverpeak will give you a vial of dragon blood.  However, there is a H3 bug and if you already HAVE a vial of dragon blood when you take on the next stack, you won't get the additional vial that is your prize.  Moreover, if you then try to, say, sell the vial of dragon blood at an artifact merchant (to get needed crystal), then the game will crash.  Therefore, I suggest having another hero around and dumping off your vial of dragon blood each time you get one.  That way you should be able to collect them all, and sell them all.  Apologies.
+
+4. Vey doesn't always stay in the city of Riverview after he takes it.  You can kill him inside or outside the city - it doesn't matter.  But make sure you wait a day before taking the city.
+
+5. Goza does not always (these stupid AI heroes - don't do what they're supposed to!) visit the quest hut if you keep the Fire Book for more than the allotted period of time.  Only a dishonest player would take advantage of this!
+
+6. There have been some reports that the Poltergeists do not appear at the Shrine of the Second as they are supposed to.  In my play, they always do, provided that a powerful player hero is not close by on the scheduled day.  Use the red portals if necessary!  (There is some indication that WoG may interfere with this quest.)
+
+7. There were reports in v1.0 that about 4 months into the map, green would sponanteously be vanquished.  This was due to tan player having some unknown source of income.  I believe I have found that source of income, so this should hopefully no longer happen.  If the green player DOES get vanquished before the player should reasonably expect him to, it will not make the map unwinnable, but some events in that case may make little sense.
+
+8. There were also reports in v1.0 that Calawajan did NOT release Belaz after the Ritual of Darkness was performed.  I have adjusted that area slightly and in several test runs, this sequence now works fine.  If Calawajan just sits there now after the Ritual is completed, then the player will need to consult the spoilers section to determine which pendant of Second Sight is the real one (and the player should still read the appropriate Journal Entry as if the Ritual WAS completed). 
+
+

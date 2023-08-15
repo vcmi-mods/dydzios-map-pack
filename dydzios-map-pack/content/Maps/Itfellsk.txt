@@ -1,0 +1,28 @@
+
+                  MAP SUBMISSION  (Heroes 3 map, Non-expansion pack)
+
+Map Name:	It Fell Out of the Sky (ItFellsk.h3m)
+Map Maker:	Brian Krueper
+E-Mail Address:	Ungoliantb@yahoo.com		
+
+Map Type:	Multiplayer;	4 Humans ,1 Computer
+Language:	English
+
+Description:	Ten years ago, a huge fireball descended upon the peaceful kingdom of
+		Groundzero.  The scattered remnants have banded together in order to 
+		survive.  Then news came of the discovery of vast wealth in minerals in
+		the cooling impact zone, as well as strange reports of little green men...
+
+Special Win:	none
+Special Loss:	none
+Special Other:	none
+
+Difficulty:	Hard	
+Size:		Medium
+
+Play-Testers:	This was an official map in The 3DO Community HoMM3 Tournament, so many people played it.
+		Here are some:
+		Christian Vanover  CVanover@nwcomputing.com
+		Ritcher1 (Community)  Ritcher1@hotmail.com
+		Rex Mundi (Community) RexMundi2000@yahoo.com 	
+		

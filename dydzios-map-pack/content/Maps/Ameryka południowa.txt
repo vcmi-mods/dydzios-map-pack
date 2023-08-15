@@ -1,0 +1,14 @@
+Nazwa mapy: Ameryka po³udniowa
+Wersja mapy: AB
+Autor: Jêdrzej "Faramir" Napiecek 
+E-mail: faramir_13@poczta.onet.pl
+Data ukoñczenia mapy: 2.05.2002r.
+Rozmiar: XL
+Stopieñ trudnoœci: wysoki
+Iloœæ graczy: 8
+Warunek zwyciêstwa: zniszczyæ wszystkich przeciwników
+Warunek przegranej: utrata wszystkich miast i bohaterów
+
+Opis: Ameryka p³d. kraj z³ota i czegoœ tam jeszcze. W koñcu wybuch³a wojna i czas podnieœc miecz...
+
+Uwagi: Mapa raczej multiplayer (a nawet na pewno!) czyli wielce rozwiniêtej fabu³y tutaj nie spotkasz! A do tego jest to jedna z mych pierwszych produkcji na której praktycznie uczy³em siê edytora HoMM3, czyli proszê nie oczekiwaæ zbyt wysokiego poziomu! Tymniemnniej do rozrywki siê nadaje! Jeœli nie macie w co innego graæ ;).

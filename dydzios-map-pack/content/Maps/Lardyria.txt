@@ -1,0 +1,23 @@
+
+                   HEROES III SCENARIO
+
+Map Name:	-[Lardyria, swamp kingdom]- (Lardyria.h3m)
+Version:	1.0	
+Map Maker:	Tetsumonkai (Tony Persson)
+E-mail Address:	Nepra_84@msn.com
+Domain:         None
+
+Map Type:	Single or Multi
+Map Size:	M
+Game Version:	HOMM III (ROE)
+Language:	English
+
+Description:	Medium sized 1on1 map.
+
+Special Win:	None.
+Special Loss:	None.
+
+Difficulty:	Normal.
+
+Notes:		A simple 1vs1 map. 
+                My first map.

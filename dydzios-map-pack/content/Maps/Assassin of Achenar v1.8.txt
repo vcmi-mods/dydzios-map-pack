@@ -1,0 +1,194 @@
+
+                   MAGELLAN'S MAP SUBMISSION
+
+Map Name:	Assassin of Achenar v1.8 (Assassin of Achenar v1.8.h3m)
+Map Maker:	Drahkz Hildifons
+E-Mail Address:	hildifons@msn.com
+
+Map Type:	Singleplayer [1 Human against 7 Computer]
+Game Type:              Armageddon's Blade
+Language:	English
+
+Description:	Everybody has to make a living, but not everybody 
+                                   enjoys it as much as you do.  You have been hired 
+                                   to do a job, not just any job, but a specific one, 
+                                   a tough one. You must kill Lord Thorax before six 
+                                   months are out or lose your own life!
+
+Special Win:	Kill Lord Thorax
+Special Loss:	NONE
+Special Other:	Six Month time limit
+
+Narrative:
+	
+You are Wren the Druid, and an Assassin.  You have been paid a nominal 
+fee the take out a real slimebag.  His name is Lord Thorax and he is
+a real pain in the ass.  Killer of men, women, children, and yes 
+your beloved enviornment also!  He and his followers gleefully 
+destroy everything in sight without the slightest sign of remorse!  
+Truly he and his ilk are your worse enemy.  That is the only reason 
+you took this contract, polluters like him really bring out the 
+worst in you.  It is now time for Lord Thorax to pay for his crimes 
+against nature.  Indeed he will pay!  The only kicker is that if 
+you do not kill him in six months your employers will kill you!
+
+The Major Characters are as follows:
+
+Red:        Lord Thorax the Demoniac, the most evil of all residing on 
+                Achenar today. Born of an Elvish mother and a Demon father 
+                his only goal is total conquest of Achenar!
+
+                Dr. Syn the Death Knight, evil for evil' sake.  Who needs 
+                motivation when killing is so much fun!  Dr. Damion Orion
+                Syn is the product of a dig gone bad. The once handsome and
+                adventurous son of a rich land baron sealed his fate when
+                he unwittingly sprung a trap while investigating an 
+                archaeological find in the Meersham Desert.  He and all his
+                crew were killed instantly in the explosion, but Lord Thorax,
+                the being who was released by him, brought him back to life.
+                Now he is Second in Command and the most trusted of all Lord 
+                Thorax's henchmen.
+
+Blue:       Wren, the first of his kind, a Druid Assassin!  Rumored to
+                have been trained by the "Black Guard", Wren's parentage is
+                unknown.  Some say he is the eldest son of Smeagol and Menion
+                Brandywine, of Gondor fame. Others say that he is just a
+                rogue in search of a good time.  Unlike most of his kindred, 
+                Wren is not motivated by greed or even a lust for killing, 
+                instead he is motivated by a love for the enviornment!  He is 
+                the first Assassin in Achenarian History to take contracts 
+                solely determined on how enviornmentally harmful the victim 
+                is!  It has become his calling card, he only takes out 
+                contracts on those who are enviornmental murderers!  So
+                mothers warn your children not to grow up to be an echo-
+                terrorist or else! Of coarse there is still the nominal fee.
+
+Tan:        Emperor Morantha the Beastmaster, he was his own first love.  
+                There is absolutely nothing he would rather do than show the 
+                rest of the world why they should love him too!  Not known to 
+                be very bright, he is known however for taking excellant
+                care of those under his charge who show him the proper 
+                devotion and respect.  It is solely for this reason that many
+                peasants flock to his banner.  Since he has inherited the 
+                kingdom from his parents it has grown by leaps and bounds.
+                It seems that his subjects are more than happy to feed his
+                ego for a price.      
+
+Green:    Skz Grogskum the Overlord, one of the most feared and 
+                respected Orcs' to ever walk the land of Achenar!  His only 
+                dream is to rid the planet of all non-Orcs!  Unfortunately
+                he is the first Orc in centuries with the intelligence to 
+                actually pull it off!
+
+Orange: Queen Hillary the Heretic, sworn enemy of all "mankind"!  She 
+                dreams of subjugating the world for the pure pleasure of it!  
+                Her only real enemy is Princess Ruby Redd whom she hates more 
+                than any man she has ever met.  Few know the true reason for 
+                this hatred, but rumor has it that it centers around Ruby's
+                ward Dominique.  Be that as it may, Hillary's uncontrolled
+                anger and pent up frustration makes her a force to be reckoned
+                with.
+
+Purple:    Drahkz Hildifons the Dwarf Knight, Crown Prince Of the Misty 
+                Mountain Dwarves.  Since it's fall years ago now makes his
+                home in the City State of Gondolin.  He is your basic hero 
+                type, help the needy, feed the poor.  His only mission in
+                rescent years has been to expand the realm for his friends and
+                fellow adventurers Smeagol and Menion Brandywine, whose 
+                kingdom, founded as a Ranger School, is open to all who obey
+                the laws. The only place that is closed to all but Rangers and 
+                special guests is Castle Gondor, where the school is still 
+                going strong.
+
+Teal:       Exidor the Wizard, the most powerful Wizard of our time, not 
+                since the old world Blue and Red Wizards has there been one
+                as powerful as he.  Unlike many of his ilk he is very humble.
+                He runs an elite School for Wizards from his sanctuary in 
+                Mt. Rakhab.  Although many wizards ore ostracized from most
+                levels of society Exidor is well known and loved by those
+                realms in which he serves. 
+
+Pink:       Ruby Redd the Ranger, an Amazon Princess who wishes nothing 
+                more than to cut out her own nich on Achenar.  So far she
+                has managed to hold on in these tumultuous times.  When greater
+                kingdoms have fallen, she and  and her trusted ward, General
+                Dominique have managed to not only stay alive, but to thrive.
+                Although she has the smallest kingdom in the Realm she has
+                shown to be a very astute tactician and leader.
+
+                Dominique the Cleric, found abandoned and half starved in the
+                Elo Woods when she was just a child, she has grown up to
+                become a very powerful and capable General in Ruby's army.
+                Loved and respected by all she has become more than just a 
+                citizen in the kingdom, she has become Ruby's right arm.
+                Between the two of them they have managed to keep the
+                kingdom stabalized even in the worst of times.
+
+Play-Testers:	[Drahkz Hildifons: hildifons@msn.com]
+              	                  [Radar:            none]
+
+
+=======================================================================
+
+
+SPOILERS: WARNING SPOILER FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS: WARNING SPOILER FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS: WARNING SPOILER FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS: WARNING SPOILER FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+Before you do anything find yourself a castle!  Ignore everything else
+until you do.  If you don't, you will not live long enough to kill
+Lord Thorax!
+
+There are three towns you can find before the time runs out (7 Days), 
+the best is "Olympus" the Conflux! Then comes "Lost Vegas" and the 
+least is "New World Inc".
+
+To get to Olympus head south-west until you come to the garrison.  
+You will know you are in the right place if you find the warning
+sign for No-Man's Land.  Go through the one way monolith and you
+will be teleported within two days from the city.
+
+To get to Lost Vegas head south-west until you come to the garrison.
+You will know you are in the right place if you find the warning
+sign for No-Man's Land.  After passing the garrison head due north.
+At the far end of the trail you will run into a subterrianian gate.
+Go through the gate.  After entering the subterranian world head due
+north.  You will know you are in the right place when you reach the
+Lost Vegas Garrison.
+
+To get to New World Inc. go through the subterrainian gate in front
+of you.  In the underworld head due south until you run into a second
+subterranian gate go through it.  Head south-east until you come to 
+a series of two garrisons. After going through the second garrison
+you will run into New World Inc., it belongs the Emperor Morantha.
+Convince him to give it to you! 
+
+Hire some good help as soon as you can.  Never deviate from your true
+mission, six months is not a long time.  The only reason to own a 
+castle other than staying on the board is for replenishment.  Let your
+hirelings take care of that.
+
+Always remember that you have seven lords who for good or evil are
+working against you.  They are becoming strong just as you, the only
+difference is that they are all allied to the same master!
+
+Hit the taverns and check out the rumors!  Some are useless garbage
+while others are true tidbits of information.
+
+Each kingdom has it's own Garrison, use them wisely.  Garrison's
+can both help you and drain valuable resources.
+
+For a little extra umph find the Grail and add it to your kingdom.  It
+is located at 19 minutes north and 58 minutes west.  You can find it
+by riding the red two way monolith until you come to a volcanic zone.
+You will know you are in the right place because there is nothing
+there but you and the gate!
+
+Hope you enjoy playing it as much as I did making it.....Hildi
+(Yes, to answer your question I put myself in all my games, that is 
+what true role playing is all about!)
+
+
+=======================================================================

@@ -1,0 +1,26 @@
+MAP NAME: Before The Rings
+
+AUTHOR: Jason Prozney
+
+E-MAIL ADDRESS: barracuda213@shaw.ca
+
+MAP TYPE: Muliplayer,singleplayer,humans orcomputer
+
+MAP SIZE: X-large with underground
+
+GAME VERSION: HOMM3 Restoration of Erathia
+
+LANGUAGE: English
+
+SPECIAL WIN: None
+
+SPECIAL LOSS: None
+
+SPECIAL OTHER: None
+
+MAPTESTERS: Prozdogg
+            KLS
+
+DESCRIPTION: A great two level XXX-large map with plenty of everything. Don't plan on going anywhwere for a few days. Good luck!
+
+ADDITIONAL INFO: Cannot Start as Necropolis or Fortress. Map is relativly even for each starting player.

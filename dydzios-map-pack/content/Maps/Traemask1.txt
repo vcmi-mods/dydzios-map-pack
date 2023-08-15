@@ -1,0 +1,252 @@
+HOMM3 Map - Readme File
+
+Traemask the Fool
+A HOMM3 Campaign of 3 Maps
+
+** Episode One: The Outpost of Progress **
+Episode Two: The Story of the Fool
+Episode Three: Wood's Heart
+
+By Timothy Duncan (Corribus)
+
+Version: 1.27*.  See Special Notes for Updates of this Version
+Last Updated date: Jan 26, 2005
+File Name: traemask1.h3m
+Mapmaker's Email Address: corribus@aol.com, tduncan@sas.upenn.edu
+
+Victory Condition - Defeat Monster Stack	
+
+Loss Condition - Die.  (While there is no technical loss condition, losing Sedran, Roland or Andrea should be considered a loss condition for story purposes.  Additionally, I had toyed with the idea of making losing Progress a loss condition, but my testers advised this might be too difficult.  Players wishing extra challenge may want to self-impose this as a loss condition -- personally I found it very rewarding.)
+
+Special Thanks to Keith Williams (keith.williams@virgin.net), Rachel Butt (Dragonsister - rbutt@pcug.org.au) and Holst (The Player) for playtesting this map.  Additional special thanks to Timothy Pulver (FNORD - fnord@telus.net) for helping me out with a lot of the tougher ideas.
+
+IMPORANT INFORAMATION YOU _MUST_ READ BEFORE PLAYING THE MAP!		  
+As usual, there are several notes that I should add here.  I will number them for your viewing convenience.  PLEASE READ THEM BEFORE PLAYING. You will avoid some headaches.
+
+ALSO, for players who are STUCK - there is a list of all quests and solutions at the very bottom of this file.  A friendly piece of advice: waging a defensive war around the Outpost of Progress will only get you killed.
+
+1. Make no mistakes: this is a STORY-BASED map.  I take no responsibility for your disappointment when you play this map and don't like the fact that there is a lot of text.  I'm warning you ahead of time: if you don't want to read a lot of text and become engaged in a story, do not play.  I got several emails for my last map, Sander's Folly, telling me that they didn't like how much text I put in the map.  That's like writing Stephen King and telling him you don't like to read his books because they're violent.  :)
+
+2. This map is somewhat unique in the way it is played.  Although it is singleplayer, there are three human-only positions.  Therefore, you _MUST_ play this map in hotseat mode.  This means you have to start a new MULTIPLAYER game.  You won't find the map listed in the singleplayer directory.  You must make names for THREE human players (not 2 and not more than 3 but 3 exactly).  Also, I should add, this is a SINGLE player map only... do not try to play this with more than one human being.  It was not built for such play and will not work out well, as some factions may have long periods of inactivity.
+
+3. There are some discrepancies that I know of but which cannot be helped.  These are: 
+
+a.) Some gray towns that are supposedly neutral will have some troops in them when you get there.  Even though an event tells you that the town "welcomes you with open arms", nothing can be done to eliminate the garrison that "protects" the town.  This contrasts with story elements, but that's life, I suppose: there's always someone who wants to kill you :)
+
+b.) This map is fairly complex as far as quests and character development goes.  As it is a heroes map, I want to allow you the freedom to do what you wish; however, I recommend you try to follow the instructions (and the story) in the map as well as you can.  If a certain hero is told to do something, try to do it with that hero.  This will make the story flow more logically and may also save you from doing things out of order and getting confused.  Example: if you take Murak Mol to conquer Togor, that is fine, but you will get events on the way that are geared towards Sedran and his entourage.
+
+c.) Beware the defeat hero bug! There are two quests where you are requested to defeat a certain hero.  After you kill said hero, if you save and quit before going back to the quest hut to obtain your prize, the computer will not recognize your kill when you load the game again.  Therefore, after you kill said hero, OBTAIN YOUR REWARD _BEFORE_ QUITTING THE GAME.
+
+d.) It appears that sometimes when you load a saved game, events which you have already visited will re-trigger when you go over them again.  This appears to be related to the hot-seat mode, though it doesn't happen all the time.
+
+4. It may be helpful to label the player positions as Jarrid Saed (Red), Sedran Patre (Blue) and Mead/Swift (Green) when you load your new game.
+
+5. There is nothing I can do to prevent you from sending money from one faction to the next.  I encourage you to resist doing this, as it really does not make sense in the story, at least until such point as the player positions "are communicating".  You will recognize this point in the story when it comes.  However, players finding this map to be too difficult (it IS hard) may find that cheating in this fashion might help you out a bit.
+
+6. Mentioned earlier, but: players who want to maximize the difficulty of this map should play as if losing Progress is a loss condition.  I may make an impossible version of this map in the future, but for the time being, this is certainly a way to make it more difficult.
+
+**7. May 8th 2001.  A few things have been updated which will have a minor effect on the game.  However, I wanted to add here that some people have had an error message that says, "Runtime Error" when trying to load the map.  This seems to be related to starting heroes having no starting spells.  If you encounter this problem when trying to load the map, I have a fix that I can send to you.  Just email me.
+
+**8. June 10, 2001.  The solution to the problem in #7 above is rather bizarre.  Giving a starting spell (disguise) to the four major human players (Sedran, Saed, Roland and Andrea) seems to make this runtime problem disappear.  I have no idea why!  In any case, this version of the map has this fix applied.  If it STILL doesn't work, let me know and I'll try to come up with another solution.
+
+**9. Jan 26, 2005.  A long time since I updated.  Not too many fixes here; mainly grammatical fixes and a few little bugs.  Also increased the amount of time you have until you have until ANdrea has to visit the shrine to the west.
+
+** Cast of Characters, Places, Races of Terraminsc:
+
+1. "Archy", A fisherman on the banks of the Malamazzi
+2. Andrea Mead <AN-dree-uh MEED>, lieutenant-captain and current castellan of Progress.  With Kayerts missing, she is the highest officer of Interior forces.
+3. Antamixylion <ANT-uh-mich-SILL-ee-un> - the World Forest
+4. Arendt Kayerts (AIR-ent KEYE-urts) - Grand Admiral of the Eilian navy, in charge of the Progress Expedition.
+5. Au Chiraz <OW KEY-roz> - the seat of the Chirazzi Empire
+   Baloskamagalar <BAY-los-kuh-MAG-uh-lar>, the First World Tree
+6. Bok <BOCK>, an ogre warrior
+7. Calaxion <cal-ucks-EYE-un>, Devil Lord slain by Craag, ancient leader of the Shi'gal
+8. Canos Quntyn <CAN-ose KENT-un>, Third in command of the Interior forces, ranking under Kayerts and Carlier.  Vanished during the sack of Southpost.
+9. Chenxodotl (Red Grave) <Shen-ICK-zo-DOT-ul> - An ancient abandoned Chizmak temple, deep in the Interior.
+10. Chirazzi - Citizens of the Old Au Chiraz empire, long since fallen. 
+11. Chizmak - descendents of the Chirazzi.  Really no more than a tribe of savage humans who quarrel with the Ogres from time to time.  Their main city, Au Chiraz, was sacked but it is rumored that they have hidden empire somewhere.
+12. Chlorthonis Damaskion <klore-THON-is duh-MASS-key-in>, master healer and a wizard 
+13. Craag <ROG> "the Hack", first Lord of Ogretree 
+14. Cyclops - Guardians of Earth in this world.  Tempermental.
+15. Duk Magal <DOOK (like book) Muh-CALL>, a goblin merchant
+16. Eilia <EYE-lee-uh> - a vast human empire across the ocean, at war with Floagum.
+17. Farleston Outpost (the Lip) - An outpost on the Malamazzi River
+18. Flogum <FLOW-uh-jum> - a rival empire of Eilia, currently at war.
+19. Galaxofagus <GALL-ux-oh-FAG-us>, the 17th World Tree.
+20. The Gate - first outpost after Jackal's Pass.
+21. General Gugalion "Gug" Mescor <Goo-GAL-iun MESS-cur>, ogre warlord
+22. Gofun, the King of Dwarves
+23. Gogonkil - an old Chirazzi city, abondoned shortly after the raids began.
+24. Humans - Not really native to the Island of Terraminsc (except for the Chizmak), humans only recently became involved in the politics there.
+25. Ignacio Sandimocco (the White) - Patron Saint of the Order of Chiuso San Ignacio il Bianco, executed by the Chirazzi for heresy.
+26. Jacques Carlier <YOCK Car-lee-AY> - A high ranking admiral in the Eilian navy; currently serving as the highest officer under Arendt Kayerts.
+27. Jaelyn "Bugs" McKarthen <YAY-lin Mick-CAR-thun>, an AWOL soldier
+28. Jarrid Saed <Jair-EED SAY-ed>, Admiral, Lord Commander of the Eilian navy
+29. Jibbi, Koko's friend, a faerie dragon with a taste for mischief.
+30. Jobar Mol <JOE-bar MALL>, brother of Murak Mol, deceased.
+31. Koko, an azure dragon with a hobby of tearing humans into little pieces.
+32. Madam Timen <TEE-men>, a healer.
+33. Maklar <MECK-lar>, a healer.
+34. Malamazzi River <MALL-uh-MOT-zee> - the main tributary into the Interior of Terraminsc.  
+35. Maran Montaki <MAIR-un mun-TOK-ee>, Murak Mol's concubine
+36. Mortex - the Dead Men.  One of the strange creatures to appear recently on Terraminsc
+37. Mu Mol <MOO MALL>, an ogre prince, son of Murak
+38. Murak Mol <MURE-ock (slight roll of R) MALL>, the Lord of Ogretree and Overseer of Ogrekind
+39. Oetius "Oet" Mabat <OY-shus "OIT" MAH-BAT>, ogre mage and member of the Secret Sect
+40. Ogres - the Guardians of Life, appointed by Baloskamagalar himself.
+41. Ogretree <OH-gur-tree> - the main citadel of the Ogres, built from Baloskamagalar's corpse.
+42. Omastacon <oh-MASS-tuh-con>, a fire elemental, commander of the last elemental armies in Terraminsc
+43. Outpost of Progress - The final frontier in the Interior, last standing outpost.
+44. Orkan Sagrimok <OR-can SAG-ree-mok>, Prince of the Chizmak, currently in hiding.
+45. Pagox - a race of winged corpses that guard the vale of Baloskamagalar's Heart.
+46. Pogug <POE-guck> - a goblin village
+47. Pogukeen - goblins residing in Pogug, subservients of the Ogres 
+48. Polyphemus <Pol-EE-fem-us>, the Cyclops King
+49. Port Calaman <CAL-uh-MAN> - outpost established by Kayerts upon landing in Terraminsc
+50. Pud - A lizard creature currently leading forays against the ogre frontier.
+51. Pyquen <PICK-win>, a soldier
+52. Quentix <CWEN-ticks>, an energy elemental
+53. Rigga <REE-kuh>, an ogre warrior and peasant
+54. Sagir Iomo <Suh-JEER ee-OH-moe>, human soldier, stationed at Pogug message office
+55. Sazlor <SATZ-lur> Verianus <Vair-ee-AN-is>, a Wizard, friend of Craag
+56. Scragh <SKROG> River - small estuary that runs through Pogug.
+57. Sedran von Patre <SAY-drin fon PAY-tur>, Captain in the Eilian Army
+58. Sel Selim <SELL Sel-EEM>, a Wizard of the Needle
+59. Shakeet <Sha-KEET-(uh)>, a nomad in league with the Wizards of the Needle.
+60. Shi'gal - ancient race of demons not seen since their leader, Calaxion, was slain by Craag.
+61. Sir George Scott, Lieutenant, highest officer under Sedran Patre
+62. Sir Harold Kogarian <KOE-gair-ee-un>, a human soldier, 1st officer under the command of Roland Swift.
+63. Sir James (Jim) Terrentel <TAIR-en-tell>, a human soldier, 2nd officer under the command of Roland Swift.
+64. Sir John Califan (the Golden Eagle), a knight of some repute in Andrea's company
+65. Sir Roland Swift, Andrea Mead's highest officer and secret love.
+66. Sir Winfrey Ment, a knight under the command of Andrea Mead
+67. South Post - The first Outpost erected by Kayerts and the gateway to the Exterior.  Has not been heard from in months.
+68. The Sauromenz (Lizard Men) - A new race of unknown origin.
+69. Tailia <Tuh-EEL-ee-uh>, Ogre citadel and main barracks.
+70. Tendus Clevus <TEND-us CLAY-vus>, ogre mage and a hermit
+71. The Gnolls - literally "dog men", a race of creatures appearing recently in Terraminsc 
+72. Terraminsc - A remote island (remote by Eilian standards), it had an important role in the creation of the world.
+73. Thomas Griven, a human soldier, survivor of the Battle of Calaman
+74. Thomas Ment, Sir Winfrey's son, a squire.
+75. Tobin of Aryne <TO-bin AIR-in>, a Wizard of the Needle
+76. Toggas (Tog) <TOG-us, Tog>, an Ogre Chieftain, Castellan of Ogretree
+77. Togor <TOE-gur> - a great Ogre city in the north.
+78. Traemaskeelix <tray-mus-KEE-licks> <TRAY-musk>, Current World Tree
+79. Vaag <FOG>, a cyclops
+80. Vaskar <VASS-kur> Colradion, rebel lord of Tailia and the Tailian Citadel
+81. Verg <VURG>, the Goblin Queen
+82. Vitrochio <Vi-TROKE-ee-oh>, a healer.
+83. Volki River <FOLL-key>
+84. Zachixkoagmoxiatl <zuh-KEEKS-coag-mo-YAH-tuhl>, A.K.A. Zach the Snorter, a rust dragon known to terrorize certain goblin villages.  A legend of sorts.
+85. Zijitakis Mol <ZIJ-ee-TOK-us MOLE>, often called "The Frog", nephew of Murak Mol and Lord of Togor
+86. Zobork <ZOE-bork> "Sniffles" Saag <SOG>, ogre mage and Leader of the Secret Sect
+
+
+Below is a list of spoilers and quest solutions:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A list of Quests and Their Solutions.
+Formula: Where; What to get; Where to get it; Reward.
+
+Note: many quest huts give information which is more valuable than the actual "reward".  For example, a hut that gives 2,000 exp as a reward may also provide information telling the player where to go next.  Therefore, huts that simply give gold or experience are not necessarily "non-essential".
+
+Arranged by Blue Player Quests and Green Player Quests
+
+BLUE PLAYER QUESTS.
+B1. Gate into Pogug, Quest Guard, (99, 75,0).
+   Requires 13 Goblins; Rescue Duk and his friends at (102,79,0).
+   Reward: Passage
+B2. Gate into Ogretree, Quest Guard, (71,77,0).
+   Requires Glyph of Gallantry; Obtain Glyph from Verg the Goblin Queen at (96,61,0).
+   Reward: Passage
+B3. Entrance to Murak Mol's private estate, Quest Guard, (74,72,0).
+   Defeat Vaskar the Traitor in Tailia (44,83,0).  Reward: Passage.
+B4. Tendus Clevus's House, Mushroom Quest Hut, (104,38,0).
+   Retrieve Clover of Fortune from Leprechaun at (84,82,0).
+   Reward: Tendus joins your party (+1 Ogre Mage).
+B5. Gate into Healer's Hut, Quest Guard, (64,99,1).
+   Return with 10,000 Gold and 100 Mercury by solving Zobork's Puzzle at (63,101,0).
+   Puzzle Solution: South Box.  Reward: Passage.
+B6. Max Sandemont's Healing Hut, Mushroom Quest Hut (64,98,1).
+   Return with Tendus Clevus to be healed (1 Ogre Mage) from Tendus's House (#B4).
+   Reward: Tendus is healed (+1 Enchanter).
+B7. Gate to Secret Sect HQ, Quest Guard, (71,102,1).
+   Return with 1 Enchanter from Max Sandemont's Healing Hut (#6).
+   Reward: Passage.
+B8. 2nd Door to Cyclops Cave, Quest Guard, (87,102,1).
+   Smash the door with the Ogre Club of Havoc (must be taken from Zijitakis (#G8)).
+   Reward: Passage.
+B9. The Rogue Cave, Quest Guard, (64,79,1).
+   Return with 20 Cyclops (102,97,1), 1 Cyclops King (101,100,1), 1 Enchanter (#B6) and 1 Rogue (88,24,0).
+   Reward: Passage.
+B10. Raider's Wall, Quest Guard, (1,86,0).
+   Return with 20 Cyclops (102,96,1).  Reward: Passage.
+B11. Gate to Secret Sect HQ Cave, Quest Guard, (37,101,0).
+   Return with Charm of Mana from (45,80,0).  Reward: Passage.
+B12. Magma Wall, Quest Guard (45,31,0).
+   Return with 20 Cyclops (102,97,1) and 1 Cyclops King (101,100,1). 
+   Reward: Passage.
+B13. Wall of Mist, Quest Guard, (47,17,1).
+   Return with Dragon Tongue Sword (must be taken from Andrea Mead, reward from #G13).  Reward: Passage.
+B14. The Final Barrier, Quest Guard, (47,13,1).  
+   Bring 1 Enchanter (#B6).  Reward, Passage.
+
+G1. Archy's House, Quest Guard, (17,75,0);
+   Return with 3 Peasants (42,62,0).  Reward: Passage.
+G2. Messenger Hut 1, Thatch Quest Hut, (102,73,0).
+   Bring Statesman's Medal (begin with it).  Reward: Diplomat Ring
+G3. Messenger Hut 2, Thatch Quest Hut, (77,72,0).
+   Bring Diplomat Ring (#G2).  Reward: 10,000 exp.
+G4. Old Crone's Hut, Thatch Quest Hut, (5,104,0).
+   Acquire 10,000 Gold.  Reward: 2,000 exp.
+G5. Togor Messenger Hut, Thatch Quest Hut, (88,34,0).
+   Return with Necklace of Swiftness (30,83,0); Reward: Ambassador's Sash.
+G6. Outpost of Progress Ambassador Hut, Thatch Quest Hut, (47,34,0).
+   Return with Ambassador's Sash (#G5), Reward: Vial of Mercury.
+G7. San Ignacio's Monastery, Thatch Quest Hut, (54,29,0);
+   Achieve Level 3.  Reward: Skull Helmet.
+G8. Door to the Cyclops Cave, Quest Guard, (87,92,0).
+   Retrieve the Ogre Club of Havoc, held by Zijitakis at (29,83,0).  
+G9. San Frances Monastery, Mushroom Quest hut, (4,51,0);
+   Achieve Level 6.  Reward: Ring of Life.
+G10. Gatehouse to Chlorthonis Household, Quest Guard, (36,19,0);
+   Return with Ring of Life (#G9); Reward: Passage.
+G11. Chlorthonis Household, Mushroom Hut, (37,18,0);
+   Return with Vial of Lifeblood (11,49,1); Reward: Summon Boat Spell.
+G12. Madam Timen's Cave, Quest Guard, (30,57,1);
+   Return with Pendant of Life (19,32,0); Reward: Passage.
+G13. Wizard's Forge, Thatch Hut, (22,85,1);
+   Return with Vial of Mercury (#G6) and Cart of Ore (#G14).
+   Reward: Dragon Tongue Sword.
+G14. Gofun's Home, Mushroom Hut, (82,53,1);
+   Slay Minotaurs at (54,42,1), Reward: Cart of Ore.
+G15. Red Grave Barrier, Quest Guard, (9,8,0);
+   Kill Kayerts (3,4,0); Reward: Passage.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+Map Name:	Somewhere In Desert 
+Game:		HoMM3: SoD
+Designer:	Dmitry Logan - the administrator of Heroesportal team (www.heroesportal.net)
+e-mail:		logan@heroesportal.net
+Type:		Single Player, 1 Human only / 7 Computer only (6 are allied)
+Size:		XL, 2 levels
+Difficulty:	Impossible
+Language:	English
+
+Description:	
+Lady Avi must find her husband, who disappeared while looking for some kind of poweful artifact buried in local sands. There is no information, no clues about the mysterious item or its location - all she knows is that finding the item will help to find her husband.
+
+
+Map Testers: Poison Avi (poisonavi@rambler.ru)
+*This map was downloaded more than five hundred times from our Heroesportal map collection and I've never got any notes about any problems with it.
+
+Special Win:	Acquire artifact (Armageddon's Blade)
+Special Loss:	NONE
+Special Other:	Pay attention to the events and beware - thare are numerous ambushes on roads!

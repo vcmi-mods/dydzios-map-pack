@@ -1,0 +1,351 @@
+
+                   MAP SUBMISSION
+-------------------------------------------------------------
+Map Name:   One of Each    (One of Each Version 1.32.h3m)
+  DOS Name:   ONEOFE~1.H3M
+  zip:        1ofeach.zip
+Map Makers: Timothy Pulver (Fnord), David Page (Gageteer)
+  E-Mail Addresses: fnord@kingston.net, gageteer@hotmail.com
+
+Map Type: HoMM 3
+Version: Version 3.2 (The Shadow of Death expansion)
+    - 1v1 (duel)
+  Size: Medium (2-level)
+  Difficulty: Normal
+  Language:   English
+
+Player Positions:
+  blue:  Human
+  green: Human
+			
+Special Win/ Loss: None
+
+Suggested Playing Difficulty: Hard (or higher)
+(see Important note below regarding resources)
+-------------------------------------------------------------
+
+IMPORTANT:        Due to a bug in the game and the setup of the map, it is impossible for the 
+                  guest player to select a starting hero and bonus *unless* you are playing a
+                  hotseat game. Because of this, the host player should NOT select a starting
+                  hero or bonus either--both players should select ONLY their town type and
+                  leave hero and bonus random.
+
+                  (Starting hero will actually appear as "None" to the guest player on the
+                   advanced options screen, but will appear as selectable to the host player.)
+
+
+Narrative:        Lady Celaine has hired you to determine which creatures make the best army 
+                  and which skills are best taught to the leaders. As one of two generals, you 
+                  will put together a force of your choosing below ground and then battle it 
+                  out against your counterpart amidst the surface maze of desert mountains.
+
+Overview:         Rather than recruiting troops in the normal fashion, players will have the
+                  opportunity to flag their choice of one external dwelling of each level. All 
+                  non-neutral dwellings (and a few neutral ones) are available, and are arranged 
+                  in groups near the starting towns. Also, rather than starting with a few 
+                  skills and gaining the rest in semi-random fashion, all heroes will be able to
+                  select all 8 of their starting skills at basic level by visiting witch huts.
+
+                  NOTE: If you have any troubles figuring out what to do at the start of the 
+                        map, be sure to scroll down and read the section on "Getting Started".
+                        (Or you can read it over before playing if you prefer.)
+
+Computer Player:  This map is geared for two human players. Although the AI CAN play one side,
+                  it rarely makes intelligent decisions and is certain to construct an inferior
+                  army. If you decide to play against the computer anyway, it is recommended
+                  that you set the difficulty to Impossible and let the computer play Green (it
+                  appears to have a slightly easier time with the Green starting area layout).
+                  The difficulty rating still won't help the AI much but it's better than 
+                  nothing.
+
+Getting Started:  Artifact "keys" will be used to gain access to the dwellings chosen. Players
+                  begin with the key to a single level one dwelling. After selecting a level 
+                  one dwelling, a single level two dwelling key can be claimed and a level two 
+                  dwelling chosen. The key to each level of dwellings is located near that 
+                  dwelling group. If a player flags all dwellings possible, he or she will end
+                  up with eight dwellings in total; one each of levels one through seven, and
+                  a single powerful neutral dragon dwelling. Note that flagging dwellings
+                  beyond level four requires fighting the dwelling guards, so it's likely that
+                  some delays may occur while building up a sufficient army in the first few 
+                  weeks. Hill forts are located nearby.
+
+                  The start of this map can be a bit confusing. There are text events and 
+                  other messages giving prompts, but it may still require some clarifications.
+                  1. Each of the first few groups of dwellings has a front and back "door".
+                     These doors are quest gates. The front doors require an artifact (that
+                     you'll find nearby) and the back doors require locksmiths (peasants) that
+                     you will also be lurking nearby (they will join you). To reach the back 
+                     door, you must go *through* the dwelling that you've chosen.
+                     NOTE: Do NOT attack nor dismiss the peasants or you will be stuck!
+
+                  2. For various reasons there is a time limit on the back door quest gates. 
+                     You will see a message about having to return in x days. This simply means 
+                     that you have a limited time to open the quest gate with the peasants.
+
+                  3. You will have only one hero initially available to move with. After you 
+                     have flagged the first few dwellings you will be able to release the other 
+                     heroes from their confinement. Once released, the other 7 heroes can get 
+                     their starting skills from witch huts and/or explore and help gather 
+                     creatures.
+
+                  4. The higher level dwellings (level 5 and up, plus the Golem Factory) have 
+                     guards that must be defeated before you can flag them. You may still select
+                     the dwellings you wish to eventually take by visiting the appropriate quest
+                     guard.
+
+                  5. Aside from resource silos, do not be overly concerned with building town
+                     structures in the first week (though you may build if you wish--it's up
+                     to you). For more details, see the section later on in this text file.
+
+                  6. Due to the unorthodox setup of this map and controlling 8 heroes by week 2,
+                     game play is likely to be initially slower than normal. Do not be 
+                     discouraged by the slow start--the pace should pick up by month 2.
+
+
+
+Detailed Play Notes:
+
+                 Dungeon Towns and Starting Town:
+
+                  Each player starts the game with three Dungeon towns and one other town of
+                  their choosing, excluding Dungeon. All towns are limited in what they can 
+                  build as follows:
+                  a) all creature dwellings are disabled;
+                  b) as a result of this, any dwelling requiring a creature dwelling cannot be
+                     built either;
+                  c) the Dungeon town Mage Guilds provide all level 1 spells (5 per guild) but
+                     no higher level guilds can be built. The starting town you select will 
+                     also have a level one Mage Guild but with no spells--it is there to allow 
+                     for spell point regeneration and for the building of certain special town 
+                     structures that require a Mage Guild such as the Tower's Wall of Knowledge;
+                  d) Dungeon towns cannot improve their halls beyond the starting Village Hall, 
+                     however, the player-selected town will automatically have higher levels
+                     of hall built over the course of the first 2 months of play (up to Capitol);
+                  e) Shipyards cannot be built as there is no water near the towns and not too
+                     much on the map as a whole;
+                  f) each Dungeon town comes with a prebuilt Portal of Summoning. To get 
+                     maximum benefit from the Portal, you may wish to avoid checking it until 
+                     the end of the week, after you have flagged as many dwellings as possible.
+                     This will give a chance of higher level troops appearing in the portal.
+
+                  Note: see the sections on Starting Town Selection and Town Development below 
+                        for further information and tips.
+
+
+                 Starting Town Selection:
+
+                  a) Castle cannot build Stables due to the Barracks requirement and cannot
+                     build Brotherhood of the Sword due to the Tavern requirement. The 
+                     Blacksmith is mostly redundant since the Dungeon towns can build the same
+                     type (ballistas). Aside from the Resource Silo (wood & ore), there's little 
+                     reason to select Castle unless you want Castle heroes or hope to build the 
+                     Grail there;
+                  b) Dungeon *cannot* be selected, but you start with three Dungeon towns. All
+                     special Dungeon buildings can be built. Dungeons start with their Portal of
+                     Summoning prebuilt. Hint: in the first week, wait to check the portals
+                     until after you've flagged a level four (or higher) dwelling, as this
+                     will increase your chance of some good extra troops early on;
+                  c) Fortress can build all its special buildings. The Blacksmith (first aid 
+                     tent), Cage of Warlords (+1 defense), and Resource Silo (wood & ore) may 
+                     make it a reasonable choice;
+                  d) Inferno can build all its special buildings. The Blacksmith (ammo cart)
+                     and Order of Fire (+1 power) may make it useful if you hope to use magic
+                     and/or shooters much. Also, the Resource Silo produces mercury;
+                  e) Necropolis can build all its special buildings *except* the Skeleton
+                     Transformer due to the Cursed Temple requirement. If you plan on taking
+                     Necromancy skill, the Amplifier could be useful. The Cover of Darkness is
+                     always handy for hiding your base of operations, but beware if your
+                     opponent chooses Tower, since the Lookout Tower (if built) will mostly
+                     counteract the Cover of Darkness. The Resource Silo produces wood & ore;
+                  f) Rampart can build all its special buildings *except* the Treasury due 
+                     to the Miner's Guild requirement. The Mystic Pond could be useful if 
+                     bought early and the Blacksmith produces first aid tents. The Resource
+                     Silo produces crystal, making this a good choice if you plan on flagging
+                     the green dragon dwelling or the behemoth dwelling as your level seven 
+                     creature selection;
+                  g) Stronghold can build all its special dwellings, but without Taverns on 
+                     the map, the Escape Tunnel is useless. The Hall of Valhalla (+1 attack),
+                     Blacksmith (ammo carts), and Resource Silo (wood & ore) could make this a 
+                     reasonable choice, and heroes who advance quickly in attack skill aren't 
+                     bad either;
+                  h) Tower can build all its special dwellings, but without spells in Mage 
+                     Guilds, the Library is useless, and the the Artifact Merchant is 
+                     redundant since the Dungeons can build them too. However, the Blacksmith 
+                     (ammo carts), Wall of Knowledge (+1 knowledge), Lookout Tower (see into 
+                     enemy's starting area), and Resource Silo (produces gems), all make Tower 
+                     quite a good choice of starting town;
+                  i) Conflux can build all its special buildings, but the Artifact Merchant and
+                     Blacksmith are redundant, and the Magic University is useless since all
+                     magic skills can be learned for free from the witch huts. Aside from the
+                     heroes and Resource Silo (produces mercury), Conflux probably isn't a 
+                     great idea on this map *unless* you manage to find and build the Grail 
+                     there (which will give you incredible power but will NOT be easy). Aside
+                     from the Grail gamble, Conflux isn't a great option. And if you plan to 
+                     flag a firebird dwelling and believe you'll need the mercury, Inferno is 
+                     probably still the better choice for this map.
+
+
+                 Town Development:
+
+                  Because there are no dwellings that can be built in any of your towns, and 
+                  because you cannot upgrade your hall (though it will be done through timed
+                  events anyway--see below), it is not necessary to build structures every day 
+                  in the first two weeks (and in fact, you probably won't have enough initial 
+                  resources to keep building for long anyway).
+
+                  The most important structures to build are probably your Resource Silos, 
+                  especially if you have one that produces wood and ore, as this will allow
+                  you to construct other town structures sooner. Most of the other structures
+                  will not matter when you build them, as long as you build a few before your 
+                  main heroes venture forth (such as the Battle Scholar Academies, a Blacksmith,
+                  and a Mana Vortex).
+
+
+                 Timed Hall Development:
+
+                  Month 1, Week 1, Day 1: Village Hall
+                  Month 1, Week 2, Day 1: Town Hall
+                  Month 2, Week 1, Day 1: City Hall
+                  Month 2, Week 3, Day 1: Capitol
+
+
+                 Heroes:
+
+                  Each player begins the game with eight random heroes of the type matching 
+                  their chosen town type. Seven of these random heroes will initially be 
+                  confined to a "pen" but can be released by the eighth hero in the first week
+                  of play. The following information should be noted about these heroes:
+                  a) there are no taverns on the map, so these heroes must last the game and
+                     can neither retreat nor surrender without being lost;
+                  b) all starting heroes (both might and magic) begin with spell books;
+                  c) starting heroes do NOT begin with any spells, even if they have a spell 
+                     specialty;
+                  d) starting heroes do NOT begin with war machines, regardless of specialties;
+                  e) all starting heroes begin with artifacts that boost their morale to +4 and
+                     their luck to +1 -- this allows for some mixing of troops types, though 
+                     leadership skill is still required for an army with 7 different factions,
+                     or with six factions including undead;
+                  f) heroes begin with no skills, but all skills are available in the starting 
+                     area in the form of witch huts. Each group of huts is sign-posted and icons
+                     (usually artifacts) are behind most huts to help identify them. For easy
+                     reference, a listing of the witch hut groupings is below.
+
+
+                 Skill Notes:
+
+                  a) magic is somewhat harder to come by above level 1--most higher level spells 
+                     on the map are available only in the form of scrolls, however, there are a 
+                     few sites that teach spells, such as shrines and pyramids, as well as the 
+                     occasional scholar. On the other hand, almost ALL spells are available in 
+                     the form of scrolls (at least one of each, two of each for many of the 
+                     most useful ones), so it may still be wise to give heroes magic skills;
+                  b) navigation isn't too useful on this map since there is only a small amount
+                     water--probably not enough to justify using a skill slot;
+                  c) diplomacy may or may not prove useful. Most monsters will be either hostile 
+                     or savage;
+                  d) scholar skill may also not prove too useful, unless you happen upon a 
+                     really good spell at one of the shrines;
+                  e) any hero can choose any skill, so you don't have to be a necromancer to 
+                     take necromancy and necromancers can take leadership.
+
+
+                 Witch Hut Groupings:
+
+                  Collections
+                     Scouting, Estates, Learning, Diplomacy, Necromancy
+                  Magic
+                     Sorcery, Intelligence, Eagle Eye, Mysticism, Scholar, Wisdom
+                     Air Magic, Earth Magic, Fire Magic, Water Magic
+                  Movement
+                     Logistics, Pathfinding, Navigation
+                  Might (non-enhanceable)
+                     Luck, Leadership, Tactics
+                  Might (enhanceable)
+                     Armorer, Resistance, Archery, Offense
+                  War Machines
+                     Artillery, Ballistics, First Aid
+
+
+                  Hint 1: after one hero has all eight skills selected, have him or her visit 
+                          the rest of of the unvisited huts, so that right-clicking will show 
+                          the skill taught there.
+
+                  Hint 2: you may wish to build the Battle Scholar academy in the Dungeon towns
+                          to give each of your heroes some starting experience. If you do so, 
+                          make sure to have them choose skills *before* entering a town with
+                          an academy built. That way, you'll avoid wasting a level-up acquiring 
+                          a basic skill level in something.
+                          
+                  Hint 3: skill selection for 8 heroes can be quite time consuming when done 
+                          all at once. It may save considerable time if you make a list of
+                          skills that each of your 8 heroes will probably choose. You can always
+                          adjust this during the game but it will serve as a good starting point.
+                          You may even benefit from making a couple of extra lists, since the
+                          skills of might heroes will likely differ  from those taken by magic
+                          heroes and you may not wind up with a 50/50 split.
+
+
+Mapmaking Notes:  This section explains why things were done the way they were done in this
+                  map. It is not crucial information and should only be read if you're curious
+                  why certain things are limited and others are done a specific way.
+
+                  1. No Taverns. If Taverns were included they would introduce additional
+                  troop types (a hero's starting troops) into a player's army. In order to
+                  keep the armies limited to your 8 selections (plus a few Nomads and possible
+                  use of Diplomacy skill later in the game), Taverns have been omitted.
+
+                  2. Timed Hall Development Only. Without Taverns, it's impossible to upgrade
+                  a hall the normal way. Starting with a Capitol would provide too much gold 
+                  initially. The timed Hall building provides a gradual increase in income.
+
+                  3. Forced Flagging of Initial Dwellings (levels 1-3). Due to the Portals of
+                  Summoning in the Dungeon towns (which provide a nice boost to your army ranks
+                  while introducing a small random element), it was necessary for balance
+                  purposes to force each player to flag dwellings of the first three levels. 
+                  Although a 4th level dwelling could be skipped, it makes no sense to do so.
+                  And it's impossible to force flagging of the dwellings above 4th level, due
+                  to the option to fight or not fight the built-in guards.
+
+                  If players were allowed to skip dwellings of level 1 through 3 and only flag
+                  the higher level dwellings, the guaranteed extra higher level troops from the 
+                  portals would yield a more powerful army than one with lower level dwellings 
+                  also flagged. This has been tested. As the purpose of the map is to have 
+                  players choose the best creature from each of the 7 levels (plus optionally,
+                  one powerful dragon), the initial setup was necessary.
+
+                  4. Peasants (Locksmiths) who Open Back Doors of Initial Dwellings. In order 
+                  to guide starting heroes through the flagging of the first three levels of 
+                  dwellings, the front door/back door concept was necessary. The decreasing 
+                  number of peasants makes it impossible to get through a second back door of 
+                  a previous level. The time limit on the back doors prevents randomly recruited
+                  peasants (wandering or "month of the") from being used to gain access to 
+                  another level 1-3 dwelling later in the game.
+
+                  5. No Dungeon Town for Starting Town. Dungeon towns can build Portals of 
+                  Summoning. Given the restrictions on creature dwellings, troops are at a 
+                  premium. If a Dungeon town was allowed as your chosen starting town, it
+                  would always be the best town to choose because of the extra Portal. In the
+                  map editor there is no way to disable a Portal of Summoning on a random town.
+
+                  6. No Starting Spells for Heroes. Several Heroes begin with high level spells
+                  such as Chain Lightning, Meteor Shower and Resurrection. Due to the open skill 
+                  selection (and easy building of three Battle Scholar Acadedies), it would be a 
+                  little too easy for a Hero to gain Advanced Wisdom and Expert Scholar. This 
+                  would be sufficient to give ALL your heroes those high level spells and would 
+                  make a few town types (primarily Tower and Necropolis), the only ones worth
+                  taking. It would also partially invalidate one of the unique aspects of the
+                  map--limited access to most high-level spells.
+
+
+
+Map-Testers:	  
+
+                  Yvette..................yvette@axion.net
+                  Julia Skipper...........angelshome@ns.sympatico.ca
+                  Qurqirish Dragon........QurqirishD@aol.com
+                  Joseph Tom..............joedragons@softhome.net
+                  Rachel Butt.............rbutt@pcug.org.au
+                  Andrew Stern............diabolus_accendo@hotmail.com
+                  MegaDeath...............titansareus@home.com
+                  The Dark Archangel......tonip_yu@yahoo.com
+                  Sargetul Iulian.........sargetul@xmail.com

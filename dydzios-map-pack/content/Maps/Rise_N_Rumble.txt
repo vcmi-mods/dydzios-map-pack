@@ -1,0 +1,40 @@
+
+                   MAGELLAN'S MAP SUBMISSION
+
+Map Name:	Rise_N_Rumble
+Map Maker:	Terry Griffith aka Nomad_oWn
+E-Mail Address:	cmourgaches@home.com
+
+Map Type:	Singleplayer (or Multi) 7 Humans Or Computer 1 Computer
+Language:	English
+
+Description:	[what you see in the HOMAM window]
+
+Special Win:	NONE
+Special Loss:	NONE
+Special Other:	NONE
+
+Narrative:	Start underground and secure.  Build up and venture above to expand your empire and conqueor your enemies.
+		Primarily a single player game though careful attention was made to balance the starts so could become a decent multiplayer map.
+		One area in particular offers many rewards.  It is however well guarded. Teal is a computer only color and will have a huge army by the time you find him.
+		This is my first SOD map but I have done a few HOMM II maps.  Email me if you like this one and I'll send you the others.
+
+Play-Testers:	Rebecca:beckerb@compuserve.com
+              	
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+Put tips, strategies or other spoilers here if you have any.
+
+Get above ground as soon as possible.  Take the two towns underground quickly and choose which to build up.  Might be best to build the original as gold producing initially,
+and the second and your army producer as it is closer to underground stairs.  Hit the random creature generator in week 1 if you get lucky with a level 6 or 7 stack you might be able to leave the underground in week 1.
+Make sure your above ground by week 3 or you will miss out on large amounts of resources and experience. Movement as always is essential.  Don't neglect pathfinding on your main hero as there are a few rough terrain areas
+that seem to attract action.  I suggest diplomacy on your primary hero and travel with at least 1 other hero so that he may benefit from random stack joins. As soon as you get above ground and raise a significant army send 
+your primary hero to the islands at the maps center.  The center holds some advantages like artifacts and Level 5 spell structures.  I play tested this 3 times and each time the computer beat me to the center and found the 
+randomly placed grail almost immediately... so you'll need to get there fast.  If you get a tower town, build up the mage guild right away and town portal is likely. This map becomes alot easier with town portal. Its easy
+to lose site of the conqueoring while building up the above towns.  If speedy victory is your thing focus on the underground towns and computer seems to fold more quickly.
+
+==================================================================================

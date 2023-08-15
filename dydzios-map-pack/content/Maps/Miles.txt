@@ -1,0 +1,23 @@
+==================================================================================
+  
+Map Name:	And Miles To Go
+Map Maker:	Miles Baker
+E-Mail Address:	milesbaker@juno.com
+
+Map Type:	Multiplayer/Singleplayer, 8 Humans Or Compute
+Map Size:       Large, 2-level
+Language:	English
+
+Description:	Eight factions all agree that the grass is greener on the other side
+                of the fence, even in places where there is no grass.
+                War is coming.  Seers foretell that the greatest leader will possess
+                wisdom and courage in equal measure.
+
+Special Win:	NONE
+Special Loss:	NONE
+
+Play-Testers:	Tony Distler  adistler@ace.cs.ohiou.edu
+              	Zhad & Mahathma  boxi@eunet.yu
+              	Pete StJohn  peter@middletownde.com
+
+==================================================================================

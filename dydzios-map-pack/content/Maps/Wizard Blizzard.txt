@@ -1,0 +1,23 @@
+
+                   MAGELLAN'S MAP SUBMISSION
+
+Map Name:	Wizard Blizzard
+Map Maker:	Jeff Enns
+E-Mail Address:	Tazor13@ignmail.com
+
+Map Type:	Multiplayer or Singleplayer, 2 Humans/Computer vs. 2 Computer players
+Language:	English
+
+Description:	The once good wizards of the north have turned to greed, and the evil side. 
+                They have cast a spell on the continent, turning the northern half into frozen 
+		winterlands, making themselves rather hard to get to. The noble knights and elves 
+		have taken up arms and allied in order to defeat this foe.
+
+Special Win:	One side defeats another
+Special Loss:	NONE
+Special Other:	Cooperative
+
+Narrative:	The story is carried out within the first few days.
+
+Play-Testers:	Andrew Muth at b-dmuth@uniserve.com
+		Myself (Jeff Enns) at tazor13@ignmail.com

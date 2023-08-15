@@ -1,0 +1,182 @@
+HOMM3 Map - Readme File
+As an extra treat, I've included an original music file to go with the map!  Hope you enjoy! - Tim
+
+
+Sander's Folly
+
+A HOMM3 Map by Timothy Duncan (Corribus)
+
+Version: 1.6 
+Updated date: March 15, 2000
+File Name: Sander.H3M and SanderE.H3M (*easy version*) <-- This version no longer exists!!!
+Mapmaker's Email Address: tduncan@sas.upenn.edu
+Accompanying music file created also by Tim Duncan
+
+Victory Condition - Obtain Artifact (Statesman's Medal)
+
+Loss Condition - None (see notes)
+
+Special Thanks to MegaDeath (Steven Peters: titansareus@home.com), Space_Orca (space_orca@hotmail.com), Viktor Coyot Urban (coyot@pinknet.cz), Quinn the Ancient Mariner (QuinnAM@att.net) and Raolin (Joshua Dyal: raolin1@hotmail.com) for playtesting this map. Their feedback was invaluable.
+
+UPDATE NOTES for v1.6
+1. Removed MORE of the final hero's shooting troops.  Now he starts with virtually none.  So, enough complaining, folks! :-)
+2. Fixed a potential problem area -- there was an island that was unreachable without expert scouting, which Sander is not guarunteed to get.
+3. Put some gold in the beginning of the map to compensate for the lack of a gold-donating blue hero.
+
+UPDATE NOTES for v1.5
+1. Fixed "inaccessable" red tent.
+2. Blue should no longer give you gold.
+3. More gold added to special treasures at end, so you will have some extra cash to build up for those final battles.
+4. Blue's castles stripped down to prevent him from giving you gold.
+5. Sulfur mine at Ma'Goon is no accessable without clearing the coastline.
+6. Clubber quest fixed; the quest now requires an artifact (thanks to Holst - I think it was him but I deleted the email :) - for the great suggestion).
+7. Reduced the final hero's shooters.
+8. The pirate's treasure quest has been fixed.  I had the number of N/S spaces off by 2.  Oops!
+9. Moved an easy-to-miss event.
+10. Fixed a few spelling errors.
+11. Changed the day of computer-resource bonuses. 
+12. Garrison at Ma'Goon should hopefully now be empty when you get there.
+13. When I was moving the necro heroes around, their garrisons somehow got erased!  They now start with some troops! :)
+14.  Last, a NEW quest was added.  If you can solve it, you will get a nice artifact that will help with the final battle.
+15. Double last, the escape tunnel option at Harquine was disabled.
+
+Special Notes:
+As usual, there are several notes that I should add here.  I will number them for your viewing convenience.  PLEASE READ THEM BEFORE PLAYING. You will avoid some headaches.
+
+1.  There are a number of inaccessable structures, particularly in the beginning.  This has been done intentionally both to prevent you from becoming side-tracked in the first stages of the map (they are more for aesthetics) and to prevent you from acquiring resources and troops.  Some troop generators CAN be accessed in the beginning; I advise not visiting these structures, as the troops will not aid you and you will only end up wasting time and resources.  
+
+2.  You are given a town in the beginning, which serves more than one function.  The most obvious of these is that it allows you to exist in the map without being declared a loser after 7 days.  The other functions of the town should become clear as you play through the introduction of the map.  The town does provide an income.  Save this money and don't use it until you absolutely must.  You will not need another hero until you find your first castle, so don't hire one!  It will only mess things up and will not help you.
+
+3.  I deliberated on whether or not I wanted to include the Narrator in this map, especially due to some of the player feedback (there was a small minority that did not care for it) and the fact that the AB allows for unlimited text in events.  Well, after some thought, I decided that the Narrator does add a little flavor and some originality to my maps, so I have kept him in.  HOWEVER, he does only play a minimal role in this map and there are only a few places where you will need to use him to read events, although you should use him in the same way you used him in GoldHeart.  If you did NOT play GoldHeart, the idea is simple: there is an auxillary hero in the top portion of the map, completely sequestered from the rest of the action.  His sole purpose is to read events, divided into chapters.  You will be instructed in the map by other events when to move the Narrator to a new chapter.  Move the Navigator forward ONLY when instructed to do so!  I think the main gripe against the Narrator was the constant clicking that came with reading a lot of events in a row.  Each chapter along the Narrator's path includes now no more than one event tile, so clicking is at a minimum.  If you STILL do not care for the Narrator, I can provide the events to you in regular text file format.
+
+4.  A tip: Mercury is at a premium in this map, at least in the beginning and middle phases.  You may at times be given small portions of the resource, or I may have slipped and you might find another way to procure small quantities.  I recommend that you consider long and hard how you want to use the little bit that is provided to you.  Before blowing it on erecting Mage Guilds, I urge you to consider the fact that many of the Tower structures require small quantities of mercury to be built.
+
+5. The following spells you should not be able to acquire by normal means: View Earth, Water Walk, Fly, Dimension Door and Summon Boat.  If you should acquire them due to some lapse in my planning, I encourage you not to use them.  Some or all of these spells may be used in special cases throughout the map - you'll know when these cases are.
+
+6. It is possible, although unlikely, for you to trigger chapter 4 before chapter 3 (with the narrator).  This can ONLY happen if tan lands on your shores and you take one of their ships and do all your fighting before doing the wizard's tests and stuff.  Tan is prevented from landing on your shores by the resources along your shores.  Removing the resources will give you a resource advantage but tan will then harass you.  This is a decision you'll have to make on your own.  HOWEVER -- Whatever you do, I would encourage you to complete the wizard's test and visit the Mountain Fortress BEFORE boarding a ship and tackling the enemy.  
+
+7. Before the latest update was published, a lot of people wrote in and said that I should provide the player with logistics or pathfinding.  I have elected NOT to do this.  I don't like forcing players to have to use certain skills.  The map is certainly winnable withOUT logistics or pathfinding, but the fact that some people wrote and encouraged me to include it should be taken as a sign that it would be a valuable skill for you to have.  This is just a tip. 
+
+8.  Remember, if you can't beat one of the final heroes, don't give up.  Get more troops, come back, fight again.  
+
+9. Questions/Comments?  Please write me at tduncan@haverford.edu and tell me what you think. Only by reading player feedback can I make my maps better!
+
+**** BELOW IS A LIST OF SPOILERS AND QUEST SOLUTIONS, SHOULD YOU GET STUCK****
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPOILERS:
+A list of Quests and Their Solutions.
+Formula: Where; What to get; reward; where to get it.
+
+1. Professor Ogom at 11,8,0.
+   Wants 50 Knowledge; Rewards Statesman's Medal; 
+   Acquire 50 knowledge from Jared Morgan in an event at 115,54,1.
+
+2. Guard tower at 131,29,0.
+   Wants Ambassador's Sash; Rewards Passage; 
+   Acquire the Sash from King Leblanc from an event at 117,9,0.
+
+3. Prison gate at 9,60,1.
+   Wants Pendant of Free Will; Rewards Passage; 
+   Start with the Pendant
+
+4. Tower before Mountain Fortress at 92,88,0;
+   Wants Pendant of Free Will; Rewards Passage;
+   Acquire Pendant of Free Will from Gideon the Emeritus at 73,130,0.
+
+5. Joe's Towers at Various Locations
+   Wants you to defeat the trolls at 7,71,1; Rewards Passage
+
+6. Wizard's Test at 73,130,0;
+   Wants Emblem of Cognizance, Pendant of Second Sight and Pendant of     Courage; Rewards the Pendant of Free Will;
+   Acquire Emblem of Cognizance from Pandora's Box at 79,124,1;
+   Acquire Pendant of Second Sight from Pandora's Box at 88,124,1;
+   Acquire Pendant of Courage from Monsters at 84, 139, 1;
+
+7. Colonius the Apothecary at 115,71,1;
+   Wants you to slay rust dragons at 14,139,1; Rewards Vial of    
+   Lifeblood;
+  
+8. Mercury Alchemist at 112,66,1;
+   Wants 200 Mercury; Rewards Everpouring Vial of Mercury (200 mercury
+   can be found at Sagimyris' Mercury Factory at 56,44,1).
+
+9. Eron the Transport Wizard at 114,65,1;
+   Wants Vial of LifeBlood, Vial of Mercury, and Orb of Inhibition;
+   Rewards Passage.
+   Acquire Vial of LifeBlood from Colonius at 115,71,1;
+   Acquire Vial of Mercury from Mercury Alchemist at 112,66,1;
+   Acquire Orb of Inhibition from Eric Leblanc at 39,37,0.
+
+10. Border Gates:
+   White: 83,112,0
+   Red: 1,142,0
+   Black: 14,88,0
+   Green: 75,138,0
+   Purple: 70,46,0
+   Dark Blue: Inaccessabe to Human Player
+   Light Blue: 50,85,0
+   Brown: 35,42,1
+
+11. Margaret at 43,112,0
+   Wants 10 Minotaur Kings, 4 Earth Elementals, 5 Magic Elementals, 1     Faerie Dragon, 7 Mummies; Rewards Titan's Gladius.
+   Acquire Minotaur Kings at Warlock town at 93,46,1.
+   Acquire Earth Elementals at 55,62,0
+   Acquire Psychic Elementals at 76,10,1 (Need to Town Portal there
+	using imprisoned hero at 17,58,1 and Magic Fields), upgradable
+        to Magic Elementals at Hill Fort at 24,117,0.
+   Acquire Faerie Dragon at 12,100,0.
+   Acquire Mummies at 5,80,0, need water walk from black tent island.
+ 
+12. Joshua Redbrow at 39,102,0;
+   Wants you to kill Clubber at 16,130,0; Rewards passage.
+
+13. Pirates Treasure can be found at 80,140,0
+
+14. Guard tower at 29,50,0; Wants you to defeat Gaylin Dale;
+   Rewards passage.
+
+15. Guard towers at 14,49,1 and 15,42,1;
+   Want Pendant of Death; Reward Passage
+   Acquire Pendant of Death form Sagimyris at 36,33,1
+
+16. Jared's Treasure can be found in an event at 17,41,0
+
+17. Jim's Quest at 68,66,0
+    Want to destroy zealots (actually they join you) at 40, 122, 0	
+    Reward Sentinel's Shield.
+    Reaching the Morhan Monks is easy.  Finding them is not.  There are
+    two events on the map which describe an inexplicable"humming"     noise. Each of these events occurs on the same space (but on the 
+    other "side" - i.e. underground/overground from one of a pair of 
+    portals.  Connecting the "humming" to the portals should be obvious
+    after visiting the underground map revealing structure as the exit
+    portal will be revealed (and the player should be able to notice 
+    that it is directly "Below" one of the "humming events").  Thefore,
+    the entrance portal must be directly "above" the other "humming
+    event", and, although it is hidden behind a volcano at 19,72,0, the 
+    player should be able to find it.
+
+18. To find Eric Leblanc: First you need to solve Joe's Towers quest.
+    Visit the tower at 93,58,0.  You should be able to see a small
+    patch of terrain past the forest to the east.  Using the fly 
+    spell, which the hero imprisoned at 12,58,1 has, fly to this spot
+    and proceed underground, where you will find a Magellan's Maps
+    structure.  Now, using the Speculum (hero imprisoned at 20,58,1)
+    and expert scouting, you should be able to water walk across the
+    underground lake at 72,65,1 to a small island.  Finding Eric        Leblanc now will be easy, although you may want to pick up the 
+    Sea-Captain's hat at 58,66,1 before going through the whirlpool.

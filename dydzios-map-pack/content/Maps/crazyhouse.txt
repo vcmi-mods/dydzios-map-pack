@@ -1,0 +1,82 @@
+
+
+Map Name:	 Crazyhouse
+Map Maker:	 Alter Ego
+E-Mail Address:	 alterego0555@hotmail.com
+Maptester:	Erich Lukas (AnErDe.Lukas@t-online.de)
+
+Map Type:	 M single player, 1 Human, 5 Computer Only
+Language:	 English
+
+Description:	You are the head nurse of a large madhouse. Your mission is to tranquilize all the madmen before the National Mental Health Institutions Inspectors arrive in 4 months. Schizophrenics are there to help you (although you wish they weren't).
+Warning: contains some black humour.
+
+Special Win:	NONE
+Special Loss:	Time expires (losing the Nurse before she has captured a town with tavern enabled or AlterEgo means loss too.
+Style:		Story map with some problem solving
+Difficulty: 	hard/expert
+
+Story:		Fight your way through the Institution, starting from your cozy office through the Department of the Raving Mad to the Schizos' Place. And make it back again to challenge Marchhare and the Hatter.
+Notes:		- First of all, this map is based on a whole new concept of being allies. Defeating all enemies means also defeating your ally and sacrificing your friends and colleagues.
+		- "weeks of..." may make the map impossible, especially if unicorns pop up at AlterEgos path. Try reload if that's the case. (Plague will not work in your favour either.)
+		- summon boat not allowed in any guild, magic guild levels 2 and higher not allowed in many castles, some other spells banned for different reasons
+		- Marchhare (pink) is best released in Week 3 Day 5, so that you can evacuate with Week 4 troops. If you do it earlier, you may find it difficult to get past the wandering monsters; if later, you may not be able to defeat blue.
+		- Complete all the seer's quests, their point is to take powerful artifacts (e.g Tome of Air Magic) away from the player, but believe me, you can't win without great sacrifices.
+		- Visit all the scholars, even if they teach you rubbish like Sholar or Eagle Eye. Again, the scenario will be impossible (or rather difficult) without these skills.
+		- Free AlterEgo before attacking blue. Don't trade any creatures with her, she will be able to defeat Purple with her own few master gremlins. In the long run a few extra troops would make no difference anyway. (If it were possible to take certain troops away from a hero in a hidden event or Pandora's Box, I would have used it!)
+		- AlterEgo may want to destroy the boat to prevent Libido from boarding it instead of chasing her. He'll come after her eventually but this time he will have a secret weapon which makes it impossible for AlterEgo to beat him.
+		- Check out all the Pandora's boxes.
+		- In the Department of the Raving Mad, watch out for Superego. She will probably be Orange's strongest hero (even stronger than you). Recanter's Cloak may come in handy against her since she may use some high-level fire magic at expert level (possibly armageddon + summon fire elemental). You may want to save the game before this part, so as not to be accidentally wiped out by her under unfavourable circumstances.
+		- "The final treason" - there is a reason why there is a prison and a locked-up tan hero :)
+
+		- BTW, "crazyhouse" actually is a version of chess where you get to place the captured pieces on the chessboard as your own. It's an absolutely bizarre game. If you play chess, you may want to try it on some online chess site that supports crazyhouse. Don't be surprised if you lose all of a sudden in a seemingly secure position.
+
+Any comments, suggestions or questions are welcome
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+
+
+
+Can't defeat Marchhare? You are not supposed to until in the very end. Use Dimension Door to get to the boat when he is too far to reach it in one day (he's got Logistics, beware).
+
+Rumbler casting chain lightning / lightning bolt with devastating results? You are wearing the Pendant or Negativity that you got from the seer just outside his castle?
+
+How do I crush the blue Maniac? You won't! Use Dr Braindead to lure him into the one-way monolith. The orange hero with one-square patrol is his ally, hence he will be trapped until banished.
+
+Bismarck's army too strong for me? Did you get the shackles of war from the seer and the scroll of Blind from Mozart?
+
+SuperEgo is too strong for me and she's casting some nasty spells? After you have defeated Phytophobe and collected the Town Portal scroll (save game suggested) you may want to visit the nearby seer, the library and then teleport to Nutgrove to get her spells and artifacts (and double your normal spell points). If SuperEgo is bothering you with high-level fire spells, wear the Recanter's Cloak and finish her off with slow/blind. Don't let her retreat, wear the shackles at all times. If you beat her, the rest should be fairly simple.
+
+An ally blocks the way to the only boat that can take me to Marchhare? You have to make tan defeat red (ally). Free Dr Braindead and give him the Boots of Levitation (you know water walk by now). Release the tan hero and retreat to the Morgue. After tan has conquered ProzacPlant, the boat will be at your disposal in 7 days.
+
+Marchhare? You need all the troops you can get. Remember, time works in your favour. And don't forget to visit ProzacPlant for resurrection. A good idea would be to tie down the black dragons with dendroids.
+
+------------------------------
+Alterego has to fight 3 demons without any spells? Don't lose the gremlins. Split the gargoyles in 3 stacks and use them to protect the gremlins.
+
+Supermarket guy making trouble? Use the gargoyles to lure the enemy away from the gremlins. You may need to sacrifice a few gargoyles. And don't shoot when out of range, otherwise you may run out of shots too early.
+
+How does AlterEgo kill those 11 demons? You bought the spellbook, ammo cart and ballista from the Supermarket? 
+
+The troglos destroyed my ballista? Go back and replace it. You'll need them for another battle.
+
+How can AlterEgo get past the medusas? You learnt Forgetfulness with your Eagle Eye in the previous battle, didn't you? If against all odds you didn't, you'll have to fight that battle over again. (BTW, they can't range attack when they are next to your war machines.)
+
+Angels, devils and elfreeti? Trade the Sea Captain's Hat for implosion. Make sure you visited the magic spring. To minimize losses, split your gremlins into 7 equal stacks.
+
+Some obelisks cannot be triggered? They are there only as (Freudian) decorations. The same applies to the Angel Wings. (BTW the Grail is in that empty spot above the Wings, it is not humanly possible to dig it out anyway.)
+
+Is AlterEgo supposed to be able to defeat Libido? Yes, but only in Nutgrove and only if you remembered to upgrade it to Castle. The general strategy would be to destroy his Liches first. You may want to destroy the and Catapult with Meteor Shower but it is not a must. Then you'll have to combine implosion and teleport. Blocking the hole if you have split up your gremlins makes it all rather easy.
+(Defending Nutgrove is essential, because the head nurse needs the artifacts, and double mana points too!)
+

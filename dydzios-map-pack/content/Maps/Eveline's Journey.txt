@@ -1,0 +1,20 @@
+Map Name:	Eveline's Journey
+Game:		HoMM3: SoD
+Designer:	Dmitry Logan - the administrator of Heroesportal team (www.heroesportal.net)
+e-mail:		logan@heroesportal.net
+Type:		Single Player, 1 Human only / 1 Computer only
+Size:		M, 2 levels
+Difficulty:	Impossible
+Language:	English
+Description:	
+
+Eveline must acquire the Sea Captain's Hat in order to navigate the magical ship, that will take her to continent Castle where she decided to travel, seeking new adventures. However, if Eveline loses a battle, all is lost. 
+All heroes are limited to level 8. 
+
+Map Testers: Poison Avi (poisonavi@rambler.ru)
+             Duke Kirinyale (silencer@frc-ua.com)
+*My map was downloaded more than five hundred times from our Heroesportal map collection and no one has ever wrote to me about any problems with the map. 
+		
+Special Win:	Acquire artifact (Sea Captains's Hat)
+Special Loss:	Lose the heroine Eveline
+Special Other:	All heroes are limited to level 8 (this is a 1st map of a campaign, which I haven't completed yet).

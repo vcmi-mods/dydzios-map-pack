@@ -1,0 +1,21 @@
+Scenario name: Dawn of the (Walking) Dead.
+Required game version: Shadow of Death 3.1
+Map maker: Jolly Joker
+Playtesters: Blackdog, Cattleman, Fels, Grasshopper, Javai, Sir Charles, Ungoliant
+Map scale: Small full 2-level
+# of players: 1 human, 2 computer
+Difficulty level: Play the map on Impossible difficulty. You will play on this level anyway. Don't bother to pick a random bonus. The random artifact will be the Bow of Elven Cherrywood which will be useless while a bonus in gold or resources will be lost anyway.
+Victory condition: Transport Artifact (you can't destroy neither Orange nor Pink, so don't try)
+Loss condition: Time expires! Unnecessary to mention that you'll lose, too, should you lose Straker!
+
+Comments (read before playing):
+This map has some unusual features, so some comments are in order.
+1) While Straker has the Cloak of the Undead King he is indeed unable to gain advanced or even expert Necromancy (no miracle here). His troops will consist of Walking Dead only (more or less, at least)!
+2) Straker can't gain experience, but should and will get primary and secondary skill advancements anyway. Furthermore there is opportunity for the player to pick 2 secondary skills for Straker.
+3) With the exception of the last fight there should be no single monster fight on this map the player is in danger to lose. HOWEVER, that is not the problem here. While Straker will gain a fixed number of Walking Dead out of every fight he wins, the decisive factor are his LOSSES. The aim of the player is NOT to win every fight no matter what, but to win every fight WITH MINIMUM LOSSES. What this means is that the player has to focus in every battle, especially when it may seem insignificant.
+4) There are some points when Straker has to make a decision. I advise strongly to save before every single one of them and keep those saves until the end!
+Reading the messages and acting accordingly is no mistake.
+WARNING: There are only 2 fights possible on this map that will cost Straker dearly. These fights involve non-undead creatures. Should you experience very high losses in the normal course of the game you are probably on a wrong tack.
+5) Having a clear idea of what Straker needs to win his bet will help. You can be sure that if an idea is halfway sound Straker will have opportunity to get what he needs. However, he won't get any miracle spells or artifacts like the Armaggedon's Blade or the Implosion spell with 40 points in spell power.
+6) Looking closely at the map will help also. It is definitely possible to hide things!
+7) A word on the last fight. This one will be tough no matter what. The mechanics of the Animate Dead spell (that Thant will begin to cast at some point of the fight, mind you) in combination with his relatively high Spell Power means, that the player will either win the fight with a sizeable number (I would think of at least 300) of Walking Dead still undead or lose it. The reason is simple. As soon as Straker loses the ability to do more damage a turn than Thant is able to Animate in Hit Points the fight is lost.

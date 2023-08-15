@@ -1,0 +1,80 @@
+Map Name:	To Kill for Power (TOKILL~1.H3M)
+Map Maker:	Tang Wen En, Fiery Phoenix
+E-Mail Address: p3dantic@yahoo.com.sg
+
+Map Type:	1H 7C
+Language:       English
+
+Description:	You are Lyndor. Powerful, legendary; trapped. You vow vengeance on all who have opposed you and all who are good. Swift, fierce; useless. That is, until now.
+
+Special Win:	Acquire Artifact
+Special Loss:	None (try not to lose Lyndor though)
+Map Size:       Extra Large
+Special Other:	You *will* have to lose Lyndor just once. Thus my inability in making losing him a lose condition.
+
+Miscellaneous: 
+
+Please pay close attention to any text or instructions you may encounter. While rare on this map, a trip to the tavern might prove useful. I have toned down on blunt, in-your-face clues, so read texts carefuly!
+Month of... creatures may halt your progress in certain points. Make it a habit to reload autosaves until the month is not a month with little monsters trooping around the map if you do not want to run the risk of pulling your hair out 50 turns down the road.
+You will encounter secret passages again, please note that my secret passages are not beaconed out by those digusting palm trees.
+
+
+[Added 4 August 03]
+This map has been significantly revised. I have customised a lot more things, added more background information and strengthened certain secondary stories. The text has also been revised in terms of quality... or so I think haha
+While I have corrected probably all the spelling and grammatical mistakes I have committed before, by adding loads of new text, I might have made more, although I checked as best I could. It's a vicious cycle, I tell you.
+While the balance of the map was such that the battles started off hard and got significantly easier as the map went on before, I have changed it so that the battles in the first half are easier now, while the ones in the later half are a lot harder. Due to this shift in balance, the map is now rated 'Impossible' as opposed to its previous rating, 'Expert'.
+In terms of graphics, the map has changed very little, if at all. The main stories also remain the same, if expanded. Hey, I polished the glass, I didn't install a new window.
+What is significant story-wise, though, is that now there is enough information that a sequel is to be expected and yet cannot be played without first having played this map. I say this is significant story-wise because, practically, I am uncertain whether I have time or the inclination to finish the sequel for Heroes 4 which I have been holding on to since last year. I would greatly appreciate it if feedback to this map was provided and an opinion on whether you would play the sequel if it came out.
+Lastly, I want to thank Andrew Tanzi for his review of my map, according to whose advice in the review I have updated this map. His review can be found here:
+http://heroes.mycomport.com/cgi-bin/opt/MapHaven/h3/search_reviews.cgi?REVIEW_ID=2&BROWSE=1
+Enjoy the map!
+
+
+Play-Testers:   Behemoth               behemoth@valhalla.com.pl
+                Sir Charles            capliske@swbell.net
+                Jenn                   jhil@tisd.net
+                
+HINTS/TIPS *SPOILERS*
+
+
+
+
+1) To defeat the hero with the angel in the astral prison, use slow.
+
+2) To defeat everybody else in there, use the "wait, attack, attack" tactic.
+
+3) If you dally, you may encounter forces too strong for you in the inferno area. But if you *do* dally, they'll build up things for you. 
+
+4) Aine's too powerful to take out without a certain spell. You'll get it later, don't worry.
+
+5) So you've defeated the wizards, stuck? Secret passages...
+
+6) Do take (at most) 15 archdevils with you into the Valley of Tempus. You'll just waste them if you bring more. *gasps* are to prevent boats from landing.
+
+7) Sometimes, retreat is a good idea. Dismissing unnecessarily can be exceedingly dangerous to your health.
+
+8) So, Tunnel of Terra visited. Where to next? Secret Passages...
+
+9) The Dragons will aid you. If you find their cliffs. Secret passages...
+
+10) Hear that the elves have escaped and are fleeing? Perhaps you would like to find their homesteads as well? Secret passages...
+
+11) The Cavern of Aqua. The only place to get spells at half price. Or double. Or something. (I have to be obscure, not succeeding, am I?=) And of course, water flows in many directions, sometimes, you just have to go with the flow.
+
+12) Thr grail diggers. You see them, you kill them, if you feel mean, but the Cavern of Terra? Secret passages...
+
+13) Lyndor would love to kill Elleshar, but he can't have all the glory, all the time, can he?
+
+14) Cavern of Ignis is found beneath a hotbed of lava. Explore the volcanic eruptions in the cavern CAREFULLY.
+
+15) Defeating the Four is easy. If you have the correct artifacts. When you reach the storehouse of the elements, be sure to pick the right artifacts. Read their descriptions and choose wisely.
+
+16) Terra has a KILLER spell (implosion: 12000+ [that's right, twelve thousand] damage), protection would be good, as would imunity, or if not, resistance.
+
+17) Sometimes, Aeris refuses to power up, you will have to make do with a lousy Aeris then. Beware her haste.
+
+18) Aqua is by far the sneakiest of the Four. Beware her clone and teleport.
+
+19) Ignis is a brainless boob. Playing correctly, he will not use a single spell of his against you.
+
+20) Return to the Cavern of Ignis with the proper artifacts to win. Or lose. However you interpret it.

@@ -1,0 +1,33 @@
+Heroes 3 map sub.   NOTE !!!!  ARMAGEDDON EXPANSION REQUIRED
+
+Mapname:	The Daywalker	
+Made by:	Michael Hansen 
+email:		miha@post.tele.dk
+
+Size:		medium, 2 level
+Players:	1H + 5 comp.
+
+Language:	English
+
+Win con:	capture castle
+Special loss:	lose hero Ivanhoe
+
+Description:	Noble knight Ivanhoe must defeat the vampire king 
+		before he will be able to walk in daylight
+
+Map testers:	Morten Larsen 	m_dk@hotmail.com
+		Erik Knudsen	no email
+
+Please note:
+
+Nothing in the map may be altered or added in any way.
+
+Feel free to post this map on any website as long as NOTHING is 
+changed or added etc. etc. without my acceptance.
+
+I would be glad to hear any pros/cons, so pls. send me an email.
+
+Happy playing :)
+
+Michael 
+miha@post.tele.dk

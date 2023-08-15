@@ -1,0 +1,74 @@
+Heroes III Map Information File
+
+Map Name:       Cave of Gerfrex V1.4 (Cave of Gerfrex.h3m)
+Map Maker:      Timothy Pulver
+E-Mail Address: fnord@telus.net
+
+Map Type:       Single Player: 1 Human Only, 3 Computer Only
+Map Size:       Small, 2 levels
+Map Difficulty: Normal
+Language:       English
+Version:        Shadow of Death 3.2 + WoG Addon
+
+
+Description:    The Necromancer Zarachodar has his undead legions poised to attack. You have 
+                just three months to find and defeat him before the time of the Dark Sun 
+                arrives and all is lost!
+
+                In this exciting ERM story map, you'll have the opportunity to make real 
+                decisions that affect the course of the game.
+
+Special Win:    Defeat the hero Zarachodar the Necromancer.
+Normal Win:     Disabled
+Special Loss:   Three month time limit. Fail to win by Month 3, week 4, Day 7.
+
+Special Other:  Read the Map Tips section below. They aren't spoilers.
+
+
+Map Tips:       1. In some instances your hero may acquire artifacts through ERM events.
+                   These artifacts will be placed in your backpack instead of equipped.
+                   To be safe, always check after you've been told that you've received 
+                   an artifact to see where it has been placed. A good rule to follow is 
+                   that if you don't see a picture of the artifact in the message that
+                   gives it to you, it's probably in your backpack.
+
+                2. If your hero (Lydorie) retreats, you can rehire her in the tavern. If she
+                   loses in a battle, she will reappear in the tavern on day 1 of the 
+                   following week. There's a minor bug that sometimes occurs where her 
+                   picture won't show up in the tavern but I think her name will. In such
+                   an instance you can still click on her (empty) picture and rehire her.
+
+                3. Check the tavern regularly. There are a few rumours that might provide
+                   some rather helpful hints if you catch them. :-)
+
+
+Spoilers:       None. But if you have major problems and need a tip, you can send me email 
+                at: fnord@telus.net.
+
+
+Map-Testers:    Bruno......................onurb666@ifrance.com
+                Gaidal Cain................gaidal.cain@softHome.net
+                Keith Williams.............keith.williams@virgin.net
+                Simon Mooncalf.............pauljmoedt@wxs.nl
+                Slaim Master...............slaim666@hotmail.com
+                Slava Salnikov.............zvs@mail.lanck.net
+
+                This map has been a rather different and unique experience in Heroes mapmaking.
+                It's the first map I've created using the ERM scripting language created by
+                the talented Slava Salnikov for use with Heroes of Might & Magic III (SoD).
+                This map (for the most part) is a story-oriented single-hero map. As a story
+                map I tried to avoid some of the usual problems of a fairly linear map design
+                by including alternate story "paths" depending on the options chosen by the
+                player along the way. But in the end you must still face that ultimate evil, 
+                Zarachodar the necromancer, so be careful how you choose...
+
+                Many thanks to the playtesters who all did a wonderful job of testing and 
+                suggesting (and re-testing too). :-)
+
+                And thanks to Simon Mooncalf, Keith Williams and Gaidal Cain also for their 
+                eagerness and enthusiasm.
+
+                And special thanks to Keith Williams for his meticulous grammar and
+                spell-checking. That's always a tedious job but one that Keith does quite
+                cheerfully and thoroughly too!
+

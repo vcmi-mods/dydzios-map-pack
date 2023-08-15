@@ -1,0 +1,56 @@
+Map Name:       Unleashing the Bloodthirsty
+Map Maker:      Andrew Tanzi
+E-Mail Address: commando_avatar@libero.it
+
+Map Type:       1H 7C
+Language:       Mostly English, plus a little Italian, Spanish, Hindi, French
+                & German
+
+Special Win:	Transport Artifact
+Special Loss:   Lose Hero (there is also a time limit of 15 months *hehe*)
+Map Size:       Extra Large
+Difficulty:     Impossible
+Special other:  No taverns except one hidden away and accessible towards the
+                end of the game; no marketplaces (and no crystal) until you
+                enter the land of the Overlords. No big air spells until...
+                you'll see! The AI may be very slow at the beginning. Please
+                be patient, it's worth it!
+
+                Please send your comments to my above-mentioned address.
+                All feedback is more than welcome!
+
+Play-Testers:   Isabella Lovello       * mine, all mine! =) *
+                Victor-Angel Bolzoni   victor-angel.bolzoni@cfwb.be
+                Chris Tiarht           Chrisat@brescia.edu
+                Wen En Tang            p3dantic@yahoo.com.sg
+            
+Possible bugs:  Sometimes the AI disregards the tents and related border
+                guards. Maybe there's a patch now, I don't know. Month of
+                the Plague, Month of the... and Week of the... may occur
+                several times. AI heroes may be impossible to blind or
+                berzerk even though they don't have the proper artifacts.
+                Maybe a patch could fix these things too...
+
+
+
+
+HINTS/TIPS
+
+- Always look for hidden surprises (behind castles, volcanoes, mountains)
+
+- Abandon the Stronghold on day 1, week 3
+
+- Always use the Chains of War! (once you get them)
+
+- DO NOT venture beyond the one-way portal without the Helm of Heavenly
+  Enlightment!
+
+- The Maze of Torment can be conquered with three battles.
+
+- Be careful using Town Portal when you retake your Stronghold! If you can't
+  reach your ship and haven't got 'Summon Ship', all will be lost!
+
+- Read the signpost in the Wyrm Swamp to complete the missions...
+
+- Can't defeat the dragons guarding the Orb? Use your other two heroes to
+  weaken them. And visit the three huts in the Sands of Blood!

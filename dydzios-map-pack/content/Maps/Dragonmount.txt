@@ -1,0 +1,94 @@
+
+                   MAGELLAN'S MAP SUBMISSION
+
+Map Name:	Return from Dragonmount (Dragonmount.h3m)
+Map Maker:	Ben Goodman
+E-Mail Address:	goodben@netzero.net
+
+Map Type:	Singleplayer (1 Humans Only, 2 Allied Computer Only)
+Language:	English
+
+Description:	Rion's quest for Dragonmount has ended, but now his way home is cut off.                 Help him find his way home with the help of a few Azure Dragons.
+
+Special Win:	Return to the city Antioch
+Special Loss:	Lose the Hero Rion
+Special Other:	NONE
+
+Narrative:	[anything Players may need/want to know]
+
+Play-Testers:	Ungoliant (Brian Krueper) (ungoliantb@yahoo.com)
+              	Rex Mundi (Rexmundi_cto@yahoo.com)
+              
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+
+
+
+
+
+
+
+
+
+Some of the computer players have very powerful armies. You don't have to beat them.
+
+
+
+
+
+
+
+You can strand powerful enemy heroes by getting them to follow you to an island and using Scuttle Boat and Water Walk to trap them there.
+
+
+
+
+
+
+Tyris cannot counter a Blind/Ressurect strategy.
+
+==================================================================================
+
+SAMPLE: **********  REMOVE THE FOLLOWING SECTION BEFORE SENDING YOUR MAP TEXT FILE
+SAMPLE: **********  REMOVE THE FOLLOWING SECTION BEFORE SENDING YOUR MAP TEXT FILE
+SAMPLE: **********  REMOVE THE FOLLOWING SECTION BEFORE SENDING YOUR MAP TEXT FILE
+
+
+
+Map Name:	Wreck Of The Wystermus  (wystrmus.mx2)
+Map Maker:	Phil McCrum
+E-Mail Address:	AstralWizard@astralwizard.com
+
+Map Type:	Multiplayer; 0 Humans Only, 3 Humans Or Computer, 3 Computer Only
+Language:	English
+
+Description:	The SS Wystermus has been lost at sea.  Find its Ultimate Treasures 
+                before your enemies do!
+
+Special Win:	Find Ultimate Artifact
+Special Loss:	None
+Special Other:	Cooperative
+
+Narrative:	Somewhere, the SS Wystermus has run aground on coral reefs and sunk.  
+                It was carrying a priceless artifact in its holds.  But where has it 
+                sunk.  The beaches of your land is filled with the rotting hulks of 
+                countless bad luck ships.  Where will you look first?
+
+Play-Testers:	Suzy Clutchqfitch at sclutchqf@aol.com
+              	Willie Moniker at WilliMoni@icunot.net
+              	Briuno Fizallo at GrapesOfWhatNot@msn.com
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+Ships are very important.  Do not be put into the position of being unable to acquire ships.
+
+==================================================================================

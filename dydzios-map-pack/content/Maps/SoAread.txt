@@ -1,0 +1,69 @@
+Map Name:  Sword of Aragon I: Ascension
+Map Maker:  Jeddite (Jay Tittle)  jeddite@holly.colostate.edu
+Map Type:  HoMM3 AB (2 level)
+Map Size:  Small
+Map Difficulty:  Hard
+Victory Condition:  Accumulate 2,000 peasants
+Defeat Condition:  Time limit (2 months)
+Factions:  1H Castle
+
+Description: Aladda, the once shining crown of the Westrealm, has fallen.  With the death of your father, Duke Gerard, vicious monsters have pillaged the area.  Now, a young nobleman must rebuild his father's barony and restore its former glory.  Based on Strategic Simulations Inc.'s "Sword of Aragon" 1989
+
+Playtesters: Merlin- <Myrddin29@aol.com> 
+	     MegaDeath- <titansareus@home.com>
+	     Charles Laird- <abigdog@risecom.net>
+	     Serpentine Phoenix- <S.Phoenix@SoftHome.net>
+	     Sir Whale- <sirwhale@iterra.net>
+
+
+!!! Spoilers !!! !!! Spoilers !!! !!! Spoilers !!! !!! Spoilers !!! !!! Spoilers !!!
+!!! Spoilers !!! !!! Spoilers !!! !!! Spoilers !!! !!! Spoilers !!! !!! Spoilers !!!
+!!! Spoilers !!! !!! Spoilers !!! !!! Spoilers !!! !!! Spoilers !!! !!! Spoilers !!!
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+
+	1. Don't waste time with Diplomacy if Mathias has the opportunity to learn it- 	all wandering stacks are set to "Savage."
+
+	2. Don't use peasants as troops.  They die WAY too easily, and you might not 	be able to compensate for lost peasants.
+
+	3. Don't enter the Tranavan Forest or the Cyclops Cavern until much later in 	the game, otherwise, troop loss might prevent players from completing the 	scenario.
+
+	4. Do take ALL experience from chests, otherwise Mathias might not reach level 	10, thus preventing him from fulfilling the Seer's Quest.
+
+	5. This scenario *IS* possible to complete!  =)

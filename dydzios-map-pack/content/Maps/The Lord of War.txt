@@ -1,0 +1,68 @@
+
+                   MAP SUBMISSION
+
+Map Name:	The Lord of War
+Map Maker:	Daniela Stieh
+E-Mail Address:	gwhenwyfar@nikocity.de
+Map Type:	huge, singleplayer, impossible
+Language:	English
+
+Description:	This is the story of Leondegrance's war.
+		In ancient times this great warlord was
+		the first one to explore the continents
+		and finally unite them into one great 
+		kingdom. Nevertheless he was not a man 
+		of peace and honour...but a barbarian in
+		heart and mind.
+Special Win:	NONE
+Special Loss:	lose hero Leondegrance
+Special Other:	NONE
+
+Narrative:	You will face very strong opponents during your long conquering
+		journey. It is a challenge. Though all the computer opponents
+		will have an incredible amount of resources and you either, it
+		should be possible to play this map at any difficulty.
+		Nevertheless even the easiest one will be hard!
+		Save the game often, there are lots of surprises and traps!
+		
+		
+		
+		Approx.playing time: 12h
+		about 300 turns
+
+Play-Testers:	Stefan Bjelkfelt <S.Bjelkfelt@hem.utfors.se>
+	
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+update:
+		based on the review by Lok (Mike Ferry) I changed some details: 
+		the last enemy heroes do no longer owe the orb of inhibition
+		nor the shackles of war. Also they are less resistant to magic, 
+		so the last fights will be easier to win ( I did not say easy!).
+		based on the kind comments of Roberto Ulfig the following changes
+		have been added:
+		no more dragon utopias (to prevent the player from flying and
+		dimdooring
+		the necromancers were give a whole lot of more resources (due to
+		H3 timed event bug)
+		a wrong event is has been replaecd.
+
+thank you to all of those who help maps to become better and better!
+
+
+
+
+After having conquered jungleland, go underground, this should be the easier way.
+Always improve your armies.
+Use any chance to improve your skills.
+
+
+
+
+
+==================================================================================
+

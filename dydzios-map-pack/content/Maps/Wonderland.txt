@@ -1,0 +1,19 @@
+Map name: Wonderland (Wonderland.h3m)
+
+Map maker: Jorgen Linde featuring Marin Bouman
+
+E-mail address: tomli@ebox.tninet.se & Doriando1@yahoo.com
+
+Map type: Multi player, 3HC 1C, 2 sided Small
+
+Difficulty level: Normal
+
+Language: English
+
+Description: Three clans are at war when the Gods intervene and the clans are given one last chance of survival. The clan leaders find portals, leading to a wondrous land where magic is strong. Unable to defeat each other, they must try to unite the wondrous land's inhabitants and defeat Erdamon.
+
+Special Win: Flag all dwellings 
+Special Loss: None 
+
+
+Playtesters: Both mapmakers & Family

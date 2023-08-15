@@ -1,0 +1,62 @@
+L O R D S   O F   R U I N
+
+
+Thanks for downloading my map!
+
+This is essentially a single-player map. Because of the closeness of the two human players, the map is unsuited for competitive multiplayer, and I have therefore included a highly modified allied version for multiplayer games. It has a greatly reduced story, and Purple has been removed entirely, along with the special victory and loss conditions.
+
+Due to an annoying bug, when you defeat Dace in the single-player map and gain the Orb of Vulnerability, the game does not always recognise that you have acheived the victory conditons. Hitting the End Turn button usually solves this problem.
+
+If you have any feedback, questions, or problems to report, please contact me (anima@start.com.au).
+
+Good luck, and have fun.
+
+**************************
+
+Map Name:	Lords of Ruin
+Game:		HoMM3: Restoration of Erathia v1.4
+Designer:	Adam Bugeja (Sourdust)
+e-mail:		anima@start.com.au
+
+Type:		Multiplayer, 2 Human/ Computer (Necropolis and Inferno), 4 Computer Only (Various)
+Size:		XL, 2 levels
+Difficulty:	Hard
+Language:	English
+Description:	As the Necromancers and Demoniacs fight for control of Diablis, the surrounding vassal kingdoms have rebelled, and are themselves plotting to conquer the island. Is the cruel empire of Diablis in its death-throes, or can it rise and enslave the world once more?
+
+Map Testers:	Ack <ack@elkvalley.net>
+		Barbara Becker <beckerb@compuserve.com>
+		Jim Benninger <jimbenninger@yahoo.com>
+		Cremorn <rmorry@senet.com.au> 
+		Mike <plutonian@mindspring.com>
+		Martin Nielsen <vallettafc@hotmail.com> 
+		Silence <thomas.berthion@free.fr>
+
+		...Hope I didn't miss anyone. All are from Astral Wizard's (www.astralwizard.com) map-testers page. A big thanks to all testers. If my map contains any bugs, they are ones I added since the testing. :)
+
+Special Win:	Acquire the Orb of Vulnerability
+Special Loss:	NONE
+Special Other:	NONE
+
+**************************
+
+Map Name:	Lords of Ruin (Allies)
+Game:		HoMM3: ROE v1.4
+Designer:	Adam Bugeja (Sourdust)
+e-mail:		anima@start.com.au
+
+Type:		Multiplayer, 2 Human/ Computer (Allied Necropolis and Inferno), 3 Computer Only (Various)
+Size:		XL, 2 levels
+Difficulty:	Hard
+Language:	English
+Description:	Crippled by a terrible Week of the Plague, the allied Necromancers and Demoniacs of Diablis must reconquer the rebellious vassal kingdoms.
+
+Special Win:	NONE
+Special Loss:	NONE
+Special Other:	Cooperative
+
+**************************
+
+What follows is some legally and grammatically dubious copyright info.
+
+Copyright Notice: These maps are copyrighted by Adam Bugeja, 2000. I give permission for these maps, in an unmodified state and with this text file attached, to be freely distrubuted on a person to person basis. They may not published [on a website, for instance] for general use, or packaged for sale, without my express permission. All trademarks are trademarks of their respective owners.

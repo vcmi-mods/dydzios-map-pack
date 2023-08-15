@@ -1,0 +1,61 @@
+Hyaden's Trilogy I : Under the Guardian Wings
+27 September 2001
+
+Map Maker:	Yutalia Rennaissance
+E-Mail Address:	renai@dawsonmail.com
+
+Map Type:	Singleplayer
+Language:	English
+Map Size:	Medium - 1 level
+Map Difficult : Normal
+
+Description:
+
+This is the first episode of Hyaden's Trilogy.
+
+
+After escaping from the Sleeping Forest where he was born, Hyaden must fight the cruel Knights and defeat the Angels who guard them. This is the first adventure of Hyaden.
+
+
+Special Win:	DEFEAT A SPECIFY MONSTER
+Special Loss:	NONE
+Special Other:	NONE
+
+
+thanks to :
+
+map tester and language contributors : 
+
+Andrew Tanzi <commando_avatar@libero.it>
+Keith Williams <keith.williams@virgin.net>
+Martin Nielsen - <vallettafc@hotmail.com>
+
+
+
+
+
+notes :
+
+
+
+Hyaden's Trilogy :
+I   : Under the Guardian Wings
+II  : The Dead Claw
+III : Colours of the Rain
+
+
+
+
+
+- This is the first chapter of Hyaden's Trilogy, the campaign map of three maps.
+- Although Hyaden is using Kyrre's portrait which is default was female character, he is a male character.
+- No Special Loss Condition here but losing any main characters of the map is not recommended.
+
+
+- in Ufron's battle at least he must killed 2 cavaliers then Hyaden will be able to win the combat. (or if you have a better way tell me !)
+- use statue of legion to horde your behemoth to fight those Dark Angels.
+
+
+
+
+comment and feedback is more than welcome.

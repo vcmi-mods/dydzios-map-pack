@@ -1,0 +1,16 @@
+Savior of Greece v.1.1
+A map by Dragonfly, Pekka Lampinen (seppo.lampinen@kolumbus.fi)
+L map w/ underground
+2 players, 1 playable (red) and 1 comp (blue)
+Special victory condition: none
+Special loss condition: lose a specific hero
+Difficulty level: hard
+Scenario description:
+Other playtesters: ritcher1, MatCauthon, Viking and Grasshopper (members of 3do community)
+
+-This map should have no other creatures than ones of Greek myths and humans. The list is Pikeman, Archer, Griffin (it's Roman but what the heck), Swordsman, Cavalier, Centaur, Pegasus, Unicorn, Giant, Hell Hound, Harpy, Medusa, Minotaur, Cyclops, Basilisk, Gorgon and Hydra. There are no taverns so only way other creatures can be get on the map is due to month of the creature.
+-I apologize any bad English, I think it's still easier to understand than Finnish.
+
+Enjoy and send me your comments,
+
+Dragonfly

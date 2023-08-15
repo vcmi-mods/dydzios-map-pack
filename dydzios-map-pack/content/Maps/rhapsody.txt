@@ -1,0 +1,23 @@
+Map Name:       Rhapsody.h3m
+
+Map Maker:      Taisha and Aesthesis    Branka.Hribar@guest.arnes.si
+ 
+Map Type:       Multi-player, 2 human players, none cpu-players
+
+Difficulty:     hard
+
+Size of map:    medium
+
+Description:    A map made by Taisha and Aesthesis. Closed medium two-player well-balanced scenario. Plenty of external dwellings.
+
+Special Win: none   
+
+Special Loss:   none
+
+
+Completely
+Play-Tested:    Yes!
+
+
+
+ 

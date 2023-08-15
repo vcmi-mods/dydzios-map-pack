@@ -1,0 +1,21 @@
+
+Map Name:	World of Darkness
+Map Maker:	Nine Senshi
+E-Mail Address:	ninesenshi@aol.com
+
+Map Type:	Singleplayer 1 Humans Only, 1 Computer Only
+Size:		Medium (small Subterranean Level)
+Language:	English
+
+Description:	Eternal night has come unto this province and the undead have Risen to devour the living.  Can you survive to find the dawn?
+
+Special Win:	NONE
+Special Loss:	Loose the Hero "Faith"
+Special Other:	NONE
+
+Narrative:	Two heroes must wander a land of perpetual darkness beset by hordes of Undead.  Seek the aid of Angels and master the secret of the Oubliette for victory.
+
+
+
+Play-Testers:	Mok at mok@innocent.com
+              	Kitchen Elf at elcat@iname.com

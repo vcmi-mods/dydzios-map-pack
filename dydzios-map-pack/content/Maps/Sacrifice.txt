@@ -1,0 +1,186 @@
+{TURN ON WORD WRAP}
+
+Map Name:	Sacrifice (Sacrifice.h3m)
+Map Maker:	Charles Watkins
+E-Mail Address:	charleswatkins@austin.rr.com
+Map Type:	Single player (simulated match)
+Language:	English
+Version:	1.0 (Nov 2001: AstralWizard Contest)
+
+Description:	This is a simulated match -- a Turing test for Heroes3. Can you tell whether your opponent is me or the AI? (Since I play a lot like the AI, you might not be able to tell.) So if you've wanted to trounce me in a match, here's your chance! -Charley
+
+Special Win:	See Below
+Special Loss:	No
+
+
+----------------
+Additional Data
+----------------
+Game Edition:	Heroes3+AB+SOD
+Map Size:	XL (Match area is Medium)
+Underworld:	Yes
+Starting Town:  Player's Choice (Good/Neutral)
+Starting Hero:  Player's Choice
+Player's Color: Red
+Allies:		Red+Tan vs Blue+Green
+Difficulty:	Hard
+Play-Tester: 	Gandolf at 512-292-3755
+
+
+--------------
+PLAYER'S NOTES
+--------------
+[1] This is a theme-based 'battle' map designed to simulate a two player match. On HARD, it should provide a challenging competition. Beyond that, you'll have to play better than I do to win. And that's the whole point -- can you tell whether you're playing me or the AI? Since I play a lot like the AI, it may be hard to tell! 
+
+[2] You have free choice of any good or neutral starting Town and Hero. I will have a random evil or neutral Town and Hero. (I'll rename my hero "Charley".) We each have an Ally -- yours with a random good Town, mine with a random evil Town. Mage Guilds are random by Town type with all spells possible. All Heroes and all Artifacts are available except for Angel Wings. Monster numbers are random and growing, most are Hostile and will flee.   
+
+[2] To make things interesting, I put in a couple of special features. (I promise not to take advantage of these -- i.e. I won't cheat any worse than the AI does.) One is a special victory condition to encourage head-to-head combat: defeat your foe and then pick up the Power of the Dragon Father from the central crypt. Take it to 'Xanadu' for the win.  Another thing to encourage exploration is that the Towns are protected by Border Gates, so you must visit the Keymaster before attacking. And to encourage rapid expansion, each side has an Ally who will happily snatch all the free goodies if you lag behind. The Allies have a little side income, which they occasionally share as gifts.
+
+[3] Simulation of match conditions involved some adaptations for solo play. I had wanted special victory/defeat conditions of defeat/lose main hero for both sides, and that's why the special victory condition is set up the way it is. A Seer's Hut quest can't target a Random starting hero. My way, either hero can slay the other, claim the Artifact and open the Quest Gate to Xanadu. 
+
+[4] The game starts in a ready room where you get to review the Terms of Combat, to meet your Ally, and perhaps to engage in some pre-match banter. Because some have come to expect it, I've included a bit of a story to help set the mood and get things started. And since some don't care for that sort of thing, I've also included a way to bypass the storytelling and get right into the fight. During the match, my alter-ego will communicate with yours via the MSG line.
+
+[5] I can't imagine that YOU would need them, but it might amuse you to see the SPOILERS that have been provided for others who have experienced difficulty bringing this contest to a satisfactory conclusion.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+SPOILERS COMING
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+You REALLY don't want to come here until you've tried your best on your own!
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+SPOILERS!
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+[1] Welcome to SPOILERS. If you need HINTS, go see the Seers in the good Townships.
+If that doesn't mean anything, or doesn't help, continue on .. 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+[2] Welcome to SPOILERS. If you're stuck looking for a GREEN TENT, you need to remember how the game started and try to put yourself in your opponent's shoes. If that doesn't help, continue on..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+[3] Welcome to SPOILERS. From here, I will provide a complete walk-thru from the point where you enter the 'rabbithole'. You will see why the map is titled 'Sacrifice'.
+
+- Enter the Orange Lith in the Blue player's starting area. In addition to the exit near Blue's starting Town, there is another that leads to the Hall of Portals.
+
+- If you don't know the Purple password, work your way to the Light Blue Lith and visit Little Egypt. You can bypass the other Liths for now.
+
+- Exit through the Barricade and check out the resource generators. Bypass the Hall of Treasures and Hall of Neutral Dwellings, proceeding to the Hall of Passage. Do not attempt the Green Barricades.
+
+- Combination of Red, Blue, Brown, and Purple Gates gets you to the White Keymaster Tent. This gets you into the Hall of Treasure. Take it all!
+
+- The Special Collection holds some oddities, the 4 Tomes, and a place to convert the 4 Orbs into the Orb of Inhibition. Optional, but worth the visit.
+
+- In Hall of Neutrals, you can now Dimension Door the back entry and reach the Light Blue tent. Again, optional.
+
+- Sneak into the Nine Townships by way of neutral Barricade. This consists of 9 squares, each populated with creatures and dwellings of the 9 kinds of Towns. Avoid the Red Reaver until you have had a chance to assemble your armies. Be sure to visit the Seers.
+
+- A good plan for beating the Red Reaver is to enlist armies from the townships, picking up heavy hit point creatures that can be Sacrificed in battle. (This is a good chance to see what Sacrifice can do.)
+
+- After you deal with the Red Reaver, go to the Tower Township (northeast). Pass through the Barricade, recruit the Titan, sacrifice your accumulated resources, and continue east to Forge Town.
+
+- Hand over the Artifacts. All you need to finish are Boots of Levitation, Power of the Dragon Father, and Titan's Thunder, although you'll appreciate having the spell, movement, and mana enhancers as well.
+
+- Pass through the Forge Town portal and arrive at the edge of the Outer Void. Here you must enter the Green Tent, pass through the Border Gate, and (thanks to the Boots) walk through the barrier into the Void. Since this makes Green password available to your enemy, things will begin to happen topside as soon as Green's starting hero is finally freed from his starting Town. Since you have the only pair of Boots of Levitation, you are sacrificing your companions.
+
+- Head Southwest and keep going to Wyzbexy's Place. You can pass the Light Blue Gates where the flux lines intersect it. You might as well Sacrifice your remaining armies, since you'll need 7 Dragons to satisfy Wyzbexy (who will 'borrow' the Power of the Dragon Father.)
+
+- Tip-toe through the Dragons in Dragon City and take the Lith to the Soul Prison. At this point you gain Town Portal, if you did not have it already. You also sacrifice your spell points.
+
+- Free 'Charley' and give him the Boots of Levitation. Give him the Titan's Thunder long enough for it to create a Spellbook. Have 'Charley' trade the Boots for the Imp. While he has both the Imp and his Titan, he can trade the Titan back to your starting hero. IMPORTANT: This allows the starting hero to retreat from Uxnator, sacrificing his life.
+
+- 'Charley' takes a dive in the Swan Pond and awakens the next day, gains Dimension Door from the Seer, and takes the Lith to Necropolis. From the Market of Time, he can see the area outside the Town gate. Cursed ground--there will be no exit by spellcasting. Sacrificing his freedom, 'Charley' casts Dimension Door and arrives outside the Necropolis Gate. Wyzbexy is there, and the Power of the Dragon Father. 
+
+- IMPORTANT: To proceed, you must sacrifice yourself and proceed directly into the Necropolis. Even though you have no armies and the Ghost Dragons stand at the door, you are spirited inside. Joined by Wyzbexy, you consider exiting to retrieve the Power of the Dragon Father, but realize you would not be able to return.
+
+- After a day of residence, the Necropolis opens a Tavern. Now 'Charley' can exit to get the Power of the Dragon Father, while your starting hero returns at the new Tavern.
+
+- Taking the Power of the Dragon Father from 'Charley', your starting hero casts Town Portal. Now, Xanadu mysteriously appears on the list of destinations! (The Necropolis sits on an Earth Magic enhancer. Going there with the Power of the Dragon Father, you complete the Special Victory Condition.

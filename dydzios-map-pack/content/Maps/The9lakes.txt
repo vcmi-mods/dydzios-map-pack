@@ -1,0 +1,98 @@
+The nine lakes by Per Bondegard.
+
+Mapname: Nine lakes
+Mapmaker: Per Bondegård (per.bondegard@swipnet.se)
+Mapeditor: Boon (boon23@gmx.de)
+Maptesters: Johanna Olofsson (taiska@swipnet.se)
+	    Javier Abínzano Murillo <javier.abinzano@algor.es>
+	    Boon (boon23@gmx.de)
+
+Maptype: Both single and multiplayer versions included in the package.
+  
+Requirements:
+Heroes of might and magic 3
+Armageddonsblade expansion pack
+Shadows of Death expansion pack
+
+Number of players:
+7 or less computer players and 1 or more human players.
+
+Size:
+Extralarge with underground
+
+Difficulty:
+Hard
+
+Special win or loss: Defeat Monsters.
+
+Background:
+This map is based on a map on Heroes of might and magic 2 called The seven lakes. The seven lakes was a map i really enjoyed playing and offered a real challenge playing it. So when i began playing heroes of might and magic 3 i thought it would be nice to try and update the seven lakes to heroes 3 style. So here it is, The nine lakes. It is tricky  to have a castle on a lake, to get more troops or when you need to defend your castle you have to get in a boat, which takes one day, then travel, and get of it before you can get to  your castle. i think this is an interesting layout for a map. 
+
+History:
+Once upon a time in a land far far away lived a king and his eight children. The king lived a long and happy life and all his children did not ever missed anything. His sons and daughters grew up and got married and moved to their own castles but one day something terrible happened. Their land was infested with dragons and the dragons fed on people. Soon the people who lived in their land was so afraid of the dragons that they didnt dare to go outside and work. So the king said to his children.
+-i want you to kill those dragons that are supposed to live in the underground somewhere. When you have killed the dragons we may be able to live a normal life again and the one who kills them will get richly awarded and a worthy new king for this land.
+
+Update:
+Fixed a few minor bugs, especially in the land in the lower left quadrant (Trekkie language)
+Also Boon have made a lot of changes which makes the map more playable and gices a faster pace to it
+For a complete list of changes watch under tips and spoilers
+
+Copyright:
+If you like this map or if you want to change it in any way and put it on the internet please drop me an e-mail and ask for my permission first.
+
+Spoiler information follows further down:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tips and spoilers:
+Do not sell or give away any artifacts until you have solved all quests you get from the Seer's hut. The map contains several combination artifacts (like the cornucopia)
+In order to Win the map you have to visit many of the keymaster's tents.
+Hope you like the map and enjoy playing. The map are also available in a team player version.
+
+List of changes made by boon:
+
+1) changed the Necrocastle ground from cursed to evil fog to make it possible for players playing Necro townportalling in and out
+2)disabled the tome of air magic and the spellbinders hat as well as all combination artifact (the spells fly and dimdoor are enabled in both artifacts, even when the spell is disabled for guilds...disabling of spells is sometimes a very hard thing, for example, if you disable haste from the game, you have to disable the tome of air, the spell from the guild and give any hero that has this spell from the beginning(e.g.Cyra) give a different starting spell or none)
+3) disabled all combination artifacts and disabled several artifacts to get combination artifacts. Now it is impossible to get an angelic alliance, a statue of legion, carnucopia, cloak of the undead king.
+4) took away and disabled armageddons blade. This artifact is way to mighty in the hands of human player.
+5) changed the position of the shipyard in the castle town from right to left side. Water walking makes no more sense for them.
+6) changed water walk in all guilds from must to may.
+7) exchanged all angelic alliances to lions shield of courage and made all them specific for each player.
+8) changed the number of keys needed from 8 to 3 in a row to make a fast victory possible and give a sense to the victory condition and added a cobblestone raod for all players to boost their moving speed up in the vast dungeon
+9) changed the teams to make fast victory possible but not too easy. Teams are no longer in a row.
+10) changed the message text from the event behind the first gate. As there are only a few tasks I thought it would be better that way.
+11) deleted crystal dragon gift from the last event. Changed ground from magic to evil to not give the players a bigger advantage than necessary.
+12) Prevented the players from entering the two dragon utopias. If they do not enough power yet, they should probably go home ;-)
+13) Added obstacles underground in the most bares areas.
+14) Added 25 random lvl 7 savage monsters in front of the underground libraries of enlightment. Players should fight for what they really want.
+15) Added 30 little lvl 7 opponents for the 15 additional lvl 7 creatures in the pandora boxes.
+16) Deleted Sandals of the Saint and Armor of Wonder from the Pandora Boxes to prevent players from gaining Angelic Alliances. Also changed the message there a bit.
+17) Replaced the fortress underground guard black dragons with ancient behemothes, just because the black dragons are likely to kill most lizard warriors and this should not be intended here.
+18) Added an entrance to the second rampart town area, to prevent them from having to defeat the Ghostdragons before conquering the second town.
+19) Changed the number of random lvl 4 guardians for imprisoned Mutare Drake from random to 120.
+20) Removed the head of legion form the fortress area.
+21) Replaced the lions shield of courage in the fortress area with the dragin scale shield and changed the number of guarding trolls from 40 to 150.
+22) Removed all libraries of enlightment from all the upper ground. The balance of the map is a bit easier to handle with less hero upgrades.
+23) Replaced  the Gold Dragons guarding the undergound entrance in the necro area with ghost dragons and greatly increased the number. the center of the world should be  a special area.
+24) Added cursed ground to the hole center area and evil fog to the water in the center. This is a special area and players should see that.
+25)Reworked the imprisoned heroes. None of them will be a spellcaster but all of them pretty good warriors...so the player has to decide, what he wants ;-)
+26) Added missing quest in fortres area
+27) added tome of earth for fortress.
+28)Disabled Learning, First Aid, Necromancy. and Eagly Eye from the secondary skill section. No one needs them.
+29) Added summon and scuttle boat to all guilds on the lakes. This is just for the AI to be able to play with boats as it wants to.
+30) Added timed events for each major town for the AI only. This will improve the challenge a lot!
+31) Changed all level 7 guards for the lvl 7 dwellings from friendly to aggressive...now they may join, but it is not that likely.
+32) Changed the difficulty setting from normal to hard.
+33) Added my name as editor after yours as the creator.

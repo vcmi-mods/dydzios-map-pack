@@ -1,0 +1,19 @@
+{
+	"name" : "Dydzio's map pack",
+	"description" : "Tons of H3 maps gathered by Dydzio.",
+	"author": "HoMM 3 mapmakers",
+	"version" : "1.0.0",
+	"contact": "",
+	"modType" : "Maps",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"compatibility" :
+	{
+		"min" : "1.0.0"
+	},	
+	"changelog" :
+	{
+		"1.0.0"   : [ "Initial release" ]
+	}
+}
+

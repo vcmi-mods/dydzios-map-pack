@@ -1,0 +1,37 @@
+	Lähetä:	kristo605@hotmail.com
+
+=========================================================================================
+		  
+Map Name:       Fields of Gargania (v.1.0)
+File Name:	_Gargania.h3m
+
+Map Maker:      Jesse Vinnari 
+@mail:		jesse82@artic.net
+
+Map Type:	multiple players
+
+Difficulty:     normal
+
+Size of map:    large
+File size:	42 Kb
+
+Description:    Choose from five kindom, and defeat your competing kindoms.
+		Finally crush the Demoniac monster from Za'hal forests...
+		Made by: Jesse Vinnari -=FINLAND=-
+
+
+Player:		6 (1-5 human, 6th is cpo)
+  
+Special Win:    Capture specific town
+
+Special Loss:   None
+
+Special Other:  None
+
+
+Completely
+Play-Tested:	yes, once.. It seems to work quite fine..
+
+
+
+=========================================================================================

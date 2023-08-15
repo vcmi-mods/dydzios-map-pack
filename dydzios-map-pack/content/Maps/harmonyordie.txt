@@ -1,0 +1,44 @@
+To Live Harmony or Die
+updated : August-1, 2001
+          November, 2002
+
+Map Maker:	Renaissance
+E-Mail Address:	renai_map@yahoo.com
+
+Map Type:	Singleplayer, 1 Human Only, 3 Computer Only
+Language:	English
+Map Size:	Large, 2 Levels
+Map Difficult : Normal
+
+Description:
+In set in a continent where rich and peace, all the clan had its own borderguard. 
+The Land of Yogyia had live in peace for thousand of years. 
+It meantioned to be the most fertiled land beyond Enroth. But then came the curse of Lucifia. 
+It conquered seven kingdoms in Yogyia, and turn the King into devilish puppet. 
+Now you are the remaining army to fight the devil. 
+
+updating note :
+- Reduce the green gold support 
+- Fix creature support for green
+- Give orange access to upper  plan
+- Banned "super-hero" and some artifact
+- Sealed Summon Boat and Schuttle Boat but put it as an artifact
+
+
+November updated note :
+- Put Gold Golem to slower player access to west
+- reduce gold support
+
+
+
+Special Win:	DEFEAT A SPECIFY TOWN
+Special Loss:	NONE
+Special Other:	NONE
+
+
+thanks to :
+Play-Testers:	Viktor Coyote - coyot@pinknet.cz 
+                Martin Nielsen <vallettafc@hotmail.com> 
+
+English language contribute : Andrew Tanzi <commando_avatar@libero.it>
+Official AstralWizard Review : Tiahrt, Chris <Chrisat@brescia.edu> 

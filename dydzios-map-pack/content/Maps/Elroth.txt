@@ -1,0 +1,53 @@
+                   Heroes III Map Submission to H3 Trio
+
+Map Name:	Elroth: Return of the Demon (Elroth Return of the Demon.h3m)
+Map Maker:	Timothy Pulver
+E-Mail Address:	fnord@kingston.net
+
+Map Type:	Multiplayer: 5 Human or Computer, 1 Computer Only
+Map Size:	Medium, 2 levels
+Map Difficulty:	Normal
+Language:	English
+
+Description: 	Situated amid the mountains, your only means of travel is by narrow 
+		waterways or underground. Five lords await the return of the Demon 
+		Elroth, who promises Ultimate Power to the strongest leader. Prove 
+		you are that leader by finding the Grail and taking it to the heavily 
+		guarded Dungeon town below.
+
+Special Win:	Build the Grail structure in Elrothia, the Dungeon Town
+Normal Win:	Enabled (defeat all enemy heroes and towns)
+Special Loss:	Time Limit (must win by month 6, week 4, day 7)
+
+Map-Testers:	Keith Williams	keith.williams@virgin.net
+		Jonathan Winne	Nereus_QAM@att.net
+		Steven Lynch	srlynch@excite.com
+		Sasho Bojinov	sirwhale@iterra.net
+		John Holst	suserup@image.dk
+		Peter Møhr	pmohr@image.dk
+		Al Mytko	dexterholland99@hotmail.com
+
+		I would like to express my appreciation and thanks to all my 
+		dedicated map testers for much valuable feedback and many useful 
+		suggestions. Because of their rigorous testing and comments I 
+		believe "Elroth" is a much stronger map design than it was when I 
+		began. Thanks guys! :-)
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+
+o Check the tavern regularly for clues to the Sage Hut quests.
+
+o The computer players will usually avoid fighting the Water Elementals that block
+passage along the river until the second or third month.
+
+o Elrothia is heavily guarded, but if you're able to capture it as soon as possible 
+(which may not be for several months) and then hold onto it, you'll stand a much 
+better chance of winning. The computer players usually won't go for it too early on.
+
+o Given the time limit, the special win condition is a lot easier to accomplish than 
+the normal win.

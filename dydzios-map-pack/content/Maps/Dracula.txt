@@ -1,0 +1,62 @@
+Map Name:	Dracula[Dracula.h3m]
+Map Maker:	Walt Huber
+E-Mail Address:	datarush@attitude.com
+
+Map Type:	3 H/C
+Map Size:	Large
+Language:	English
+
+Description:	Three huge islands occupy most of this map. The Necropolis rules the
+		largest, but the Rampart and Conflux have plenty of things to do to
+		gain control of their lands. Each one has opportunities to gather 
+		extra creatures to join their armies. All sides start with a hero 
+		of some skill to lead their armies to victory.
+
+Special Win:	NONE
+Special Loss:	NONE
+Special Other:	NONE
+
+Narrative:	Dracula commands his undead brethren to putrify, or at least multiply
+                and destroy the Conflux and Rampart! The Conflux is not impressed.
+                After all, they were the heroes in Armageddon's Blade! The Rampart
+                has had enough and is ready to put the Undead back in the grave and
+                the Elements in a bottle.
+
+Play-Tester:	dat16@csufresno.edu
+		
+Dracula additional info:
+
+Unique matchups can make this map interesting to play. Can the Necropolis with hordes
+of skeletons defeat the fast moving Conflux armies or the powerful creatures of the
+Rampart? Can the Rampart build up quick enough to survive attacks and go on the
+offensive? The Conflux should have extra speed but will require a skillful player to
+lead its fair-to-middling creatures to victory.
+
+The solo maps challenge a player to take on the two computer controlled towns that are
+allied against you. Your enemies also start out with more gold and critical resources,
+the border gates are weakly defended, and the quest guards have been removed
+from their areas.
+
+
+Spoilers
+
+>
+>
+>
+>
+>
+>
+
+If you can't get the 7th level creature building on week one for any of the towns,
+you should quit playing HOMM3!
+
+Each area has 2-3 quests to complete. The completion of one will open up an area
+to explore, while another will award an orb of your hero's specialty to increase
+their power when casting air, water or earth spells.
+
+All three areas have an event at the border gate or entrance to the creature groups.
+
+All three areas have a significant creature that it can recruit, and there is a group
+of these creatures in each area that will join.
+
+Buy a boat. There's lots of goodies at sea.

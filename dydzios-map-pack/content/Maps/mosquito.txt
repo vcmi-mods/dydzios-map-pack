@@ -1,0 +1,21 @@
+Map Name:       Mosquito land.h3m
+
+Map Maker:      Taisha      Branka.Hribar@guest.arnes.si
+ 
+Map Type:       Multi-player, two human players, none cpu-players
+ 
+Difficulty:        Hard
+
+Size of map:    medium
+
+Description:    Interactive scenario with plenty of resources. Many different strategies possible. Finally Fortress is competent.
+(Taisha's map)
+  
+Special Win:    none
+
+Special Loss:   none
+
+Completely
+Play-Tested:    Yes!
+ 
+********************************************************************************************************

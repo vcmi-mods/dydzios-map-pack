@@ -1,0 +1,29 @@
+Title: Relentless Assault
+Type: Armageddon's Blade
+Author: chole
+Author's email: chole@h3trio.com
+Size: medium, 2 levels
+Difficulty: expert
+# of players: 2h/2c
+Special win/loss condition: none
+
+Comments: 1)The two computer only players are allied together, neither human players have an ally. 2) This map has a storyline for both human positions. 3) You should not be able to get all of the artifacts needed to make any of the "combination artifacts". If you are able to do so, please email me and let me know. 4) The cadence sung by the gnolls in Ft.Stewart is really the song of the 3rd Infantry Division (Mech.), US Army, Ft. Stewart, GA, USA. 5) Although this is technically a 2 player map, it  is designed to be played as a singleplayer with choice of starting position.
+6) Read the text. 
+
+Description: 
+ The wizards and the undead have formed an alliance against the 
+rest of the land. Your only hope is to unite the upper and lower kingdoms. 
+Since the two factions have been warring for the last few centuries, this 
+won't be easy. 
+
+Bug Update:
+ 1) Removed pyramids.
+
+Testers: MADali     Email: MADali@mailops.com
+         Kefka      Email: baardloy@online.no
+         Antacid    Email: ksnir@netvision.net.il
+         Rayex      Email: tnergaar@online.no
+         Cattleman  Email: cattleman@h3trio.com
+         Zub][Zero  Email: Mr_ice100@hotmail.com
+         Black Finn Email: loremaster@dial.pipex.com
+            

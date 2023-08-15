@@ -1,0 +1,100 @@
+
+                   H3TRIO MAP SUBMISSION
+
+Map Name:	Necromancing the Bone v2  (Necrom~1.h3m)
+Map Maker:	chole             
+E-Mail Address:	chole@h3trio.com
+
+Map Type:       Singleplayer 1 Human 
+                Or Computer, 1 Computer Only
+Difficulty:     Hard
+Language:	English
+
+Description:	As a fledgling necromancer, your highest 
+                ambition is to be accepted into The Necromancer's Guild. 
+                Initiations for The Necromancer's Guild are considered 
+                to be impossible by all except those in The Guild. 
+                Your task sounds simple enough: Acquire 10 ghost dragons, 
+                but will it be ? 
+
+Special Win:	Acquire creatures
+Special Loss:	Lose Hero (Necrophyte)
+Special Other:	NONE
+               
+
+Bug watch:      If you have SoD and have trouble running this map using AB,
+                try changing it to an SoD map in the editor. 
+                (1) Added 1 green boarder guard 	
+                (2) Discovered that customizing a hero's spell to "none"                     causes the version conflict (Run time error) between AB                     2.0 and 2.1 (Thanks Yung!) Modified heroes to comply.
+                (3) Added 1 Necropolis
+                (4) Dropped resource amount at quest guard
+                (5) Added attack/defence skill to Xanthrax
+                (6) Dropped map difficulty level to "hard" 
+                (7) Set loss condition
+
+Play-Testers:	Play-Tester1 Rayex         tnergaar@online.no
+              	Play-Tester2 Pariah        coyote@pagans.org  
+                Play-Tester3 Cattleman     cattleman@h3trio.com
+                Play_Tester4 Krabat17      mathiasm@dialup.nacamar.de
+                Play_Tester5 Fiery Phoenix fieryphoenix@pacific.net.sg
+
+
+
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+
+
+
+
+
+
+
+
+==================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Locations of the 10 units of mercury:
+1)  (37,29,0) Event
+2)  (6,12,1)  Resource
+3)  (14,23,1) Resource
+4)  (30,42,1) Resource
+5)  (39,62,0) Resource
+6)  (1,29,1)  Event             
+7)  (54,9,0)  Resource
+8)  (67,44,0) Resource
+9)  (4,70,1)  Resource
+10) (39,62,1) Resource
+
+Locations of the quest artifacts:
+Dead Man's boots              (28,64,1) Artifact
+Vial of Lifeblood             (56,37,0) Event
+Pendant of Death              (32,27,0) Hero in prison
+Hourglass of the Evil Hour    (35,36,1) Creature
+Skull Helmet                  (38,63,0) Artifact
+Vampire's Cowel               (0,24,0)  Creature
+Vial of Dragon Blood          (5,70,1)  Creature
+Blackshard of the Dead Knight (39,65,1) Hero in town
+
+
+
+
+
+
+==================================================================================

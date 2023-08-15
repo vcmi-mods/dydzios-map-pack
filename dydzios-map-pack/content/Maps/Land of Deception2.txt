@@ -1,0 +1,19 @@
+#====================- Downloaded from www.heroes3.org -====================#
+
+English			German			Info
+--------------------	-----------------	-----------------------------
+Name of Map		Name der Karte:		Land of Deception
+Author			Autor:			Koenich Roesisch
+Author's eMail 		eMail des Autors:	d.krobath@bsb-koeln.de
+Mapsize			Kartengrösse:		L
+Underground		Unterwelt:		Yes / Jou!
+Difficulty		Schwierigkeit:		Normal
+Player#			Spieleranzahl:		6
+Human players		Menschliche Sp.:	3
+Allied			Alliiert:		Yes / Jepp!
+Special Victory Cond.	Siegesbedingung:	Defeat all Enemies / 
+						Besiegen aller Gegener
+Special Loss Cond.	Verlustbedingung:	Lose all your Towns and Heroes / 
+						Verlust aller Städte und Helden
+
+#====================- Downloaded from www.heroes3.org -====================#

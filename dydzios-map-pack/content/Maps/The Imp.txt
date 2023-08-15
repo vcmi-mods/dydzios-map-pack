@@ -1,0 +1,73 @@
+Map Name:	The Imp (THEIMP~1.H3M)
+Map Maker:	Tang Wen En
+E-Mail Address: p3dantic@yahoo.com.sg
+
+Map Type:	1H 1C
+Language:	English
+
+Description:	The Annoying Imp has somehow un-woven the protective forcefield around Stillwater and has spirited away the Orb of Silt. Bring the Orb and the Imp back to Stillwater to win. 
+
+Special Win:	Transport Artifact
+Special Loss:	None [see special other]
+Map Size:       Small
+Special Other:	This is a follow-up map of The Nighon Competition. But it developes a different character instead.
+
+[added August 03] 
+
+Following the comments made in Corribus's review of my map at AstraWizard.com, I have removed the Lose Character loss condition as the map can't be completed anyway if you lose Ceiswyn. This is so that you don't have to wait for the Lose screen to load up everytime you lose Ceiswyn before reloading. In fact, I'd like to thank Corribus for his review, which helped greatly in the revamping of this map.
+
+This map, along with The Nighon Competition and To Kill for Power, was supposed to be part of an insanely long campaign. I, obviously, did not feel like finishing a looong campaign so split it into individual maps. As these maps were supposed to be the first three in the campaign, they develop three totally different characters with only a mild interaction; mainly names that are repeated in this or that map. So while it is nice to be able to make references to the other maps, it's not essential in enjoying this one.
+Also, while replaying, I realised that there were a lot of holes in the background of the story as it was mostly told in the opening sequence of the campaign, which you don't get to see now. So I have filled the holes somewhat.
+The way the map is structured, it cannot have a proper conclusionary text passage, as you carry the artifact to the castle and, tada, you win. This did not matter when it was part of a campaign, as I would have added the text into the map's epilogue. Unfortunately, there isn't an epilogue for individual maps, so what I have done is to write it anyway and stick it right at the end of this readme file. It's not terribly important, but I find it completes the story somewhat, although it does hint at a secondary story in the map To Kill for Power.
+
+Narrative:      You may find a little 'game' in the map. If you can't complete it then look at the 'hints' section.
+
+Play-Testers: Cattleman           cattleman@h3trio.com
+              Pogs	          marc.jacquemet@devinci.fr
+              Tsurani Great One   tsurani_great_one@hotmail.com
+              Brynner             lsbuay@singnet.com.sg
+
+HINTS/TIPS *SPOILERS*
+
+1. Defeating the manticores: Use your eyes... is there a place on the map where not so many stacks can attack at once? (I've a specific place in mind (not a corner). If you go to this place, it will be a 'two-front' battle instead of three.) Cure is your best friend in this battle. Hypnotise is good too, if you can find it... isn't necessary though.
+
+2. Defeating Velune: No specifics here (not really ;-P). DON'T FORGET TO REMOVE THE ORB OF INHIBITION!!! He gets to perform 1-2 resurrections. Take out the scorpicores and minotaurs first. (don't worry about the medusae, they'll run out of shots very fast.) The Archmage serves as a distraction and a spell cost reducing thingie. 
+
+3. Use your eyes and cursor to get at the Pandora's Boxes. EVERY ONE of them is accessible. 
+
+4. Water Magic is very useful...
+
+5. If you can't find the 'hidden' spells, looking in the thumbnail map can show you where the paths are.  
+
+6. Last battle: Resurrection is nice here. of course, finding it is a problem though... Hypnotised devils do nice damage.
+
+
+
+
+Epilogue [don't read until you've finished the map!]:
+
+The trial for the Annoying Imp started the next morning. 'You are charged,' said Elder Haram in a voice that brooked no flippancy, 'with endangering the lives of every single person in this town for no purpose other than to feed your spiteful malice. You are charged with sacrilege, for the removal of a sacred object of this town, the Orb of Silt, and trying to alter its magic to serve your own selfish ends.' He looked at the Annoying Imp sternly. 'Countless times, you have caused small nuisances with your gift for teleportation, however, it has never come to pass that you'd plan the downfall of everyone here. Imp,' said Elder Haram, 'Why did you do this?'
+
+The Annoying Imp looked up from where he was chained by anti-magic shackles to prevent his teleportation. In a voice too calm to not have concealed a turmoil of emotions, he asked a single question: 'What do you know of dragons?'
+
+Elder Haram narrowed his eyes. 'That is irrelevent. You will answer my question, Imp, not I yours.' The Annoying Imp merely looked at him. Seeing how the process of justice might be expedited by answering the Imp's single question, Elder Haram 'tsk'ed softly. 'Very well; I don't care about dragons. I know they are the Dungeon overlord's servants, and without directions are quite incapable of doing anything independently. They don't like the outside world, therefore, they are kept to defend the underground Dungeon towns. Yes?'
+
+The last question was directed at Ceiswyn, who had jerked her head upwards at the mention of dragons. 'I saw dragons,' she said slowly, 'Black dragons. They were in the outer caverns when I went down.' An eruption of voices followed this pronouncement.
+
+'So it has come to pass that the overlords are finally ready to engage our small town fully in battle!'
+
+'We have to defend ourselves! Dragons are powerful magical creatures, it might be that they will be able break down the barrier, supported by the Orb as it is.'
+
+A high-pitched laugh cut through all the voices. Everybody looked at the Annoying Imp, who was the source of it. 'You don't understand!' he laughed eerily, 'The dragons haven't come under the Dungeon overlords' command; they have broken free of the Dungeon overlords' enslavery!'
+
+There was a collective gasp, follwed by a terrible silence. The Annoying Imp continued: 'Why do you think I stole the Orb now? When I could just as easily have stolen it months - years! - ago? It protected me too, you know, I could always count on Stillwater as a haven if I got into trouble. I didn't want to. I was captured and forced to against my will by the Dungeon overlords. They have been driven out of their deep caves by the dragons and thought to take over your town before spreading like the disease they are over the rest of the world.'
+
+The Annoying Imp laughed harder than ever. He laughed so hard he gasped for breath. Elder Haram's eyes widened. 'A shield around him now!' he shouted. All the magi present looked startled for a second, before grasping at their magic to shield the Imp. No shield appeared. The imp was choking, bent double over his chains. 'The chains! The anti-magic prevents us from shielding him, take them off him and throw them outside now!' Blood poured out of the imp's mouth as he continued his demented laughter. Two magi darted forward to release him from the chains. Through the fit of hysterical laughter and choking, the Annoying Imp looked up at Ceiswyn one last time and smiled with terrifying lucidity. Then his eyes rolled to the back of his head as he died of asphyxiation.
+
+Elder Haram tried to regain his composure the best he could. 'It was a trigger, naturally, something that has always been done by the Dungeon overlords to ensure completely loyalty of their servants. The imp must have known. He must have known that by speaking against them, he risked death.' Elder Haram shook his head sadly. 'He must have known and he did it anyway. I have never understood, and will probably never understand, why he continued in his wretched state for all these years, merely using his gifts to annoy people, but he must have been deperately lonely to have had a death wish. To act upon it in the most brutal way possible... Ceiswyn, see that he cleaned up and given a proper burial. And give him a name, change the Annoying Imp's name to something more fitting...'
+
+Suddenly, Elder Haram burst into laughter. It appeared he tried to control it, but he couldn't. 'Change it to the Revolting Imp,' he said, getting his laughter under control, 'for in his small way, he did revolt against the Dungeon overlords.'
+
+That afternoon, the Revolting Imp was laid to rest under the home of a dendroid family who had a penchant for fertiliser originally flesh.
+
+In the council room - against the Dungeon overlords - the magi planned their defenses.

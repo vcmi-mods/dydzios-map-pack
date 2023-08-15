@@ -1,0 +1,195 @@
+Traemask the Fool, Episode II: the Story of the Fool.  
+Spoilers and Quest Solutions for v1.1
+
+Timothy Duncan -- tduncan@sas.upenn.edu, corribus@aol.com
+
+Contained below are the solutions to all of the quests and spoilers located in this map.  
+
+This document is arranged in the following manner.
+
+I. Elemental Town Quests and Information
+II. The 9 Pendant Quests
+III. Spencer Quests
+IV. The Shrine of Maydin
+V. The Necklace of Bliss
+VI. Traemaskeelix and Endgame
+
+
+
+
+
+I. Elemental Town Quests and Information
+
+A.) Aereen (Air Elemental Town), (64,91,0).  Protected by Quest Barrier (67,91,0).
+    1.) Entering Aereen - First, recruit a stack of halflings at (58,101,0).  Prove efficiency in Air Magic by rescuing Mayleonelle, the Faerie Queen (a pixie) at (65,99,0).  This requires you to defeat Bzoh the Witch (84,83,0), who has one pixie and one sprite, before she can retreat.  To defeat Bzoh, cast haste on your halflings (your enchanter will give you first strike) to eliminate her before she can retreat on her turn.  Acquiring the Ladybird of Luck from Bzoh, free Mayleonelle, and enter Aereen.
+    2.) Storm Elemental Upgrade - 
+	a.) Fashion the Pendant of Negativity from the Jeweler in Glistenwood (55,66,0) by bringing her 40 crystal.
+        b.) Obtain 40 crystal by slaying the dragons east of Silverpeak and returning their blood to the merchants at Polaris (39,36,0).
+        c.) Use the Pendant of Negativity as a protective ward against Solmyr and his lightning spells on the Island of Blitzos (77,5,0), and return electricity to the elementals by capturing the hidden town behind the chest of legion.
+    3.) Air Tent Color - Light Blue
+    
+
+B. Aqueen (Water Elemental Town), (37,11,0).  Protected by Water.
+     1. Entering Aqueen - First, obtain the Water Walk spell by talking to Nereido, the water queen, at (103,21,0).  Make sure you have expert wisdom (available at the quest hut at (32,107,0)).  Now you need to navigate your way into Aqueen by Water Walking among the islands around it.  It's a little complicated and you need at least a 4 or 5 knowledge but here's what you do:
+	a. Eliminate all creatures in your army (store them somewhere!) except for the Queen of the Pegasi (24,67,0).  This will give you the extra mobility you require.
+	b. Start at the lighthouse at (18,25,0) and w-walk north to the fountain of youth (18,15,0).
+	c. Wait a turn and water walk northeast to the observation tower at (24,11,0).  This will reveal the whole area and make w-walking among the islands to the north possible.  Now walk back to the fount of youth and wait another turn.
+	d. W-walk to the little island northwest (12,8,0) and wait another turn.  Now water walk to the other side of the island (with the Pegasus you should be able to make it) at (10,7,0) and head north past Frigosh's prison.  W-walk again over the frozen lake and find the boat at (2,0,0).  With the boat, sail over and pick up the treasure chests at (17,2,0) and (18,2,0) and (28,3,0) to make w-walking to the northeastern islands possible.
+	e. Now back-track and land your boat where you first got it, walk past Frigosh again and w-walk back to the first small island (10,7,0), BUT USE THE WATER-EVENT TO STOP and rest ON THE WATER.  The next day, you should be able to w-walk to the fountain of fortune at (24,1,0) and then to (25,8,0) and then you're home free to Aqueen.
+     2. Ice Elemental Upgrade - You need to free Frigosh the ice-witch by melting her prison walls with the Orb of Fire.  Obtain the Orb of Fire by taking the Sphere of Permanence (found behind Polaris) at (39,33,0) to the monk at (106,34,0).  Once you free Frigosh, she will make her way to Aqueen.  Let her take the city and wait a day and she will upgrade your water elementals to ice elementals for you.  Make sure you kill Frigosh (as directed in the journal entry) to retake the Orb of Fire.
+     3. Water Tent Color - Green
+
+ 
+C. Pyreen (Fire Elemental Town), (96,46,0).  Protected by Earth Elementals.
+     1. Entering Pyreen - You need to be able to defeat the earth elementals.  With your army, you are not expected to be able to do this.  Visit Cindermorn's camp (78,53,0) and learn about the efreet quest.  Go to Pyreen and walk by it (do not attack) and w-walk over the fire lake to the efreet-pond behind Pyreen (97,42,0) and recruit an efreet.  Return to Cindermorn and free him from his "prison".  Cindermorn has an orb of vulnerability and the berserk spell and 70 fire elementals and 2 pixies.  This should be sufficient to defeat the earth elementals guarding Pyreen (just repeatedly cast berserk and let them kill each other).  Note that Cindermorn was supposed to be killed in the event that occurs after the battle, but due to technical difficulties I had to remove that feature.  You are expected to dismiss Cindermorn after the battle (failure to do so could complicate things later in the map).   
+     2. Energy Elemental Upgrade - See Magma Elemental Upgrade under Litheen.
+     3. Fire Tent Color - Red.
+
+
+
+D. Litheen (Earth Elemental Town), (12,79,0).  Protected by Inaccessibility.
+     1. Entering Litheen - You cannot enter Litheen through the front door, so to speak, because the brown tent is IN Litheen.  Your only recourse is to use a spell.  Visit Cliff, an exiled earth elemental, at (25,74,0) and take him to Gagestor the wizard at (17,107,0).  Go through the portal and Gagestor will allow you to "fly" into the vale of earth.  Note: originally I intended to give the player the Air-Tome, but this had to be removed due to complications.  Now you just walk in.
+     2. Magma Elemental Upgrade - This is fairly straightforward.  Basically you need to follow the chain of events set out by speaking to Tolemairisiumisis.  After leaving the vale of Earth, head down to Thogmor's hideout (74,104,0) and talk to him.  This will precipitate a battle, which you will win.  Rescue Conflagus the Fire Lord and bring him to the Magistrate at Salenze (38,27,0).  Here you are told how to find an enchanter to reopen Magmus peak and thus restore the Earth and Fire elementals to their power.  Visit the tavern in Glistenwood (behind it -- (62,62,0)) and follow the instructions to behind the tavern at Bayside (21,29,0).  You'll need w-walk to get to that space.  Bring the enchanter you receive with the event to Magmus Peak (98,104,0) to upgrade both the Fire and Earth elementals in your party.
+     3.  Earth Tent Color - Brown
+
+ 
+E. Salenze (Magic Elemental Town), (60,29,0).  Protected by Hero "Aenain".
+     1. Entering Salenze area - The immediate area around Salenze is inaccessible, as you will not have access to the dark blue tent yet.  After rescuing Conflagus from Thogmor, Conflagus will tell you that there was an old tunnel that leads under the walls of Salenze.  The exit of this tunnel (your entrance) is the mine at (37,64,0).  You need all the other elemental tent colors to proceed, but when you do, you will arrive at the Salenze jail.  Talk to the imprisoned elementals.  The water elemental will tell you that she was caught trying to steal the ice orb belonging to the Polaran wizards (this is important for the ice elemental upgrade quest!) and tells you that there is a weak point in the Salenze walls: the magic protecting the walls is weakened when the walls cross a river.  Go through the walls at those points (45,48,0) and (49,45,0) to enter the Salenze area.
+     2. Entering Salenze proper - An event in front of Salenze proper explains that to enter the town you need to be able to defeat a bunch of magic elementals.  If you are bold, you will probably initiate the attack anyway and find you are confronted with 7 stacks of magic elementals with 50 elementals in each stack.  Clearly, you are not going to be able to win this battle with strength alone.  To win this battle requires solving several quests.  Here is an outline of what to do.
+	a.) You are given the hint that you need three basic things to win this battle: an object that will negate the protections of the magic elementals, an object that will hurt all the elementals at once, and an object that will protect your own troops.  The easy one first.  Obtain the orb of vulnerability by powering your sphere of permanence with the essence of magic at (103,32,0).  If you've already powered your sphere with fire to complete the ice elemental quest, you'll need to discharge the sphere at (54,1,0) before powering it with magic.  This orb will negate the anti-magic protections of the magic elementals.
+	b.) You probably visited Goza the Fire Witch early in the game and she told you that she had an artifact that would help you get into Salenze.  Indeed, her book, the Tome of Fire, has the armageddon spell in it.  With the orb of vulnerability and a decent knowledge (visit the magic spring at (65,64,0) to double your spell points before attempting this battle) you should be able to kill all the magic elementals.
+	c.) However, how do you protect your own troops from Armageddon?  You need to help Pelgius the Alchemist build his gold and diamond golems.  First, restore the golem factory at Salenze (you may have to trade for a few mercury).  Second, you need to capture Gurnisson's gem horde at (72,52,0).  See the Pendant of Free Will and Pendant of Total Recall quests for more information here.  Once you have 100 gems and 6 iron golems, head down to Pelgius at (31,100,0) and he will give you the prototype gold golem.  Use the 7 golems to gain entrance to his golem factory (28,96,0) and recruit all the gold and diamond golems you can.  The diamond golems have 95% magic resistance and can easily withstand multiple castings of the armageddon spell.
+	d.) There's one additional thing you'll need before attempting this battle.  It will take numerous casting of Armageddon to defeat Aenain.  You need a creature that is faster than the magic elementals so that you can block the drawbridge, effectively trapping them inside.  My choice: the Silver Pegasus you used earlier.  The pegasus will die in the battle, but the 1 turn of blocking the drawbridge will buy your golems enough time to get up there and block the bridge.  A spell power and knowledge of 15 and 10, respectively, should enable you to win this battle pretty handily.  Slightly lower in one and higher in the other is fine as well, and expert fire magic will also reduce the cost (I think) of Armageddon, but it's not necessary.
+     3. Magic Elemental Upgrade: Physic Elementals cannot be upgraded to Magic Elementals. Sorry :)
+     4. Magic Elemental Tent Color: Dark Blue.
+
+
+Once you have gained entry to all towns and solved all upgrade quests, you are ready to proceed underground!
+
+
+
+
+
+II. The Nine Pendant Quests
+
+A. The Pendant of Holiness 
+
+-- You need to visit the Shrine of the Order of Second and there a Monk will tell you (in somewhat vague terms) that a ghost shows up by the swan lake every two weeks [37,35,1], but that the ghosts are very fast and very timid and very powerful.  Meaning: if you are close by with a powerful army, the ghosts won't show up, and when they do show up, you're going to need a fast army to take out the ghost before they take you out as well as a good method to take out the ghost before it flees.  Basically, here's what you need to do.  The ghosts each have 7 ghost dragons AND a cape of speed, making their speed 16.  The only creature you're going to get that will match that is a Phoenix, which can be gotten by recruiting the single phoenix which will join you by the pyres (accessed through the Maydin lith system).  You should also get the Slay Undead spell at the Maydin Cathedral [88,3,1] or in Malekith's treasure trove [61,5,1].  Now, you should notice that at the Shrine of the Second, there is a portal exit.  The entrance to this portal is in Alainica [19,28,1] or south of Sorvar's Rock [97,80,1].  Thus you should wait until you see the ghost arrive at the swan lake and then go through this portal and surprise the ghost.  Use the slay undead spell to kill all of the ghost dragons before the Poltergeist can cast a spell and/or flee.  Your reward: the pendant.  Keep in mind, there are a limited number of Poltergeists so if you wait too long, you're SOL.  It may be possible to win this without the Slay Undead spell, but i wouldn't risk it.
+
+B. Pendant of Second Sight
+
+     1. Visit the Dark Ruins of Alainica and proceed to the Monastery (16,25,1).  Notice that near the entrance to Alainica you will find the Bird of Perception lying on the ground (6,43,1), which can be used to open ONE of many similar quest guards, behind each of which is a copy of the Pendant.  But only ONE is safe to open.  Which is it?
+     2. At the Monastery, you find that you need to aid Calajawan in performing the Ritual of Darkness to release the necromancer Belaz from his prison.
+     3. A small shrine in red's territory (37,93,1) tells you how to perform the Ritual of Darkness.
+        a.) There are two Willing Necromancers in the library of Alainica [7,58,1] and [12,59,1].  Equip one with the Amulet of the Undertaker (found in the Order of the Second on the body of a zombie [43,39,1]) and the other with 1000 peasants [37,90,1].  Both of these necromancers must be sacrificed to Calajawan in the following order: first the necromancer with the Amulet, then the necromancer with the peasants.
+	b.) After Calajawan has the amulet, she will construct the Cloak of Undead king, which will grant her necromantic abilities.  Slaying the thousand peasants of the second necro will allow her to raise a decent portion of skeletons.  When these skeletons are sacrificed at the Altar, she will gain several attack points, which will enable him to pass the barrier and release Belaz.
+     4. Belaz will kill Calajawan and then he will visit the blue tent, which will plunge Alainica back into darkness.  Now when you visit the shrine of True Sight [16,22,1] you will see which of the copies of the Pendant is real.  (You will also receive the Amulet of Undertaker again -- keep it for later use!)
+
+    
+C. Pendant of Life 
+     1. Rescue the Elven hero Mashiko [30,96,1].
+     2. Recruit 14 Elves near Silverpeak.
+     3. Train (Upgrade) the Elves to Sharpshooters with Mashiko.
+     4. Recruit a Gold Dragon at Silverpeak to supply Farenthras with the required creatures to obtain the Pendant [12,67,0]
+
+
+D. Pendant of Death 
+     1. Acquire Pendant of Life to defeat the Necromancer Scourge.  It may be possible to beat him without the Pendant, but the Pendant will greatly aid in the battle, as his death ripple does almost 500 damage.
+     2. Scourge has the Pendant of Death.
+
+
+E.  Pendant of Total Recall
+   1. Reassemble the Giant that was taken apart by the rebel genies.  Most of the pieces can be found in the possession of Salziaer [2,94,0] and the last can be found on Blitzos after beating Solmyr the genie at [77,2,0].  Take all five pieces to Polaris and exchange for a Giant [37,37,0]. 
+   2. Take the Giant to the gate in front of Riverview.  Talk to Veymoussin and learn about the treachery of Gurnisson.  Veymoussin offers to help you retake Riverview but he can't get by the wall without a giant.  Go around Riverview via the hidden pathway to the northeast (water walk or boat up there) and then take down the barrier at [76,78,0].  DO NOT TAKE RIVERVIEW YOURSELF!
+   3. Let Veymoussin pass and take Riverview (which releases gem store to the north -- see quest to enter Salenze).  He will build the Ogre fort needed for the Pendant of Total Recall.
+   3. Whoops, Veymoussin isn't such a nice guy and it turns out he's in LEAGUE with Gurnisson -- you're going to have to beat him eventually, but you might not be powerful enough yet, because it turns out he's a wizard!  The Pendant of Negativity might help in this battle.  Whenever you do it, make sure you wait one day, as told, before attacking, or else the Ogre Fort won't be built!
+   4. Once Vey flees, you will be able to recruit Ogre Magi to fulfill Mantak Fals' quest [51,101,0].
+
+
+
+F.  Pendant of Courage 
+   1. Upgrade Spencer to Champion (see Spencer quests) and take him to Crowleigh.  Store all your troops in the garrison at Crowleigh [98,76,0] and then visit the mayor at [103,79,0], where he tells you about Grakenthrax the sick dragon.  Agree to the quest and go and recruit all the necessary townsfolk (a sharpshooter, a rogue, a boar-rider, a peasant, a goblin and a nomad).  Note that the rogue and the sharpshooter give you valuable information to be used in later quests.  
+   2. Learn the Cure spell in the Water Town.  Expert water magic will help.
+   3. With the heavy use of Cure, Slay Grakenthrax at [104,57,0], to Acquire the Pendant of Courage from the town mayor.
+
+
+G. Pendant of Dispassion
+   1. Defeat Aenain at Salenze to retrieve this pendant.
+
+
+H. Pendant of Free Will
+
+You will need to out-smart The Imp who lives underground and can be accessed through the Maydin Portal system.  Basically you need to figure out how to get by the swan lake without being stopped for a day (because the Imp will kill you in that case).  To do this, visit another Swan Lake first (preferably the one at the Shrine of the Second) and, as long as you don't take part in another battle, you won't be stopped at the Swan Lake by the Imp.
+
+I. Pendant of Negativity -- See Storm Elemental Quest	 
+
+
+
+
+
+
+III.  Spencer's Quest - this is an ongoing quest throughout the entire map that involves the end quests with Traemaskeelix.  
+
+1. Obtain Spencer the Swordsman at [71,95,0].  I would recommend NOT carrying him around with you, as losing him in battle will mean the map is unwinnable.
+
+2. Upgrade Spencer to a Crusader at Moktar's war camp at [24,85,0] for 5000 gold.
+
+3. Obtain a horse for Spencer (upgrade to Cavalier) at the unicorn ranch in Silverpeak [2,63,0].
+
+4. Upgrade Spencer's horse (upgrade to Champion) at the stables in Salenze [74,39,0].
+
+5. It will be a while before you upgrade Spencer again.  This occurs at the Cathedral of Maydin when Ton Gruzin says he can only upgrade your sword by investing it with a human soul.  Spencer volunteers.  This quest [85,1,1] will change Spencer from a Champion to a Black Knight.
+
+6. Complete the Ritual of the Sword by Upgrading Spencer a final time to Dread Knight at [14,20,0]. Visiting with the Dean of Necromancy requires a side quest of its own, however.  You must prove yourself adept at all forms of necromancy at [13,20,0].  This means bringing 1 walking dead, 1 wright, 1 lich and 1 bone dragon to the Dean's office.  To do this, find the Dead Man's Boots [3,21,0] and the Vampire's Cowl [16,42,0] and give these along with the Amulet of the Undertaker [34,18,0] to a single hero with an empty skill slot.  Combine the artifacts to create the Cloak of the Undead King.  Now, learn basic necromancy [0,27,0] and attack a group of living creatures (a bunch are conveniently located close by) to be raised as zombies.  Now go back and learn advanced necromancy and repeat to raise as wights.  Finally, go back and learn expert necromancy and repeat to raise as liches.  For the bone dragons you will need to recruit a couple of dragons at Silverpeak and use the Skeleton Transformer at Scourge's castle to change them into Bone Dragons.  Now you can visit the Dean to upgrade Spencer.
+
+7.  Return with Spencer to the Cathedral of Maydin to finalize the ritual at [91,1,1].  Read the text and find that Spencer betrays you and runs away with the Malirite sword.  
+
+8. Journey to Calmaad (see the Shrine of Maydin) to confront Spencer for the last time, earning you the unfinished Sword of Judgment (Sword of Hellfire).
+
+
+
+
+
+
+
+
+
+IV.  Shrine of Maydin.  This is a complicated lith system underground that controls entrace to Alainica, Maydin and Calmaad.  It also includes The Cathedral of Maydin and also Calmaad (although there is little to do at Calmaad except the final battle).
+
+A.  Navigating The Lith System.  The lith system consists of nine one-way portals, three in the center and six surrounding them.  The one in the very center is gold in-portal.  We'll call that portal one. To the left is a blue/black in-portal and to the right is a blue/black out-portal.  We'll call those 2 and 3, respectively.  Starting with the outer-ring portal to the east and north of portal three and going clockwise are portals 4 through 9.  Going through portal 2 will take you to one of the portals 4 through 9.  By bringing in six heroes and allowing them to go through portal 2 one at a time until 4 through 9 all have a hero on them, you can gain some modicum of control over which output (4-9) Sedran will take on any given travel through the portals.  
+
+B. The Cathedral.  Once six heroes have been placed over portals 4-9, moving Sedran onto Portal 2 will not have any effect because there are no outlets.  When this is the case, Sedran can move to portal 2, which has two possible outlets: portal 3 and the Cathedral of Maydin.  This is how you travel to the Cathedral.  Note however that you will be unable to recruit six additional heroes until visiting Alainica.
+
+C. Getting into the Cathedral proper.  Once you find the Cathedral, you need to get in.  This requires you to choose the "honest" monk out of a series of six.  This is done by recruiting one of the scholars at the Library of Alainica (a rogue), who can identify which of the six will join you.
+
+D. Ton Gruzin's test.  Ton Gruzin, the abbot at the Cathedral of the Cloaked (Maydin) will test you to determine if you are worthy of his help.  You go through the portal with one monk and he informs you that with one zealot you must beat his army of six zealots.  Sounds easy?  Here's the catch: there are six different stacks and you have to defeat him before he takes a turn.  The only way to do this is to find a mass damage spell.  After some searching and reading clues, it should become obvious that you need the Death Ripple spell.  To aquire the Death Ripple spell, you need to free Salziaer [52,82,1] who has the expert eagle eye skill.  Equip him with any eagle-eye artifacts you find and have him go to the Necromancy school.  The necromancers roaming around all have knowledge of the death ripple spell.  Attack these necromancer with Salziaer to learn the Death Ripple spell and then use expert scholar (Sander Payne has it -- see Traemaskeelix and end game) to transfer the spell to Sedran (or just take the test with Salziaer).  With Death Ripple and the Pendant of Life, you should be able to easily pass Ton Gruzin's test. 
+
+E. Calmaad.  An ancient monastery of the undead long protected by the Shrine of Maydin.  It is likely you will not find it until you are told it exists, but it is possible to do so earlier in the map (although you can't enter it until later).   Entering Calmaad actually requires seven heroes (in addition to Sedran) and is tricky to enter.  First, place six heroes on portals 4-9.  This will leave you with two heroes, Sedran and Hero8.  Move Hero8 to portal 2 until he arrives at the Cathedral.  Let him stay on the portal exit.  Now move Sedran onto portal 1 and then to the space between portal 1 and 2.  Now move the hero that is standing on portal 9 to the output of portal 3.  With the Cathedral output and portal 3 blocked, moving Sedran onto portal 3 will result in nothing and he is free to move onto the secret path to the west that leads to Calmaad.
+
+
+
+
+
+
+
+V.  The Necklace of Bliss.  The final ("big") puzzle.
+
+1. This one is going to require some thinking.  Once you have recovered all nine pendants (I hope you've been writing the names of each pendant down!), you are almost ready to recover the necklace of bliss from the sphinx.  There is one thing you need to do first, however, and that is return the Glyph of Gallantry [6,67,1] to Sander Payne [70,24,0].  Note that to reach Sander Payne you need to hire a mountain climber at [83,33,0] to reach Sander in the mountains.  Sander will use the Glyph of Gallantry to "translate" the ancient words into even more ancient runes.  He "writes" these up in a "book" that is distributed with the rest of the files included with the map.  The book is essentially a list of runes and their names.  Each pendant has a name and an associated rune. 
+
+2.  If you draw out the runes as indicated in the Sphinx's garden by the positions of the artifacts, you should be able to deduce what is the rune and name that belongs to the necklace of bliss.  The method is one I'm going to let you figure out on your own but my advice is to study the relationship of the runes and their relative positions hard.  It shouldn't take you too long to see the pattern.  
+
+The answer, in case you're REALLY stuck, is Mikalenbeth.   
+
+3. Once you have the necklace you can use it to power the sword at [103,13,0].
+
+
+
+
+
+
+
+
+
+VI. Well, here you are, the end of the game.  Take the Sword of Judgment to Traemaskeelix, and she will tell you with her last words how to plant the new tree.  You need two hearts.  One you have already (the sphere you've been carrying around) and one of her own (that's right, she had two!).  One needs to be powered with Life and one with Death at the Orb-powering Shrine.  You need a Sapling -- you should have gotten these a long time ago at [6,94,0].  Take these three items to the grove at [13,97,0] and, using the Obelisk there, you can find the right place to plant the new World Tree.  Your reward: the Grail.  Take it to Salenze and you have the map won!
+
+Congratulations!

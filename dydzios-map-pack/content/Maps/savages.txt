@@ -1,0 +1,28 @@
+Title: 			Savages
+Type: 			1on1
+Game: 			Heroes of Might and Magic III 
+Expansions:		The Shadow of Death
+Author: 		Gunnar
+Author's eMail:	gunnar@drachenwald.net
+Homepage:		http://www.drachenwald.net
+Files: 			Savages_en.h3m (english texts)
+				Savages_de.h3m (german texts)
+Size: 			26kB each
+Gameplay: 		2 human or computer players
+Allies: 		none
+Map size: 		Medium
+Underground:	Yes (but just a passage way)
+Language: 		English & German
+Version: 		1.13 (released 2005-01-30)
+Testers: 		MysticPhoenix, Venom, SirGauvain and others
+
+Notice:			Because of the movement disadvantage at snow the red player
+				got a second lighthouse. Sorry for that mistake.
+
+
+**************************************************
+
+More maps at: 	http://www.kartenarchiv.de (mostly german maps)
+
+**************************************************
+

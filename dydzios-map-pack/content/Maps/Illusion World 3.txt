@@ -1,0 +1,20 @@
+Map Name: Illusion World III (You must have Armageddon's Blade to play this map)
+Map Maker: Svyatoslav Shevchuk
+E-Mail Address: T.Kirinskaya@beloil.gomel.by
+Map Size: Large
+Map Type: Cooperative/Multiplayer/2 level map/4HC,1C only
+Difficulty: Hard
+Language: English
+
+Description: The Illusion World... After the second war for an authority this world seems has set in peace. But it's no more than next illusion of this world. And already two alliances enter in the third fatal war for an authority. There is also third force - so-called damned, living in a dark maze of dungeons. 
+
+Special Win: None
+Special Loss: None
+Special Other: NONE
+
+Play-testers: Special thanks to:
+              Boris Sivko (may be found at T.Kirinskaya@beloil.gomel.by)
+              Vasiliy Turovsky (No current email)
+              Serge Dubina (No current email)
+
+P.S. Please, mail me and express your opinion about my maps!

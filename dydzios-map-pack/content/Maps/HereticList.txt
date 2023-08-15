@@ -1,0 +1,70 @@
+PURPLE SAGE'S GUIDE TO HERETICS
+
+GameName       H3Name    A/D/P/K Ability    Skills      Heresy
+-----------    ------    ------- -------    ----------  -----------------------
+Joan Dark      Ash       3/3/1/1 Bloodlust  Lead, Tact  Crusader for poor
+Friar Bruno*   Axsis     2/2/2/2 Mysticism  Path, Myst  Target of Inquisition 
+Velikovsky     Ayden     1/1/3/3 Intellig   Inte, Scho  Radical scholar
+Lord Marcion   Calid     2/2/2/2 Inferno    Esta, Armo  Wealthy Gnostic
+Jack DeMolay   Olema     2/3/2/1 Weakness   Firs, Tact  Templar Grandmaster
+Nick Tesla     Xarfax    1/1/4/2 Fireball   Lear, Inte  Inventor of 'Death Ray'
+Paracelsus     Xyron     1/2/2/3 Sulfur	    Lear, Sorc  Alchemist
+Kid Crowley+   Zydar     2/2/2/2 Sorcery    Sorc, Path  Magician and libertine
+
+* In City Jail #3
++ Starting Hero
+      
+
+SHERIFF CLANCY'S PRISON ROLLS
+
+GameName      H3Name     A/D/P/K Ability   Skills      Location
+-----------   ------     ------- -------   ----------  -----------------------
+Clancy	      Mephala    4/4/1/1 Armorer   Armo, Lead  Sewers (Trogs)
+Mad One	      Ellishar   2/2/3/3 Intell    Inte, Sorc  Campus Police Station
+Filthy McRum  Kilgor     4/2/2/2 ?	   Navi, Offe  City Jail #1
+Dollar Bill   Thorgrim   2/6/1/1 Resist    Resi, Luck  City Jail #2
+Spartacus     Crag Hack  5/3/1/1 Offense   Offe, Lead  Slave pens
+Dead Fred     Thant      1/1/4/4 Animate   Wisd, Necr  Mortuary 
+???????       ?????      ?/?/?/? ?	   Wisd, Dipl  Hideout
+
+DEPUTIES DUTY ROSTER
+
+GameName      H3Name     A/D/P/K Ability    Skills      Station
+-----------   ------     ------- -------    ----------  -----------------------
+Deputy Simon  Gundala    4/4/2/2 Offense    Offe, Arch  East turret
+Deputy Angel  Mullich    4/4/2/2 Haste      Tact, Firs  West turret
+Deputy Grunt  Gurnisson  4/4/2/2 Ballista   Ball, Lead  Main barracks
+Deputy Eagle  Geon       2/2/4/4 Eagle Eye  Eagl, Arch  Off duty (University)
+Deputy L.B.   Malcom     2/2/4/4 Eagle Eye  Eagl, Sorc  Off duty (University)
+Deputy Fnord  Serena     2/2/4/4 Eagle Eye  Eagl, Wisd  Off duty (University)
+
+
+STARS OF THE ARENA
+
+GameName     H3Name      A/D/P/K Ability     Skills    
+-----------  ------      ------- -------     ----------  
+Beastmaster  Bron        8/8/4/4 Basilisks   Luck, Lead
+The Good     Sorsha      8/6/6/4 Swords      Offe, Firs
+The Bad	     Tamik       6/6/6/6 Deathknigh  Offe, Firs
+The Ugly     Zubin       6/4/8/6 Precision   Offe, Firs
+
+
+REGISTER OF NOBILITY AND RULING CLASS
+
+GameName     H3Name      A/D/P/K Ability     Skills      Position
+-----------  ------      ------- -------     ----------  -----------------------
+Uxnator	     Ajit	 ?/?/?/? Evil Eyes   Wisd, Lead  Grand Overlord of Foss
+Crown Prince Lord Haart	 4/4/4/4 Estates     Esta, Navi  Deposed ruler, now insane
+Malathion    Jeddite     8/8/8/8 Resurrect   Wisd, Sorc  Overlord's Grand Vizier
+Overseer     Darkstorn   8/8/4/4 Stoneskin   Tact, Arti  Overseer of slave market
+Foreman	     Malekith    6/6/4/4 Sorcery     Tact, Resi  Malathion's home guard
+Bully Boys   Deemer      8/8/2/2 Meteor      Tact, Arch  Malathion's picked men
+Hierophant   Ingham	 6/6/8/8 Monks       Wisd, Myst  Religious leader of Foss
+Prelate Olaf Loynis      4/4/6/6 Prayer      Wisd, Firs  Conducts celestial choir 
+Prelate Mira Adelaide    4/4/6/6 Frost Ring  Wisd, Sorc  Conducts cathedral service
+Purple Sage  Brissa	 2/2/2/8 Haste       Scho, Lear  Chancellor of University
+Sardonicus   Alamar	 4/2/6/6 Resurrect   Scho, Wisd  Visiting Scholar
+Don Primo    Boragus	 6/6/4/2 Ogres       Esta, Armo  Mob boss
+Hakeem	     Dracon      2/2/4/4 Enchanters  Wisd, Fire  Priest at Altar of Fire
+Undertaker   Nagash      3/3/3/3 Income      Esta, Eart  Mortuary boss
+ 

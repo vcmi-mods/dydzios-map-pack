@@ -1,0 +1,26 @@
+
+                   HEROES III (R.O.E.) MAP SUBMISSION
+
+Map Name:	Dragons Galore (Dragons Galore.h3m)	
+Map Maker:	Laelth (Alan Taylor)
+E-mail Address:	apt6083@utarlg.uta.edu
+Domain:         vandea.com
+
+Map Type:	Single or Multi (4 Human or Computer, 1 Computer Only)
+Map Size:	M with underground
+Language:	English
+
+Description:	Dragon Lord Draco has called an end to the petty bickering
+		between you and your rivals, and he has an army of dragons 
+		ready to help him enforce his will.  Defeat Draco, and then 
+		go after your enemies.
+
+Special Win:	None
+Special Loss:	None
+
+Difficulty:	Normal (as always).  Set difficulty to your own taste/ego.
+
+Notes:		This rather detailed map features challenging terrain and
+		a few surprises.  Economic growth and creature growth are
+		accelerated to allow for more intense combat.   
+

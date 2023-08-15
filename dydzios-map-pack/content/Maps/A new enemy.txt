@@ -1,0 +1,19 @@
+Map Name:      A new enemy
+Author:        Turandil
+E-mail Address: lordturandil@hotmail.com
+
+Map Type:      Singleplayer or multiplayer, humans or computer.
+Map Size:      XL with underground
+Game Version:  H3 SOD
+Language:      English
+
+Special Win:   None
+Special Loss:  None
+Special Other: None
+
+Map-Testers:   Alot of friends
+
+Description:   Large and detailed.
+
+Additional Info: nope
+

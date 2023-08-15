@@ -1,0 +1,56 @@
+Blood of Heroes
+updated : 24 Dec 2001
+
+Map Name:	Blood of Heroes  (Blood_of_heroes.h3m)
+Map Maker:	Renaissance
+E-Mail Address:	renai_map@yahoo.com
+
+Map Type:	Single/Multi, 3 Colour avaible for human
+Map Size: 	Medium, 2-Level
+Map Difficulty:	Hard
+Language:	English
+
+Description:	200 years after the peaceful era, the war between good kind and devil begin. Three factions unite their force. The good kind lead by the castle, the eternal enemy, the evil side ruled by the necromancer, and for the neutral lead by barbarians, they need to survive in this brutal battle. 
+
+Special Win:	NONE
+Special Loss:	NONE
+Special Other:	NONE
+
+Notes:  
+Spells:  Fly spell is banned.
+
+
+Play-Testers:	
+Viktor Coyote - coyot@pinknet.cz
+Rachel Butt <rbutt@pcug.org.au>
+Martin B. Nielsen ("Malta") - vallettafc@hotmail.com
+
+Note :
+
+There are three faction fighting on the map. The map is supposed to test the player's ability to mix the army types of the three associated cities in the best possible way. 
+
+The Good Faction : Castle, Rampart, and Tower. Starting heroes : GELU and DRACON. This is will be the very important
+thing from Good Faction. The formation is Castle - Rampart and Tower as the last defender of Good side.
+Good support : 
+- Tower are start with 2nd unit dwelling since tower structures require a lot of resources.
+- Wood elves dwelling for Gelu and Monastery for Dracon.
+
+The Evil Faction : Necropolis, Dungeon and Inferno. Starting heroes : MUTARE and LORD HAART. Mutare will start with one
+Red Dragon. The formation is Inferno - Necropolis and Dungeon as the last defender from Evil side.
+Evil support :
+- 4 Skeleton dwellings to maximalized the Necro most important tactics.
+- Most of terrain is Cursed ground and Evil Fog
+
+The Neutral Faction : Stronghold, Fortress and Conflux. Starting heroes : KILGOR and ADRIENNE. Adrienne starting point is near a
+Conflux where she can find spells for her fire magic speciality. The formation is Fortress - Stronghold - and Conflux as the last defender of Neutral side.
+Neutral support :
+- Considering Stronghold and Fortress are categorized as "weak" town, so I give 1 more Stronghold town to neutral side.
+
+I recommend to play all sides !
+
+
+Since i am a big fan of (the official) HOMM3 story, the map is totally based on the HoMM storyline, including using the original Hero name.
+
+Difficulty recommended : Expert. A lot of resources can be collected in the early game.
+
+8 May, 2001

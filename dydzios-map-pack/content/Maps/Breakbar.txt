@@ -1,0 +1,60 @@
+
+                   Astral Wizard's Map Competition 2000
+
+Map Name:	Breaking the Barriers  (breakbar.h3m)
+Map Maker:	Brian Krueper
+E-Mail Address:	Ungoliantb@yahoo.com
+
+Map Type:	Multiplayer Allies   4 Humans Or Computer  (2 Teams, Coooperative)
+		Armageddon's Blade Expansion Pack required
+Language:	English
+
+Description:	The high court of Erathia has handed down its ruling...admittance 
+		into the Beastmaster and Witches guilds cannot be restricted by the
+		gender of the applicant.  They have vowed to fight to preserve their 
+		way of life,  and the ruling must now be enforced.
+
+
+Special Win:	Defeat all.
+Special Loss:	Lose all your cities and heroes.
+Special Other:	Cooperative:  Red and Blue .vs. Orange and Pink
+
+Difficulty:	Hard	
+Size:		Medium, 2 level
+
+Play-Testers:	Rex Mundi	Rexmundi_cto@yahoo.com
+		BlackDog	BigwigDM@aol.com
+		Maxym		maxym@mail.com
+
+
+
+Designer Notes:
+
+Welcome to your Vietnam!  This map is intended to show how truely formidable the 
+Fortress is on its' own territory.  At first, it seems the sides are not balanced, 
+since Red/Blue start out stronger and get continually reinforced throughout the game.
+But Orange/Pink have the home turf advantage, and will get stronger as the game 
+progresses.  This is very difficult to balance, which is why I recommend 4 humans play
+rather than the AI.  If one team is the AI, then the humans should be the Fortress 
+team, since the AI handles the multiple gates there usually horribly and would not 
+provide too much of a challenge.
+
+Even though it would have added to the story line, I kept the invading starting towns
+and heroes random, since people seem to enjoy picking their own rather than being 
+locked in.
+
+
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+The green tent is the key for the invaders.  They must unlock it order to invade
+the Guild headquarters.
+
+All Crystal and gem mines are in the swamp.  Castles that depend on them are not too 
+disadantaged, since there is resources laying around, and some structures are built
+for them, as well as a market close by.
+
+==================================================================================

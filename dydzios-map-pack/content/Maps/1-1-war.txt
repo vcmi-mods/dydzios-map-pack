@@ -1,0 +1,29 @@
+Map name: 1 + 1 = War
+
+
+Version: 1.0
+
+
+Map created by: Roy Ritchey 
+
+
+email:  ritcher1@consultant.com
+
+
+Map Size: Medium; 2 levels, 2 player
+
+
+Map Description:
+---------------
+William's School of Archery and Cozmo's Academy 
+of Magic have been competing for enrollees for 
+years.  During a heated debate over recruiting 
+practices last month, open war was declared 
+between the two universities.
+
+
+Playtested by: (reachable on the 3do Community board)
+--------------
+Ritcher1
+Viking
+Cyber Trog

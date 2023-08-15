@@ -1,0 +1,30 @@
+Map Information. 
+
+Map Name: Dark Knight (filename.h3m) 
+Map Maker: Martin S 
+E-mail Address: ciranor@hotmail.com 
+
+Map Type: Singleplayer, 1 Humans Only, 3 Computer Only 
+Map Size: Large 
+Map Difficulty: Expert 
+Game Version: Shadow of Death 
+Map Version: 1.0 
+Language: English 
+
+Special Win: Kill Hero 
+Special Loss: Out of Time 
+Special Other: none 
+
+Playtesters: Richard Hallas (Richard@Hallas.net)
+
+Description: The necromancers have become tired of the ban put on their activities by human kingdoms. Having killed a great human general and resurrected him as a lich, they have put him on a mission to wreak havok in your kingdom. You must defeat him before it is too late. 
+
+Notes for Players: Your opponent has the upper hand (quite a bit more resources than yourself) in the beginning and will start attacking you fairly soon. It is therefore rather pointless to engage your opponent in his territorier early on. Instead, explore the region around your castles for artifacts, gather resources and prepare yourself while you hold back the enemy attacks. You must turn the tide of battle, enter the enemy territories to find the way to the enemy hero you are after. This involves quite a few visits to Keymaster's Tents. Prepare for the final battle!
+
+You have six months.
+
+Note: One enemy town will be inaccessible to you, so do not even try to reach it. This ensures that the only way for you to win is by defeating the right enemy hero.
+
+There is an artifact you will eventually get in this map that you'll need to have to complete the map. When you get this artifact, you will be warned that you absolutely CANNOT afford to lose it (at least not until you have reached a certain point). The computer players cannot get this artifact by themselves, so they will not screw it up that way. Once you have gotten it, however, they can, of course, take it from you. If this should happen, I strongly suggest you reload. In the seperate spoiler file, I will reveal which this artifact is, how you get it and what you need it for. You can look there if you should get stuck, but I suggest you attempt on your own first.
+
+Good luck!

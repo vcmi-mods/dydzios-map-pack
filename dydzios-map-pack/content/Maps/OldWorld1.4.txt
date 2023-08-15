@@ -1,0 +1,22 @@
+
+                   MAGELLAN'S MAP SUBMISSION
+
+Map Name:	Old World (oldworld.h3m)
+Map Maker:	Mr Greenfish
+E-Mail Address:	greenfish@absolut-vodka.com
+
+Map Type:	Multiplayer/Singleplayer 7 Humans 1 Computer
+Language:	English
+
+Description:	The servants of Hell have insidiously cut this land in two, splintering centuries-old alliances and plunging the continent into chaos.  Can you lead your people to victory by uniting the warring factions and defeating the Lord of Darkness, or will this world succumb to the forces of evil?
+
+Special Win:	Capture the town of Hell
+Special Loss:	Time expires
+Special Other:	NONE
+
+Narrative:	It's all in the game ...
+		I will say this though:  not all players are created equal.  For a real challenge, play as the orange, blue, tan or green players, as they are closer to Hell and therefore more vulnerable.  If you want things a little easier, try the teal, pink, or purple players.
+
+Play-Testers:	foofoo@paradise.net.nz
+              	pandabear@paradise.net.nz
+              	jimraynor@zfree.co.nz

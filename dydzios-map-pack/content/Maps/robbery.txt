@@ -1,0 +1,10 @@
+Map Name 	: Robbery
+MapMaker  	: Indigovoid (indigo@artlover.com)
+Map Size	: Small
+No Of PLayers	: 3  single players (red, purple and teal)
+Special Victory Condition: Take the Grail to a specific castle.
+
+
+Game Information:
+
+You are surrounded by seemingly endless resources, but with a twinge of conscience, you realise they belong to someone else.  Oh well, too bad, hunting for the Grail and taking it to Castle Ectoplasm (wherever that might be) is what will win you the game.  So let the hunt begin.

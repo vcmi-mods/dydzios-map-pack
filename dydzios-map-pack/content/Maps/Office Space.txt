@@ -1,0 +1,93 @@
+                   HoMM3 Map "Office Space" Submission
+
+	(Please, all of you who play this, submit a rating!  Also, reviews would be great... we can always use more reviewers out there in the HoMM community!)
+
+Map Name:	Office Space (Office Space.h3m)
+
+Map Maker:	Fafnir the Heptadragon (Andrew Stern)
+
+E-Mail Address:	heptadragon@loudbrain.com
+
+Map Type:	Singleplayer Medium-size, 1 Human-Only (Rampart), 4 Computer-Only (varying)
+
+Language:	English
+
+Description:	You are Jack Price, researcher at Boragus Labs Inc.  You've noticed that most of the experiments that go on around the complex have some sort of terrible aftereffects, which you believe to be sanctioned by Boragus himself... it's time to get to him and get some answers!
+
+Special Win:	Build a Grail Structure in "Jack's House"  (I've placed towns for all of the computer-controlled players, so the standard win condition can not apply)
+
+Special Loss:	None, although the loss of your hero "Jack Price" will make the game unwinnable
+
+Special Other:	After you finish the map in-game, please read the "End Story.txt" file which I have included with the map.  It will finish the story which was presented in the map, and lead into the campaign which I am in the process of creating, titled "Enter Sandman".  (This campaign has barely been started, though, so expect to wait a while if you plan on playing it)
+
+Competition:	This map is an entrant of Astral Wizard's Summer 2001 Map Contest, whose theme is Legendary Land/Mythical Place.  My Mythical Place is the mostly-magical Boragus Labs Incorporated.
+
+Tips:		1.  I wouldn't suggest starting with Gold or Crystal as your starting bonus, as there is a timed event in the beginning which sets resources for you.
+		2.  Don't forget to look for the artifact keys.  If you think you're taking too much time finding them, go ahead and wait.  You'll be able to get them later on, and will get hints on where to find them if you need them.
+		3.  Don't try and go through both paths (terrorist/employee) in the same play.  You probably won't have a strong enough army to do so anyway... unless you cheat, and I know that nobody would ever do that, now would they?  =)  Besides, if you're really that desperate to find out what happens in the other side of the storyline, play through the map again... I certainly won't mind.
+		4.  If you think that you've missed an essential resource or something, look for clues around the floor.  Someone might tell you something that could help you find what you need.
+		5.  You probably wouldn't want to take on the "boss" guy/gal you have to fight, be it employee or terrorist, until you've explored the entire floor (including the Master Elevator).  You'll probably find some stuff that will help you out in the process.
+		6.  If you'd like some additional storyline, check out the events in front of the people that you AREN'T killing in the Seventh Floor's Offices.
+		7.  If you'd like some Monty Python references, I suggest you pick the Employee's Path (killing the terrorists).  I built them into the story there.  (All Python-esque dialogue is influenced by and courtesy of Monty Python, Inc., even though they don't have a clue I'm using it.)
+		8.  Remember, when I'm talking about the "stairs", I'm referring to the one-way portals that advance you to the next "floor".  The "elevator" is the room with all of the one-way and two-way portals to floors you've already been to.
+		9.  On the fourth floor, the left/right directions given in the questions refer to the direction the hero is facing, not the direction on the map.  The other directions (east/west, north/south) refer to map direction, just like the cardinal directions usually do.
+
+Play-Testers:	Corey Cunningham (fieldy39@hotmail.com)
+              	Simon Mooncalf (pauljmoedt@wxs.nl)
+		Anders Jonsson/Gaidal Cain (gaidal.cain@softHome.net)
+		Rachel Butt/Dragonsister (rbutt@pcug.org.au)
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+		Note : If you're really having trouble finding artifacts, but you don't want to go through the editor and find them, try using View Air.  (Otherwise, you'll just have to scroll down a bit.)
+
+{ATTAINING ALL MAGIC SKILLS}
+
+	You already start with Expert Water and Basic Fire, but if you can't find either Air or Earth at the "research library" (University) on the first floor, wait until you can get into the Master Elevator.  There, Witches' Huts are placed to teach you both magics, Earth on the right and Air on the left.
+
+{FINDING THE ARTIFACT KEYS}
+
+1.  The Garniture of Interference can be found on the first floor, behind your "furnace", in a small nook.  (50, 60, 1)
+2.  The Pendant of Second Sight can be found on the second floor, behind the smoke from the volcano in the "Hot" division.  (26, 51, 1)
+3.  The Shield of the Dwarven Lords can be found on the third floor, near the crack in the ground on the path to the Red Keymaster's Tent.  (60, 41, 1)
+4.  The Stoic Watchman can be found on the fourth floor, at the right side of the entrance to the "Safe Zone," behind the mountains.  (42, 8, 1)
+5.  The Pendant of Negativity can be found on the fifth floor, in an event between a rock and a tree cuddling in the mountain hook.  (61, 19, 0)
+6.  The Collar of Conjuring can be found on the sixth floor, in an event right behind the portal exit from the fifth floor.  (11, 29, 0)
+7.  The Glyph of Gallantry can be found on the seventh floor, in an event just south of the bush between the two southernmost Quest Guards.  (55, 53, 0)
+8.  The Dead Man's Boots can be found on the eighth floor, in a Pandora's Box in the office corresponding with the path you followed through the game.  This can only be reached by trading in all of your promotion badges or cheating.  (different locations)
+
+{ACQUIRING RESIDUAL ACCESS TO THE MASTER ELEVATOR}
+
+	If you're playing through on the Employee's path (killing the terrorists), you'll get all of the tents you should need by killing the terrorists/Bosses on the floor above the floor you want to go down to.
+	If you're playing through on the Terrorist's path (killing the employees), you'll only get residual access in the Terrorist's Office on the eighth floor.  After trading in all of your promotion badges, you'll find a row of tents, just like the ones the Employees get for their residual access.
+
+{ANSWERS TO THE FOURTH-FLOOR QUESTIONS}
+
+1.  Who is/was your fiancée?
+  A:  Mademoiselle Lècrasé.
+2.  Which of these two floors is NOT a part of Boragus Labs Incorporated?
+  A:  Facilitie Magickal.
+3.  What was the {first} experiment AT Boragus Labs Incorporated?
+  A:  Yourself.
+4.  How much gold does it cost at a School of War or School of Magic to raise a Primary Skill?
+  A:  1000 Gold.
+5.  On the first floor, why couldn't you go to the basement?
+  A:  There was a puddle in the hall.
+6.  On the second floor, there were two terrorists guarding the exit.  Which one was Tiny?
+  A:  The first one.
+7.  WHY did the Mad Scientists, Boragus' second major experiment here at BLI, fail?
+  A:  Boragus was preparing his downfall.
+
+{FINDING THE GEMS ON THE FIFTH FLOOR}
+
+	You'll be able to find the gems in a little nook between a crack and the mountains at the entrance of the Public Restrooms, behind the Redwood Observatory, at (46, 27, 0).

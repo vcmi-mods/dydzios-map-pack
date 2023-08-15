@@ -1,0 +1,28 @@
+
+                  MAP SUBMISSION  (Heroes 3 map, Non-expansion pack)
+
+Map Name:	The Bridge Over Forever (Bridgfor.h3m)
+Map Maker:	Brian Krueper
+E-Mail Address:	Ungoliantb@yahoo.com		
+
+Map Type:	Multiplayer;	4 Humans ,1 Computer
+Language:	English
+
+Description:	Uncounted ages ago, a bottomless rift split the land asunder.  Only a single
+		span of land crosses this unnatural gash in the world, and it is now controlled
+		by a greedy knight who charges high tolls for right of passage.  A recently 
+		announced tariff hike will surely cause your lands to whither.	
+
+Special Win:	none
+Special Loss:	none
+Special Other:	none
+
+Difficulty:	Hard
+Size:		Medium
+
+Play-Testers:	This was an official map in The 3DO Community HoMM3 Tournament, so many people played it.
+		Here are some:
+		Rex Mundi (Community) RexMundi2000@yahoo.com 	
+		Gill Posse (Community)	gpit@flash.net
+		Behemoth (Community)	heroes3@wa.onet.pl
+		

@@ -1,0 +1,21 @@
+
+Map Name:	Coalition Wars
+Game:		HoMM3: SoD
+Designer:	Dmitry Logan - the administrator of Heroesportal team (www.heroesportal.net)
+e-mail:		logan@heroesportal.net
+Type:		Single Player, 1 Human only / 3 Computer only
+Size:		XL, 2 levels
+Difficulty:	Impossible
+Language:	English
+Description:	
+
+
+France, ruled by Emperor Bonapart, is being attacked by large forces of Coalition. 
+Paris is under siege and can fall any time. Help the Emperor to save France and don't let the enemy forces seize Paris - otherwise the war is over!
+
+Map Testers: *
+My map was downloaded more than thousand times from our Heroesportal map collection and no one has ever wrote to me about any problems with the map. I played it too.
+		
+Special Win:	NONE
+Special Loss:	If Paris is captured, player is defeated.
+Special Other:	NONE

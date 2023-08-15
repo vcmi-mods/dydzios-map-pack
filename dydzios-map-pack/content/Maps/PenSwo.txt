@@ -1,0 +1,27 @@
+
+                   MAGELLAN'S MAP SUBMISSION
+
+Map Name:	[The Pen and the Sword, PenSwo]
+		version 1.06
+Map Maker:	[David Wells]
+E-Mail Address:	[dawells@ozemail.com.au]
+
+Map Type:	[Singleplayer] [1 Humans Only, 0 Humans Or Computer, 7 Computer Only]
+Language:	[English]
+
+Description:	[The wizards have begun a great war to decide who will control their homeland - 
+		and the world. The spells they cast at the beginning of their conflict have some
+		nasty side effects. Your only hope is to unite the lands and destroy them. But
+		where is that pesky sister of yours. You need her here.]
+
+Special Win:	[NONE]
+Special Loss:	[NONE]
+Special Other:	[NONE]
+
+
+
+Play-Testers:	[Gwhenwyfar, gwhenwyfar@world4you.com]
+              	
+		[Anthony Milton, anjen99@worldnet.att.net]
+
+		[Rebecca, beckerb@compuserve.com]

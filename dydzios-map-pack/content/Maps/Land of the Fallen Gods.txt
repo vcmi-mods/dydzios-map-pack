@@ -1,0 +1,56 @@
+Land of the Fallen Gods
+By: White Raven	e-mail: wraven@milehigh.net
+Single player map for Heroes of Might and Magic III ( HOMMIII )
+Map size: Large (108x108)
+Player side: Red
+Computer players: 2 teams of 2.
+Time limit: None
+Special victory goals: None
+Special defeat goals: None
+
+Distribute and edit freely, with the exception of comercial editions.
+Just give me credit and include this file with every copy.
+
+
+	For nearly a hundred years the forces of good and evil warred across 
+the breadth of the realm. It was only eighteen years ago that the mighty 
+armies of valor sacrificed themselves in an ultimate battle to rid the land of 
+evil powers for ever. Since that time, pitiful remnants of these once mighty 
+kingdoms have struggled to remain whole in the chaos. Some failed.
+	You have risen to power over one of five remaining kingdoms. It is 
+your hope to unite the land under your banner and usher in a period of new 
+peace. Needless to say, the other remaining kingdoms, as well as the 
+unclaimed remnants of past nations, object to your plans. The land has 
+returned to barbarism, it's time to show that the paragons of the past have not 
+died for naught.
+	You may have a way of making your job easier though. As your 
+power has grown, so too have the rumors of a small enclave of past heroes 
+who survived the final battle so many years ago. If you can locate them and 
+convince them to follow you, you can quickly gain power and crush your 
+enemies. Alas, you know not where they reside or how to find them.
+	Conquer the land and seek the Land of the Fallen Gods.
+
+
+Notes:
+At one time, this map was going to include co-op options. If you wish, 
+a few moments of editing the "map specifications" with the map editor can 
+return this feature. Green and Orange are teamed now, as are Blue and Tan. 
+Red is alone. You may want to keep in mind that Orange is a Dungeon 
+player and starts underground. I do not however claim the map has any kind 
+of balance if played this way. (But it might, I haven't a clue)
+	Any and all comments are welcomed, from high praise to derision, 
+anything from typos to balance considerations. I am not opposed to re-
+issuing this map if enough changes are made. Again, my e-mail is 
+wraven@milehigh.net . I also, for the time being, will keep my eye on the 3do 
+HOMMIII board. If you want to try and get my attention there, I'm known as 
+White Raven.
+	I'd like to add my two cents regarding the high quality of HOMMIII 
+and the steady improvement of this wonderful franchise. I'd like to thank 
+New World Computing and 3do for this wonderful game.
+As an odd side-note, this series is tied for first place in my mind with 
+(the first two) X-COM for best all time games. Even though they cover very 
+different environments, the mix of strategy and tactics is surprisingly 
+similar. If any of you HOMM fans out there have never played X-COM: 
+UFO Defense, I highly recommend it. (Skip X-COM Apocalypse and any of 
+the non strategy titles they are coming out with though. It's a dying franchise 
+?)

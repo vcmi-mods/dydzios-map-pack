@@ -1,0 +1,60 @@
+Hyaden's Trilogy II : The Dead Claw
+27 September 2001
+
+Map Maker:	Yutalia Rennaissance
+E-Mail Address:	renai@dawsonmail.com
+
+Map Type:	Singleplayer
+Language:	English
+Map Size:	Medium - 1 level
+Map Difficult : Hard
+
+Description:
+
+This is the second episode of Hyaden's Trilogy.
+
+
+Hyaden continues his march to reclaim his destiny as the Son of the Rainbow. In order to find his father he must pass the deadly swamp known as - the Dead Claw.
+
+
+
+Special Win:	DEFEAT A SPECIFY TOWN
+Special Loss:	NONE
+Special Other:	NONE
+
+
+thanks to :
+
+map tester and language contributors : 
+
+Andrew Tanzi <commando_avatar@libero.it>
+Keith Williams <keith.williams@virgin.net>
+
+
+
+
+
+
+notes :
+
+
+
+Hyaden's Trilogy :
+I   : Under the Guardian Wings
+II  : The Dead Claw
+III : Colours of the Rain
+
+
+
+
+
+- This is the second chapter of Hyaden's Trilogy, the campaign map of three maps.
+- Although Hyaden is using Kyrre's portrait which is default was female character, he is a male character.
+
+- The map can easily win by special win if you go to the right directions, but you may want some challenge by defeating all Fortresses in Dead Claw.
+
+
+
+
+
+comment and feedback is more than welcome.

@@ -1,0 +1,34 @@
+Shadow of the Dragon
+Updated version - 18 August 2001
+
+
+
+
+Map Maker:	Renaissance
+E-Mail Address:	renai_map@yahoo.com
+
+Map Type:	Singleplayer, 1 Human Only, 7 computer
+Language:	English
+Map Size:	Large, 2 Levels
+Map Difficult : Expert
+
+Description:
+The legends tell of a Dragon-Age a thousand years ago. Today the conflux princess had been kidnapped, 
+and the witnesses said a horde of Red, Black, Rust and so many kind of Dragons flew above the Conflux before 
+the princess disappeared.  The Dragons have returned!  Again, the Conflux must fight them.
+
+Special Win:	DEFEAT A SPECIFY TOWN
+Special Loss:	NONE
+Special Other:	NONE
+
+found these guys at astral wizard map tester !
+Play-Testers:	
+
+Viktor Coyote - coyot@pinknet.cz
+Malory
+Rachel Butt <rbutt@pcug.org.au> - thanks for checking the grammar !
+
+notes :
+- First I apologize for my english and second for all those who had played my previous map because its contain a lot
+of bugs. All the known bugs already fixed and the map already being modificate a lot and very different from
+the previous version.

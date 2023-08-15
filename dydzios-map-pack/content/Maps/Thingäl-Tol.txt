@@ -1,0 +1,108 @@
+HEROES OF MIGHT AND MAGIC III
+
+Map Name:	Thingäl-Tol
+Version:        1,46
+Date:           24 FEB 2001
+Author:		Erik "Jymbob" Engstrøm
+E-Mail Address:	ee14@hotmail.com
+Playtester:     Dorte Grosen (dortegrosen@hotmail.com)
+
+Map Type:	Restoration of Erathia
+Players:	Multiplayer (4 H/C)
+Size:		X-Large
+Underground:	Yes
+Difficulty:	Expert
+Language:	English
+
+Special win:	None
+Special loss:	None
+
+Disabled spells: Earthquake (bugged vs. Rampart), Dimension Door
+(ruin the game), Fly (ruin the game), Town portal (too powerfull
+- unbalanced for the lucky team), Visions (given to all),
+Water Walk (unnecessary).
+
+Disabled artifacts: Ambassador's sash (unnecessary), Amulet of the
+Undertaker (unnecessary), Angel Wings (fly), Boots of Levitation
+(Water Walk), Dead Man's Boots (unnecessary), Diplomat's Ring
+(unnecessary), Head of Legion (bugged), Helm of Heavenly
+Enlightenment (too powerfull-unbalanced), Pendant of Life/Death
+(unnecessary), Sea Captain's Hat (given to all), Shackles of War
+(given to all), Spellbinder's Hat (fly-DD), Statesman's Medal
+(unnecessary), Tome of Air (fly-DD), Tome of Earth (Town Portal),
+Tome af Water (too powerfull-unbalanced).
+NOTE: Some of the really heavy Relic's only appears once.
+
+
+Description: Welcome to the world of Thingäl-Tol. In this world you
+have four teams to choose between, all specialized in two secondary
+skills: Elfs: Logistic and offense, Humans: Leadership and armor,
+Renegades: Logistic and luck, Dwarfs: Leadership and resistance
+
+
+Author's notes: I have choosen to made this map in ROE, because a
+lot of people still don't have AB or SOD.
+This is a map for the spring 2001 "millennium" contest by Astralwizard.
+This means that the map have to be a multiplayer-map and that only
+one type of Heroes are allowed.
+Multiplayer-map: Normally it takes a long time to play with 3 other
+humans, and we all develop one really big hero and if he die the game
+is pretty much over. To minimize the time, their are no long texts
+here and you only have to control 4 heroes. And you "need" to maked
+3 heroes to conquer the land, so even if you lose one of them you are
+still in the game.
+One type of Hero: I have choosen the 16 Ranger/Druids so each team
+has 4 heroes. The AI has two extra heroes (Knight/Cleric) with 20
+War Unicorns each, but they are weak heroes and the AI will often
+only use them to transportation and so. They are disguised as
+ranger/druids so they will not ruin the atmosphere in the game. Along
+with some extra resourses it will however give a singel human player
+some hard AI challenge. Although this is a multiplayer-map, I have
+spend a lot of time optimizing the AI's chances for victory.
+When it comes to secondary skills, I rank logistic and leadership as
+equal, and I rank offense, armor, resistance and luck as equal.
+That should explain (and balance) the skills given to each team.
+As for each Hero's speciality, I have ranked it from the top (logistic,
+armor, resistance) to the bottom (eagle eye), and then placed the
+speciality as balanced as I could to each team. This mean that almost
+none of the speciality correspond with the picture we are use to.
+All my ranking is (of course) open for debat, but around 20 test-plays
+shows that in this game the team-balance is pretty good.
+Most of the artifacts and creatures are random, but due to the high
+numbers of both, the teams should still be pretty balanced.
+
+----------------------
+
+Tactics: Note that all battles are do or die, you should allways be
+equiped with the Shackles of War or the AI may flee even though the
+hero can't be bought again.
+You can play defense for a long time, but you will miss some great
+resourses and events downunder.
+Note that the Tome of Fire is available, that opens for the old
+"Gold Dragon-Armageddon" tactic. On the other hand artifacts like
+Orb of Inhibition and Recanters Cloak are allso available, so you
+can destroy the armageddon tactic, and you can make a really great
+might-hero and equip him/her with the orb or the cloak.
+Test-plays shows that a hero can win many battles just with
+the famous "150 Grand-elfs,mass-slow" tactic, you can still
+win a lot by that, but I have guarded most of the
+artifacts downunder with shooters or really quick monsters.
+
+----------------
+
+Light spoilers: There are no easy way to become the ruler of
+Thingäl-Tol, but some things will make the road easier.
+Consider only to build the resourse-silo in the 2. town, you
+begin with. (maybe the AI will conquer it anyway).
+You need a lot of ore, gems, crystal and gold, so get
+those mines quickly. (especially the gem pond).
+Go sailing a.s.a.p. (lumber/gold).
+If you play at expert/impossible level: Take the gold
+from most of the "500exp/1000g-chests".
+Diplomacy-skill: Most of the monsters in Thingäl-Tol are
+hostile or savage and will not join you, but just one week
+of the Pegasi/Unicorns will make up for that. (Test-plays shows
+that if there comes a "week of something", there is a very
+good chance that it's one of the Ramparts creatures).
+Don't lose your capital, you will never be able to build it
+again (try to capture the others, even if it's just for one day).

@@ -1,0 +1,15 @@
+Mapmaker:	Doriando (Marin Bouman) at mab@ficsgrp.com or doriando@hotmail.com
+Mapname:	Dragon King (drgnkng.h3m)
+Size:		Huge
+Players:	1H 5C
+Victory:	acquire artifact
+Loss:		Lose hero
+Difficulty:	Expert/ impossible for beginners
+			normal-expert for average players, depending on used strategy
+			normal for experienced players
+			
+Testers:		Holst, Charley Watkins
+Beta-testers:	Simon Mooncalf, Dan Hartman, Arvydas	
+
+For more info, please startup dragon king.htm (if you don't have a browser by now... :-) )
+

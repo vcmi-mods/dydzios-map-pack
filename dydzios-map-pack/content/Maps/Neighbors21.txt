@@ -1,0 +1,97 @@
+Heroes III Map Submission
+
+Map Name:         Neighbors v2.1 (Neighbors V21.h3m, neighbors21.zip)
+Map Version:      Version 2.1
+Map Maker:        Timothy Pulver
+E-Mail Address:   fnord@telus.net
+
+Map Type:	  Multiplayer: Two Humans Recommended (AI will not play positions as well)
+Heroes Version:   The Shadow of Death 3.2
+Map Size:	  Small, 2 levels
+Map Difficulty:   Hard (Due to AI resource bonuses. Also a challenging map for 2 human players.)
+Language:         English
+
+Description:      Neighbors are annoying, damned annoying. Especially when they live right next 
+                  door and you have absolutely nothing in common with them. Well maybe that's 
+                  not true--you're both searching for that ultimate legendary artifact, The
+                  Grail, and finding it will ensure their destruction...
+
+Special Win:      Build the Grail structure in any town.
+Special Loss:     None
+Standard Win:     You may defeat your opponent to win instead of finding the Grail.
+
+
+Version Changes:  The previous (original) version of Neighbors found on most web sites
+                  also came with Neighbors-Again which was designed for replaying the game.
+                  In version 2.1, there's only one map, used for first-time and for replay.
+
+                  This revision is mostly an attempt to fine-tune the balance but there are
+                  several other additions and changes as well.
+
+                  Other changes include (but are not limited to):
+                  1) A little more gold is available in stacks in or near the starting area.
+                  2) Additional learning stones have been added.
+                  3) The external level 2 dwellings have been replaced with level 1 dwellings.
+                  4) A couple of artifacts "hidden" in events have been relocated.
+                  5) The Enchanter/Grail area has been visually remodelled.
+                  6) The bordergate area has been remodelled and the borderguard on the
+                     Rampart side has been removed, making the two sides a little more
+                     "symetrical".
+                  7) The bordergate guards have been changed.
+                  8) The number of Hill Fort guards (earth elementals) have been increased.
+                  9) Various other monster stack sizes have been altered slightly.
+                 10) A Witch Hut has been added in each starting area.
+                 11) A Peasant Hovel has been added next to the stack of peasants.
+                 12) A derelict ship, extra shipwreck survivor and sea chest have been added
+                     to each side's water area.
+
+
+Additional Notes: a) Find your way UNDERGROUND ASAP. It will help you to win!
+                  b) One player plays Rampart and the other plays Necropolis.
+                  c) Only Druid and Ranger heroes are available to the Rampart and only
+                     Death Knights and Necromancers are available to the Necropolis.
+                  d) All heroes start with one artifact (treasure or minor) but hiring all
+                     heroes for their artifacts will NOT give you a combination artifact. :-)
+                  e) You will NOT find the following movement spells in your mage guild:
+                     DIMENSION DOOR, FLY, SUMMON BOAT, WATER WALK.
+                  f) It may be possible to create a couple of the combination artifacts in the
+                     game if you get lucky, but it's quite unlikely, so definitely do not count
+                     on it.
+                  g) There are a few custom rumours in the Tavern, so it may be useful to check
+                     each week.
+
+
+Map-Testers:      Rasputin....................RERoellig@aol.com
+                  Sabrina.....................(not known)
+                  Fizbin the Magniloquent.....Chrisat@brescia.edu
+                  Marcus the Red..............marcus_the_red@hotmail.com
+                  Quinn the Ancient Mariner...QuinnAM@att.net
+                  Morning Glory...............morning_glory@att.net
+                  Lomax (Pawel Mysliwiec).....pmysliwi@info.fundp.ac.be
+                  Tomasz Mysliwiec............no email
+                  Viktor Coyot Urban..........coyot@pinknet.cz
+                  John DiFool.................jdifool@earthlink.net
+                  James Vickery...............JVick007@aol.com
+                  Yvette......................yvette@axion.net
+                  Malta (Martin Nielsen)......VallettaFC@hotmail.com
+                  Blackhawk...................rwei@fa.adm.ohio-state.edu
+                  Robin.......................robinlpn@up2me.com
+                  Charles E. Watkins..........charleswatkins@austin.rr.com
+
+
+                  Like most of the maps I've made so far, this map was started many months ago
+                  and then not worked on for awhile. Eventually I returned to it and worked out
+                  a lot more details, finishing the map and adding an extensive story element.
+
+                  Finally, after much playtesting, the map is complete. I hope you'll all enjoy
+                  it, and find it to be a very fun and balanced map for both League matches and
+                  for casual 2-player games.
+
+                  I'd like to take a moment to thank all those who helped playtest and offered
+                  their comments and suggestions. As always, without playtesters, my maps 
+                  wouldn't be half as good as they are with them. Great job, people! :-)
+
+                  And finally, I would like to thank Rasputin, Marcus the Red and Sabrina for 
+                  their help with testing and providing comments on the revised version.
+
+ 

@@ -1,0 +1,237 @@
+
+                   MAP SUBMISSION
+------------------------------------------------
+Map Name:       Beastmaster Slugfest .h3m       [55K]
+                Beastmaster Slugfest (Allies) .h3m 
+                    [beast_slugfest_a.zip]
+Map Maker:	David Page
+E-Mail Address:	Gageteer@hotmail.com
+
+Map Type: HoMM 3 "Armageddon Blade"
+     - cooperative (team multiplayer)
+       (Also there is non-allied version)
+  Size: Medium (2-level)
+  Difficulty: Hard (Queen, 160%)
+  Language:   English
+  Version: 1.12
+
+Player Positions:
+  Team #1) Red    (Wystan) fortress
+           Blue   (Bron)   fort
+  Team #2) Orange (Korbac) fort
+           Teal   (Drakon) fort
+
+  Team #3) Purple (<special heroes>) necropolis
+    * All players are "human" except for "team #3".
+
+Special Win:  Capture artifact
+------------------------------------------------
+
+1st Release:     Nov 21, 2000
+4th Update on:   May 29, 2001
+
+----------
+
+Description (technical):
+  Player start:
+        Each player starts with a beastmaster who specializes in a fortress creature (level 1,2,3 or 4). Each start area has a fully upgradeable town plus external dwellings for the beastmaster's creature.
+        
+  Terrain featured: rough, swamp, lava, and "cursed catacombs".
+  Extra towns: Yes, but they cannot build up completely.
+  Heroes: Some edited heroes and some legendary ones will appear
+           in the tavern. These will not have a major impact on
+           the game, as your main hero (beastmaster) will
+           undoubtably be your strongest hero. The most unbalancing
+           heroes you can recruit remain ones such as Solmyr
+           and Deemer.
+      
+      - Unavailable -
+        Spells:    Dim.Door, Fly, Town Portal, Water Walk
+        Artifacts: The Grail; Shackles; nearly all "relics".
+           <Also, "leadership" and "luck" artifacts are rare>
+        Heroes: elementalists; logistics specialists
+
+  Speed: The map is more detailed than most tournament maps.
+           This will cause everything to take a bit longer.
+
+  * If you have human opponents - It is important to know if they
+ have knowledge of this map. If you believe they have NOT: played,
+ looked at editor, read spoilers, DON'T LOOK AT SPOILERS yourself.
+ If uncertain, then EVERYONE should read the first spoiler section:
+ "Notes to players".
+        Aside from having teams, there's no difference between the
+ two versions of this map.
+
+
+Special Intent of this map:
+  1) This map is designed to be well-balanced, though not
+       symmetrical, and suitable  for competitive play between
+       1-4 players, either on teams or not. It is an official
+       tournament map at the English language-based
+       international league website, "Astral Wizard".
+             [http://www.astralwizard.com]
+  2) I, along with most players I have talked with, do not
+       believe that the "Fortress" town is equally balanced
+       with other towns. Since all four towns on this map are
+       fortress, players can enjoy that town without fear of
+       losing as a result.
+  3) It seems to me that beastmasters and creature specialists
+       don't get played very often, so again, everyone playing
+       this map will get one to enjoy.
+
+
+Narrative:
+     Tatalia is vast, and in some places authority is barely maintained. Stories have reached the king's ears of a great artifact hidden underground in the "Thuggoth" province, which itself is known for having little respect for central authority.
+     The king has decided to personally visit this area to inspire the people. Secretly, however, he has contacted four tribes and told them they would be rewarded if they get there and locate the artifact, then present it to him publicly on his arrival.
+     The tribes have each sent their champion to impress the king. Unfortunately, these proud Tatalian legendary figures have been unwilling to share the king's favor!
+
+
+====================================
+ PLAYTESTERS
+     Special thanks go to the following who also gave excellent feedback.
+  Simon Mooncalf (Paul Moedt)  pauljmoedt@wxs.nl
+  AngelA   (Julia Skipper)     angelshome@ns.sympatico.ca
+  Maneater (Kalin Prachno.)    Kalin99@satx.rr.com
+  Fnord (Timothy Pulver)       fnord@kingston.net
+  Oz (Jim Mischke)             oz@wizmail.net
+
+  Other feedback:
+    Game-balance after map posting:
+      Marcus the Red
+
+  Review:
+    There's one at astralwizard.com :
+       (At least, it should be posted soon.)
+           http://astralwizard.com/heroes3/h3revws.htm
+
+
+ - The Astral Wizard League -
+        This map has the rare good fortune of several of its playtesters also being officials at the Astral Wizard website. Simon is message board moderator, AngelA site ambassador/ analyst, Oz is coordinator for both leagues. Maneater and Fnord are active players and frequent participants in AW's message board discussions.
+        "Astral Wizard" is an international fan-based website, which anyone is welcome to join. It has two separate HoMM3 leagues: "Coliseum" (for individuals) and "Alliances" for teams. There are also maps and numerous interactive things you can do there. And finally, there is a rumor that the H3 hero "Astral" was named for the site owner!
+
+     http://www.astralwizard.com
+
+====================================
+
+
+
+ ----------------------------
+ MAP RATING:
+     If you need to know why I rate this as "Expert" ("normal"
+ +2), read under the same heading in "Spoilers" below.
+ ----------------------------
+
+
+
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+==== Notes to Players ====
+
+A. Notes on Map objectives:
+   The special map objectives are summarized on signposts in the "quest tree area" (Each player has this.). The following is greater detail on this:
+ 1. "great sword":
+     You will likely defeat all opponents before you can obtain this.
+ 2. Cape of Conjuring (multiple quest item):
+     All quest rewards are for hero development. Mostly this is in the form of secondary skills, but sometimes will be for experience.
+ 3. "Ancient tree in the center island"
+     This "quest" requires: (1) Find a way to get to the island in the center of the map  (2) Locate the ancient tree. (3) Defeat any guardians that get in your way. (4) Once you are close to the tree, move your hero around until you trigger an event. The event is the "invible scholar" which will teach your hero the spell "resurection". (5) You must have "advanced wisdom" in order to recieve that spell.
+     This "quest" is worth going after, because it will be there even if other players get there before you. 
+
+B. Ambushes
+The catacombs have hidden ambushes in various places. While not a major threat to an army, they discourage scouts.
+
+===========================
+End Notes to Players
+-
+-
+-
+-
+  The next info is about:
+      1) "Expert" - Why I rate this map so.
+      2) early game development
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+==== Why this map is "Expert" =====
+
+      My criteria for rating a multiplayer map as "expert" (normal +2) is not the tactical difficulty in battles, but rather the variety and number of surprises that you and your (human) opponent can produce between battles. These are things that force you to make frequent adjustments to your playing strategy.. choices that hopefully will be challenging and require tradeoffs.
+      I am not going to explain in detail all the myriad ways this can occur while playing against a human opponent on this map. However, I will list many of the features players can take advantage of (or suffer from):
+1.      "Cover of Darkness" structures: These are spread out throughout the underworld, in places that are somewhat out of the way. They are also placed in a manner that will encourage the computer to activate them. "CoD" is not available in the outer necropolises, so players must make an effort to utilize the structures.
+2.     Purple will be a growing problem throughout the game. If you defeat the main army (no easy task), you still need to find a keymaster to gain access to its capitol.
+3.     Alternate routes to attack other players: by sea or across the catacombs. Also there are 'liths underground.
+4.     Gold Rush:   At mid-game, the center gold mines might
+                     become available. However:
+    a)  You must suppress purple (You still can't vanquish purple at this point.)
+    b)  The cover of darkness is most dangerous here.
+    c)  This is the underground crossroads between players.
+    d)  To gain full benefit, you need scouts to run about gathering
+         more gold from the mills.
+5.     Danger to scouts: Events ambush lightly armed heroes.
+6.     Hill fort: There is only one, so it will likely be highly contested. Or perhaps not, due to its remoteness.
+7.     Spell investment. Resurrection and other high-level spells are available, but they will not work in the treasure-laden catacombs. If you hope to win the game underground, wisdom may be a waste.
+8.     Mighty gorgons, hydras, wyverns. You can increase your strength greatly by taking external structures for these. But each is remote.
+9.     Refugee towns. Though unable to develop well, these can keep a homeless player in the game. Their remoteness will make them unpleasant to attack, especially with third player strong adversaries remaining.
+10.    Quests. The unique skills possessed by your beastmaster are optimal for this map. A lot of time can be lost bringing your hero back for the quest-derived secondary skills, however.
+-
+-
+-
+-
+-
+-
+-
+-
+ ==== Important Dates ==================
+      - Playtested -
+ (Around the time of) October 30, 2000
+      - Submitted to Cartographer -
+  November 7, 2000 (my birthday =)
+      - Re-Submitted to Cartographer -
+  December 20, 2000
+  February 20, 2000
+ ======================================
+
+
+
+ ==== Information about the mapmaker ====
+    I am a college graduate and live in Troy, New York, U.S.A. Besides playing Heroes3, I like to: run, ride my bicycle, forest management, woodwork, woodworking design, environmental-social-political activism.

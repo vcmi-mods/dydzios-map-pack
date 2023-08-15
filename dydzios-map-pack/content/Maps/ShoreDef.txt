@@ -1,0 +1,50 @@
+   ____  __  __   _  __  ___    __   __
+  /  _/ / /_/ /  / |/ / / . |  /. \ / /
+ /  /_ / __  /  / _  / / _  | / _ / \ \
+ |___//_/ /_/  /_//_/ /_/ |_|/_/    /_/
+    HTTP://WWW.CELESTIALHEAVENS.COM                          
+
+Map Name:      [Shoreline Defense (Shoredef.h3m)]
+Author:        [Calhzydar]
+E-mail Address:[Improtime@aol.com]
+
+Map Type:      [Multiplayer or Singleplayer][0 Humans Only, 4 Humans Or Computer, 0 Computer Only]
+Map Size:      [Medium with tiny Underground]
+Game Version:  [HoMM3 RoE]
+Language:      [English]
+
+Special Win:   [NONE]
+Special Loss:  [NONE]
+Special Other: [NONE]
+
+Map-Testers:   [Since this map is rather old, I had a lot of time to test it/tweak it myself.
+  I played about 10 singleplayer games and 1 online game.  My brother also played the map a few times.]
+
+Description:   [You are able to form an unbreakable defensive line (using several heroes) along
+ "your" shore, which will protect you from sea invasions.  However, don't count on that indefinitely.]
+
+Additional Info: [Since strategy is the focus of this map, there is no storyline at all.
+  Instead, it's designed to maximize strategic possibilities.  Basically, there are 4 main
+ islands and several smaller ones.  It's perfect for multiplayer games, and a surprisingly
+ good single player challenge on highest diff.]
+
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+[Sea movement is important.
+
+Those monsters on that adjacent island will join you.
+
+Quests will give you powerful artifacts.
+
+The only places to "land" on your island are near your secondary town.
+
+Resource mines are dispersed on several small islands.
+
+The only other way to get on a "blocked" island is by using the dimension door on the central island.]
+
+

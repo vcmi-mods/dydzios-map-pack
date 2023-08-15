@@ -1,0 +1,85 @@
+
+                   The Cartographer (A.B. v2.1)
+
+Map Name:	Stormbringers  
+Map Maker:	Gregory L. Reeves & Yung
+E-Mail Address:	akame77@msn.com & raven@mars.ark.com
+
+Map Type:	[Singleplayer] [1 Human Only, 6 Computer Only]
+Language:	English
+
+Description:	[]
+		 
+
+Special Win:	[none]
+Special Loss:	lose Tombstone
+Special Other:	[NONE]
+
+Narrative:	Everyone is assembled for the Tournament of Honor, 
+		for the right to use the Sacred Artifacts but... 
+		One lone scholar altered the course of things to be
+		and now the air is thick with expectation, deceit,
+		schemes, and foul play. Come, come see what tangled
+		webs we weave.
+
+Instructions:	Please select gold as the starting bonus for EACH 
+		of the AI factions - This is to avoid a 2.1 patch
+		problem of the AI hero getting a random artifact.
+		
+		Also be aware that you may lose some of your starting
+		heroes.  Samantha and one other must not be lost, 
+		these are the minimum requirements.
+
+		All items and some resources have been customized so
+		hold on to that quick click till you've had a look :)
+
+		This map is story based but you will not find it 
+		linear in nature. Because of the free flowing nature
+		of the map the hints that give you direction become
+		more important so try and comply as soon as you can.
+
+
+
+Epilogue:	Cannon fodder ties up the end of the saga of the 
+		Stormbringers and introduces you to Helena.
+
+
+Play-Testers:	Play-tester Chole@h3trio.com
+		Play-Tester Myrddin29@aol.com
+              	Play-tester Martin Nielsen "Malta"
+
+SPECIAL ACKNOWLEDGEMENTS:
+		As usual the testers gave invaluable advice on how the
+		map played. Many, many thanks to all the testers for 
+		their detailed words of wisdom. Visit them
+		and us at some of the shipyards.
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION, PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION, PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION, PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION, PROCEED AT YOUR OWN RISK!
+		
+		
+Minor Spoilers:
+
+
+Remember that you have the use of a tavern. (surrender is an option)
+
+I recommend that your heroes take the experience offered from chests.
+
+Resurrection is out there - build it an they will rise.
+
+Spells that have been banned are the usual suspects - fly and DD. 
+Town Portal, restricted but not banned.
+
+Aggressive expansion will serve you better than a slow reserved pace.
+
+Build up Carbonek before Tombstone with the exception of the resource 
+silo.
+
+Find the white and light green tents to get to the Northern Dwarves.
+Send a secondary hero as soon as possible.
+
+Find the white, light green and tan tents to access the grail location.
+
+Ask either of us if you need more.

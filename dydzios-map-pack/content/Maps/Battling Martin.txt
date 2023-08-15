@@ -1,0 +1,27 @@
+===== Map name =====
+Battling Martin
+
+===== Map description =====
+You are Landis, the mighty Overlord.  The tyrant Martin has ruled your land for years, brutally exploiting your people as labor to harvest vast quantities of Mystic Fungus for him to consume.  You have sparked a revolt, and you must raise an army to defeat Martin himself and free your people!
+
+===== Map Author =====
+Brian Landis (atommother@earthlink.net), "Landis" on the 3DO community board.
+
+===== Map Details =====
+
+Map size:  	 Medium, 2 levels
+Mapp Difficulty: Hard
+# of players:    Three (one human, two computer)
+Sides:		 Dungeon, Castle, Stronghold
+
+Map Version: 1.2
+
+===== Map Information =====
+
+Playtested by: Gwhenwyfar, Vidon, Furchtlos, Jolly Joker (Thanks guys!)
+
+**Possible Spoilers here!!**
+
+There is one "bug" I've noticed with the map.  Sometimes the group of Archangels guarding Martin do not grow as they should, which makes it easy to defeat him.  Other times they do grow, as intended.  I cannot explain this, and I hesitate to set the angels to a set number and not to grow.  I have set them to a fixed amount (6) and to grow, which I hope will solve the problem.
+
+It is necessary to visit the islands to get access to the keymaster tents which will finally give you access to Martin himself.

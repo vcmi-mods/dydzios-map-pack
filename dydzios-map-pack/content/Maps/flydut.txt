@@ -1,0 +1,18 @@
+The Flying Dutchman v.1.1
+A map by Dragonfly, Pekka Lampinen (seppo.lampinen@kolumbus.fi)
+Playable with original HoMM III
+Medium map w/ underground
+8 players, 1 playable (red) and 7 comps, no teams
+Special victory condition: capture a specific town
+Special loss condition: lose hero
+Difficulty level: hard
+Scenario description: You are the Flying Dutchman, accursed to sail on the seas until someone falls in love with you and loves nobody else in her life. The curse seems to be wearing off, though - you can stay on land as long as you wish. Now it's time to break the curse and get home after all these centuries.
+Other playtesters: MatCauthon
+
+-This map is very, very loosely based on Richard Wagner's opera by the same name.
+-This map is (at least) almost completely bug-free.
+-I apologize any bad English as it's not my mother language.
+
+Enjoy and send me your comments!
+
+Dragonfly

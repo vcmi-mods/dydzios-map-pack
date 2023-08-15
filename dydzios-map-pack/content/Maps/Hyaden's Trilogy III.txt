@@ -1,0 +1,59 @@
+Hyaden's Trilogy III : Colours of the Rain
+27 September 2001
+
+Map Maker:	Yutalia Rennaissance
+E-Mail Address:	renai@dawsonmail.com
+
+Map Type:	Singleplayer
+Language:	English
+Map Size:	Medium - 1 level
+Map Difficult : Hard
+
+Description:
+
+This is the third episode of Hyaden's Trilogy.
+
+
+The last campaign has led Hyaden to the border of Sleeping Forest. Fighting against his own country, he realizes he must face the guardian of seven elements  which is the  protector of Sleeping Forest. Hyaden has only six months for this campaign.
+
+
+
+Special Win:	DEFEAT A SPECIFY TOWN
+Special Loss:	NONE
+Special Other:	NONE
+
+
+thanks to :
+
+map tester and language contributors : 
+
+Andrew Tanzi <commando_avatar@libero.it>
+Keith Williams <keith.williams@virgin.net>
+
+
+
+
+
+
+notes :
+
+
+
+Hyaden's Trilogy :
+I   : Under the Guardian Wings
+II  : The Dead Claw
+III : Colours of the Rain
+
+
+
+
+
+- This is the third chapter of Hyaden's Trilogy, the campaign of three maps.
+- Although Hyaden is using Kyrre's portrait which is default was female character, he is a male character.
+
+- Try to capture those border outpost very soon and watch out for enemy's move.
+- The six months time limit use only to avoid player for being time consuming. The map can be win in least then four months.
+
+
+
+comment and feedback is more than welcome.

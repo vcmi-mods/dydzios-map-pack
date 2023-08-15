@@ -1,0 +1,101 @@
+                    Map Submission
+
+Map Name:	Running With the Devil  (rundevil.h3m)
+Map Maker:	Brian Krueper
+E-Mail Address:	Ungoliantb@yahoo.com
+
+Map Type:	Single player (1 Human/4 Computer)   
+		Shadow of Death Expansion Pack required
+Language:	English
+
+Description:	Wow!  The big guy really blew a gasket!  All you wanted to do
+		was add some efficiencies to the system, standardize routines,
+		and document procedures.  But the next thing you knew, Michael
+		and his cronies were swinging their swords and showing you the
+		door! (Ver. 1.1)
+		
+Special Win:	None.
+Special Loss:	Lose Satan the Demoniac.
+Special Other:	None
+
+Difficulty:	Expert
+Size:		Large, 2 levels
+
+Play-Testers:	Bess Overlord	bessoverlord@hotmail.com
+		Dragonfly	dragonfly@mightandmagic.com
+		Jolly Joker	Ch.Jentzsch@t-online.de 
+		Rex Mundi	Rexmundi_cto@yahoo.com
+		BlackDog	BigwigDM@aol.com
+
+(A special thanks go out to all the playtestors, especially Bess and Dragonfly.  If you 
+think the final version is hard, you should have seen it when they got a hold of it!)
+
+
+Designer Notes:
+
+This was a pretty fun map to develop, and again I would like to say this is merely a 
+diversionary form of entertainment and is not meant to belittle anybody's religious 
+beliefs (or incourage them, heh!) A special effort was made to make the map a 
+free-flowing strategy map after an initial period of a scripted story map.   
+I hope I got this balanced correctly and the transition is not too abrubt.  I firmly 
+believe that too many constraints can ruin a map, especially in the last couple of months
+of play. 
+Out of necissity, I disabled the Fly and Dimension Door spells.  This hopefully is made
+up by the fairly early availability of Town Portal and, of course, the Castle Gates in
+the Infernos.
+
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+General script:
+	Flee for your life!   The angels will hound you down the stairway, kick you out of
+the Rampart, pursue you out of the Tower, and trounce you out of the Stronghold.  
+Concentrate on getting as many resources as you can, rescue your fellow fallen ones, and
+visit the Grail Obelisks.  You should be arriving in Hell around the end of the first month
+(maybe a little sooner.)
+	You are *not* safe in Hell!  Expand and explore as fast as you can.  You need to 
+rescue Lucifer as a priority, and take at least two other inferno towns and get the Grail
+installed as soon as possible.  The Devils in the Landing Zone area will join you, so that
+will help matters immensely.  The towns after Pandemonium should probably fall to you in 
+the following order:  Despair, Famine, Misery, and then Pestilence. You will start seeing
+Necro armies cruising your shores by week 7 or 8, with a very tough Thant landing shortly 
+afterwards.  
+	After you blunt the first couple of Necro incursions, you should be safe enough to 
+explore more, take the remaining two Inferno towns, rescue Mephistopheles, and conquer 
+Teal.  Next is a maze which is a minor obstical (and a secondary hero experience gainer).
+Beware though. The purple Dragon Lords can eventually invade there, so use caution. There
+should be some tough battles with purple, and the only valid tactic is really to kill the
+black dragons, blind an enemy stack, and Resurrect like crazy to bring your army back.
+	Only then may you gain your access back to the surface, only to see some really 
+big Angel armies floating around up there.  You really need to use the Armageddon tactic 
+with Mephistopheles and Lucifer in order to triumph. Beware!  Blue can eventually get to 
+you in Hell starting at around Month 4 to 5, so you are not always going to have a safe 
+haven from them.
+
+Tips on fighting with 1 Arch Devil:
+	Keep the Spirit of Oppression equipped at all times against opponents that have a 
+chance of getting a morale boost.  Take it off for fights with golems and elementals.
+Do not forget the value of war machines as diversionary targets! 
+The value of a good Cure spell should not be underestimated, as well as Shield.
+You have mobility, use it!
+
+Tips for fighting the mega-angel armies at the end:
+	You have two fantastic "Armageddon Heroes" for assistants....use them!!!  Hit and run 
+tactics will whittle them down quite effectively.  Most are immune to Berserk, so the good	
+ole' end-of-days spell is your best hope.  Consider using the Spirit of Oppression again
+even on the big fights at the end.  Angels seem to give out *more* than the maximum number
+of morale bonuses, but it might just be my imagination. ;o)

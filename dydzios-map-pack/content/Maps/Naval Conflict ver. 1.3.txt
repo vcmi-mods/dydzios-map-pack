@@ -1,0 +1,21 @@
+Map Name:	Naval Conflict ver.1.3
+Game:		HoMM3: SoD
+Designer:	Dmitry Logan - the administrator of Heroesportal team (www.heroesportal.net)
+e-mail:		logan@heroesportal.net
+Type:		Multiplayer for online/offline gaming, 2 Human only (allied) / 6 Computer only (allied).
+Size:		XL, 2 levels
+Difficulty:	Impossible
+Language:	English
+Description:	
+
+
+A cooperative archipelago map. You and your partner have to fight the mighty alliance of six nations - three Stronghold and three Fortress barbaric hordes.
+Great for multiplayer (tested by Logan Peacekeeper & Poison Avi). Impossible difficulty recommended.
+
+Map Testers: Poison Avi (poisonavi@rambler.ru)
+             *This map was downloaded more than five hundred times from our Heroesportal map collection and no one has ever wrote to me about any problems with the map. I played it too.
+		
+
+Special Win:	NONE
+Special Loss:	NONE
+Special Other:	NONE

@@ -1,0 +1,15 @@
+Map name	Almoravid Kingdom
+Map Size	XL
+No of Players	5   (red and blue),  purple, pink and teal as singles
+Author		Indigovoid
+Email Address	indigo@artlover.com
+Tested		Yes
+
+
+TEXT
+
+
+
+This map is based on the 10th century Almoravid Dynasty which rules much of Africa in the 10th century.  You are Abu Bakr, leader of the Almoravid Kingdom in what is now Mauritania in West Africa.  Your cousin to the north, Yousef Ibn Tashfin is your ally, and rules Morocco but is weak.  In the east the mythical Sundjata trades with you from his base at Timbuctou, in Mali, and will trade, but will not fight.  And somewhere lies Aoudaghost...... To win you must be the first to take the grail to the mythical and hidden holy city of Aoudaghost.  The Berbers will resist you.  The Senegalese to the South will fight you for it.  The Algerians are an unknown quantity.  The blue men of the desert are little more than a rumour, but patrols continue to return, decimated and filled with terror.  In a desert filled with riches it is easy to feel you are more secure than you are.  Use your resource silos and freelancers guilds and anything else you need to do to conserve every scrap of bounty.
+
+

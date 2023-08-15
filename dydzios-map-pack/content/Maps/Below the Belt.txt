@@ -1,0 +1,17 @@
+
+Map Name:	Below the Belt
+Map Maker:	Alterego
+E-Mail Address:	alterego0555@hotmail.com
+
+Map Type:	Singleplayer 1 Humans Only, 1 Computer Only
+Size:		Small (two-level)
+Language:	English
+
+Description:	Villagers John and Mary are surprised when they wake up one day and discover gates to the underground all over the place. Then reports start coming in about peasants robbed and killed by hideous monsters.
+It's your task to stop the invasion. Building a castle (NB!) should do it.
+
+Special Win:	Upgrade building
+Special Loss:	NONE
+
+Notes:		Congratulations! You have just downloaded a map that is unique in a way. Never before have I seen a HoMM map with this victory condition. (I wonder why?) This means you won't have a castle (or even a citadel for most of the game). Don't worry, you'll have a nice creature growth through a town event + artifacts, and the AI doesn't get full towns either.
+Another peculiarity is the seer's quests. In most cases there are two seers living close to each other who are seeking for the same artifact. So don't give the goodies to the first one you come across. The second seer may have a reward you like better.

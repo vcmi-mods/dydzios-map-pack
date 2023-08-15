@@ -1,0 +1,44 @@
+Map Name:	Ringing of Victory (THEPOW~1.H3M)
+Map Maker:	Tang Wen En, The Fiery Phoenix
+E-Mail Address:	p3dantic@yahoo.com.sg
+
+Map Type:	Singleplayer 1h 5C
+Language:	English
+
+Description:	As an innocent village boy (with a not-so-innocent pet), Cohlen wanted adventure. And that was what he got, having fallen in love and promising (to an unknown woman) to go to the edge of the world (literally) to find her stolen ring. Little did he know what the (evil) thief had in store for him... 
+
+Special Win:	Transport Artifact  
+Special Loss:	Lose Hero
+Special Other:	You should not lose ANY of your pre-set (or given) heroes as it makes the game unplayable. 
+
+Town Portal, Fly and Dimension Door should NOT appear in any mage guild. So if they do, you're dreaming =)
+
+Many thanks to Cattleman for the inspiration to create this map and for being the first and most influencial playtester ever. In fact, (and this is for others to know, for he knows already) one of the characters is called "Niuren", which in chinese means COW/bull man =) How's that for a dedication? Try to lose him/get him killed [I'm kidding]
+
+
+
+I have included a peripheral quest for your enjoyment/annoyance. The aim of this quest is simple, to get a certain artifact to a certain seer to gain a powerful (but mostly useless) artifact. You will notice some inaccessible or strange areas on the map. Be assured that these have some connection to the quest and are not mistakes. If you do complete this quest, please email me the saved game and I'll, well, congratulate you =)
+
+[added 21st March 2005]
+I have eliminated pesky spelling and grammatical mistakes wherever I found them, but I think there are still some left over. I tried to leave the text as it is because the way I wrote then makes me laugh now and nostalgia and blah blah all that rubbish. Also, it'd be a pain to rewrite so much text haha Overall, I have made the map more difficult, which I think is not an issue most people would complain about. Because of that, I have increased the map difficulty from Hard to Expert. Enjoy the map!
+
+
+
+Play-Testers:	Behemoth----------------behemoth@valhalla.com.pl
+                Cattleman---------------cattleman@h3trio.com
+                Greybeard---------------Zowiepa@aol.com
+                Ciriaco-----------------steni808@student.liu.se
+                TVW---------------------tvwsons@pacbell.net 
+                Scrowe------------------Simon_Crowe@excite.com
+                Gandalf-----------------mnokhrin@netscape.net
+                Grand Poo Bah-----------goyich@earthlink.net
+
+Hints/tips (no spoilers):
+
+Secret passages figure quite prominently in several places. Do NOT look in the editor if you find you can't go on, just pay attention to the text and open your eyes... OPEN YOUR EYES!!!
+
+
+Be quick in taking castles in the first month as you may miss out on goodies if you don't.
+
+
+Make sure that NO enemy retreats. You're given the Shackles of War, use it!

@@ -1,0 +1,82 @@
+
+                  MAP SUBMISSION  (Heroes 3 map, A.B. expansion pack)
+
+Map Name:	Reavers of the North (Reavnort.h3m)
+Map Maker:	Brian Krueper
+E-Mail Address:	Ungoliantb@yahoo.com		
+
+Map Type:	Single Player;	3 Humans,  5 Computer
+Language:	English
+
+Description:	In the period from 800 A.D. to 1050 A.D, the Nordic peoples made a 
+		dramatic entry onto the world stage.  With startling tactics, organi-
+		zation, and unheard of seafaring knowledge, they terrorized many 
+		well-established societies.  Can you unite the North?  The Gods await
+		afterwards...
+
+Special Win:	none
+Special Loss:	none
+Special Other:	none
+
+Difficulty:	Impossible  
+Size:		Extra-Large, 2 Layer
+		*****Warning!!!  A difficult map that will require 20+ hours of playtime!
+		
+Play-Testers:	Rex Mundi	Rexmundi_cto@yahoo.com
+		BlackDog	BigwigDM@aol.com
+		Grasshopper	grasshopper58@earthlink.net
+		Steve Jagvaar	jaqvaar@usa.net 
+
+	
+
+Designer Notes:
+
+This map was a titanic undertaking.  A great deal of research into Norse Mythology and 
+historical figures was done.  I have tried to make it as accurate as possible, but 
+there will be discrepancies simply because I found so many conflicting interpretations
+about this time period.  Most of the Heroes in the game are historically accurate, and
+their bios have been adjusted accordingly.
+
+Even though you have 3 human players, this is not a multi-player map.  This merely 
+gives you a choice of starting positions, and allows some replayability.  YES! I know
+the North Sea is not to scale, and Britain, Ireland, and Denmark are over-large also.
+I did this deliberately in order to provide viable kindoms for the opponents.
+
+Guide to the sides:
+
+Red:	English
+Blue:	Norwegians
+Tan:	Jotuns (Giants)
+Green:	Irish	
+Orange:	Danes
+Purple:	Gods (Vanir and Aesir)
+Teal:	Swedes
+Pink:	French (Pre-Norman)
+
+The AI turns are really slow at first, as it takes awhile to uncover their realms.  The 
+speed will increase as time goes by, but slow hardware my try your patience.
+
+
+SPOILERS************************************************************************
+SPOILERS************************************************************************
+SPOILERS************************************************************************
+SPOILERS************************************************************************
+SPOILERS************************************************************************
+
+Expand fast.  The second city is designed to fall within the first 8 days or so. 
+Take out your fellow Viking strongholds as soon as possible and get them producing
+creatures for you, then go exploring.
+
+London holds some key spells.  A raid there may be worth your while.
+
+Your strong opponents are land-locked and can't get to you.
+
+The black tent in Hel is extremely well hidden (Behind the Necro castle.)
+
+The way to Valhalla is by Dimension Door hopscotch (which you pick up in the 
+Confluxes) (Or Water walking, with good scouting ability)
+
+The path across the Bifrost Bridge should be the blue one, guarded by Heimdall.
+(Blue was the tent in Mimer's Well (The *wise* choice)
+
+Ummm...Good Luck!

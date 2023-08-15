@@ -1,0 +1,22 @@
+Map name: Illusion world 2.
+
+Map maker: Svyatoslav  Shevchuk
+
+E-mail address: T.Kirinskaya@beloil.gomel.by
+
+Map type: Multiplayer <8HC>, Cooperative, 2\level map
+
+Difficulty level: Expert
+
+Language: English
+
+Description: Welcome to the Illusion world, stranger. Try to become a master of this land but beware of illusions - you are not alone in this Illusion world!
+
+Special Win: none
+Special Loss: none
+Special Other: none
+
+Playtesters: <Myself>
+                    Dmitri Knyazev  balda@udmnet.ru
+                    Oleg  Hazinski  olegexe@online.ru
+ 

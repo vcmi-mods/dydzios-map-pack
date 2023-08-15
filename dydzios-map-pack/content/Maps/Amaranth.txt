@@ -1,0 +1,92 @@
+Heroes III Map Submission
+
+Map Name:	Amaranth Soul Shift [Amaranth Soul Shift.h3m]
+Map Maker:	Timothy Pulver
+E-Mail Address:	fnord@kingston.net
+
+Map Type:	Armageddon's Blade Single Player: 1 Human, 3 Computer
+Map Size:	Medium, 2 levels
+Map Difficulty:	Expert
+Language:	English
+
+Description: 	A powerful witch has hidden her soul in the body of a dwarf and now seeks to
+                reclaim it. You have been charged with locating and slaying this vessel of 
+                evil before she can reach him. There is no other option but to destroy this 
+                dark spirit and save the world from her diabolical designs.
+
+Special Win:	Defeat a Monster (Battle Dwarf)
+Normal Win:	Disabled
+Special Loss:	Lose the hero Cyra
+
+Map-Testers:	Jonathan Winne.............quinnAM@att.net
+		Daniela Stieh..............gwhenwyfar@h3trio.com
+                Cattleman..................dawells@ozemail.com.au
+                Barbara Becker.............beckerb@compuserve.com
+                Chole......................chole@h3trio.com
+                Keith Williams.............keith.williams@virgin.net
+                Iewezt Khorgath............zenithgod@hotmail.com
+                Jay Tittle.................jeddite@holly.colostate.edu
+                Emmanuel Issaly............covenant@cybercable.fr
+                Viktor Coyot Urban.........coyot@pinknet.cz
+		Sir Whale (Sasho Bojinov)..sirwhale@iterra.net (Sasho Bojinov)
+
+
+                This map has taken a long time to complete--almost 8 months in fact!
+                The basic map design was done about 6 months ago but many minor changes 
+                and additions have been made since then. Thank you to all the playtesters 
+                who have given many useful comments and suggestions. All your ideas have 
+                definitely improved the quality of the finished version. :-)
+
+
+Map Tips:       Due to the nature of this map, it is highly advisable to save often. While
+                there is no "right" way or "wrong" way to go, certain avenues of exploration
+                too early in the game may bring about your destruction and require reloading
+                from a saved game.
+
+                One key to winning is to be decisive and not delay further explorations too
+                long. The map's difficulty is somewhat deceptive in the early part of the 
+                game.
+
+                If you find the game too frustrating, you may wish to try the "easy" version.
+                The easy version is very similar to the regular version but adds a few 
+                elements (such as an extra town nearby), that make play easier. The easy
+                version should also result in enemy heroes who aren't as strong early on.
+                There are a few other minor bonuses and differences as well.
+
+                It might be a good idea to write down any clues you get to the location of
+                the grail. Finding it will help a lot, though it's not vital to your quest.
+
+                And if you end up with a lot of artifacts later in the game, you may wish 
+                to find an Altar of Sacrifice or else build the Artifact Merchant so you can
+                sell the things you really have no use for.
+
+                If you need a few more tips, look below. The hints below contain spoiler 
+                information, so be warned.
+
+
+
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+
+
+o as soon as you can defeat the green dragons, quickly conquer the east part of the 
+  island. The mages there are friendly to your cause.
+
+
+o travel northwest around the end of month one. As long as you have several nagas and
+  some genies by then (as well as lots of gremlins and some mages), you should have no
+  trouble with the island of magic. The stack of 50 enchanters there will join you.
+
+
+o travel northeast from your starting island and seek out the purple tent. Then search
+  for the norther waterway and the lightning portal.
+
+
+o when you finally locate the dwarf, watch out for nasty ambushes.
+

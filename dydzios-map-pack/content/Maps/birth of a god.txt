@@ -1,0 +1,86 @@
+Map Name:
+Birth of a god  (BIRTHO~.H3M)
+
+
+Map Maker:
+John Holst (suserup@image.dk)
+
+
+Play-testers:
+Peter Moehr Jensen (pmohr@image.dk)
+Ejarra (raje@execpc.com)
+MADali (MADali@Mailops.com)
+Soeren Dalsberg (dalsberg@image.dk)
+Keith Williams (keith.williams@virgin.net)
+
+Special thanks to Keith for proofreading everything.
+
+
+Map version:
+HOMAM III, Armageddon's Blade, version 2.1
+
+
+Map size:
+Medium, two-level.
+
+
+Map difficulty:
+Hard.
+
+
+Player difficulty:
+Choose any at your own choice. The map maker suggests that you play the map at HARD.
+
+
+Map Type:
+Singleplayer; 1 Human Only and 7 Computer Only.
+This is a story-line based map inspired by the old Nordic mythology.
+
+
+Language:
+English.
+
+
+Description:
+Odin, aka Wodan, must travel Midgaard (Earth) and make his reputation as the mightiest of all the Nordic Gods.
+
+To prove himself worthy of the title, King of the Aesir, Odin must seek out Death God and defeat him.
+
+If you lose Odin you will not be able to win the map!
+
+
+Special Win:
+Defeat a specific hero (Death God)
+
+
+Special Loss:
+None
+
+
+Special Other:
+None.
+
+
+Narrative:
+Before the beginning of Time there was no earth, no skies, no waves, no life.
+
+To the north was the ice-cold Niflheim, and to the south was the flaming hot Muspellsheim.
+
+In between was Ginnungagap, the big empty gap.
+
+Welcome to Ginnungagap, Odin !
+
+
+One good advice:
+Read all sign posts and texts carefully.
+
+One more thing:
+There are two (or some would say three) map objects which cannot be reached. This was done on purpose.
+
+
+Cheers,
+
+Holst
+
+
+

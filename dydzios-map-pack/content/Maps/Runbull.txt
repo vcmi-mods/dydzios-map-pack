@@ -1,0 +1,28 @@
+
+                  MAP SUBMISSION
+
+Map Name:	Running with the Bulls (Runbull.h3m)
+Map Maker:	Brian Krueper
+E-Mail Address:	BKrueper@aol.com
+
+Map Type:	Multiplayer;	2 Humans, 2 Computer
+Language:	English
+
+Description:	During one of your many border skirmishes, you and
+		a much hated fellow Beastmaster are transported to
+		a totally unfamiliar area.  Perhaps now is the 
+		time to set aside past grudges and concentrate on
+		survival.  Then again...you really, really hate
+		him...
+
+Special Win:	none
+Special Loss:	none
+Special Other:	none
+
+Difficulty:	Normal
+Size:		Small
+
+Play-Testers:	Gill Posse (Community)	gpit@flash.net
+		Behemoth (Community)	heroes3@wa.onet.pl
+		Barg (Community)	barg213@aol.com
+

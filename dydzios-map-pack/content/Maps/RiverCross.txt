@@ -1,0 +1,25 @@
+
+	River Cross (v.1.03)
+
+Map size:	Large
+Player:		4
+Computer:	1-3
+Difficulty:	Normal
+Map type:	two level
+Description:	You can choose from two might (knight or Death Knight) and two magic 
+		(Heretic or wizard) heroes. You are allied with opposite type wich you are,
+		and your goal is to unite the land of River Cross under your flags.
+
+	..I'm sorry for my bad english (?). I'm only 17 and I ain't so good at english..
+	..There also may be few bugs, but you can probably send me some info about it..
+
+
+Changes from version 1.02:
+
+	Orange player deleted
+	Difficulty changed to normal
+	Rallyflag to wizards
+	
+	
+
+		My email is jesse82@artic.net, send some comments!
